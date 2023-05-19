@@ -1,0 +1,1102 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/1/intro/%d.png",
+							"Sound": "elcid1_intro",
+							"Slides": [
+								{
+									"Duration" : 18.01,
+									"TextFadeDuration" : 20.04,
+									"ImageRect": {
+										"x": 1480,
+										"y": 590,
+										"width": 1568,
+										"height": 1306
+									},
+									"String" : "Enough.  You have troubled me for three blocks now, stranger.  If you agree to cease this dogged pursuit and leave me to my lamentations, then I will answer your relentless questions.  I will tell you why a dead man rides through the streets of Valencia.",
+									"TextRect": {
+										"x": 1020,
+										"y": 350,
+										"width": 1100,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 15.23,
+									"TextFadeDuration" : 15.66,
+									"ImageRect": {
+										"x": 1380,
+										"y": 250,
+										"width": 1659,
+										"height": 1372
+									},
+									"String" : "You see that castle on the hill?  That is the home of Rodrigo Díaz, whom Moor and Christian alike call 'El Cid'.  It is from the Arabic 'sayyid' which means 'lord'.  He is the greatest man who ever lived.",
+									"TextRect": {
+										"x": 1020,
+										"y": 1210,
+										"width": 1150,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 4.36,
+									"TextFadeDuration" : 4.91,
+									"ImageRect": {
+										"x": 1180,
+										"y": 570,
+										"width": 1320,
+										"height": 1302
+									},
+									"String" : "The Cid was a knight and loyal vassal of one of the old Kings of Spain.",
+									"TextRect": {
+										"x": 1900,
+										"y": 350,
+										"width": 1020,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 29.53,
+									"TextFadeDuration" : 30.06,
+									"ImageRect": {
+										"x": 910,
+										"y": 335,
+										"width": 1462,
+										"height": 1550
+									},
+									"String" : "When the old King died, his kingdom was partitioned between his surviving sons, Sancho and Alfonso.  King Sancho ruled Castille, a windswept barren land named for its many border castles.  The Cid continued to serve Castille, and its new king, as was his duty.  The sly King Alfonso ruled Léon, but openly plotted to become king of all of Christian Spain.  There was soon open warfare between Castille and Léon.",
+									"TextRect": {
+										"x": 2360,
+										"y": 520,
+										"width": 640,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 7.92,
+									"TextFadeDuration" : 6.29,
+									"ImageRect": {
+										"x": 810,
+										"y": 330,
+										"width": 1316,
+										"height": 1537
+									},
+									"String" : "The struggle climaxed at the battle of Golpejera, where The Cid attempted to capture the wicked Alfonso.",
+									"TextRect": {
+										"x": 1650,
+										"y": 350,
+										"width": 1350,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/1/outro/%d.png",
+							"Sound": "elcid1_outro",
+							"Slides": [
+								{
+									"Duration" : 20.71,
+									"TextFadeDuration" : 18.62,
+									"ImageRect": {
+										"x": 1340,
+										"y": 545,
+										"width": 1726,
+										"height": 1358
+									},
+									"String" : "Although the Cid defeated Alfonso’s army in combat, the sly king knew there were more devious ways to win a war.  Alfonso lured his brother, King Sancho, to a secret conference below the city walls of Zamora, and had him assassinated in the night.",
+									"TextRect": {
+										"x": 1200,
+										"y": 320,
+										"width": 1640,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 7.80,
+									"TextFadeDuration" : 8.76,
+									"ImageRect": {
+										"x": 1600,
+										"y": 250,
+										"width": 1385,
+										"height": 1600
+									},
+									"String" : "With the death of his brother, Alfonso became king of both Leon and Castille -- the most powerful king in Christian Spain.",
+									"TextRect": {
+										"x": 1010,
+										"y": 800,
+										"width": 810,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 7.98,
+									"TextFadeDuration" : 8.45,
+									"ImageRect": {
+										"x": 1600,
+										"y": 500,
+										"width": 1351,
+										"height": 1372
+									},
+									"String" : "The Cid could not trust King Alfonso, yet he was sworn to serve his king, and that man was now Alfonso.",
+									"TextRect": {
+										"x": 1300,
+										"y": 350,
+										"width": 1250,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 20.34,
+									"TextFadeDuration" : 23.03,
+									"ImageRect": {
+										"x": 900,
+										"y": 660,
+										"width": 1456,
+										"height": 1194
+									},
+									"String" : "The Cid forced King Alfonso to swear an oath upon sacred relics that he had nothing to do with Sancho's death.  Before his army and his court, a nervous Alfonso did make this declaration.  In so doing, the Cid helped to cement Alfonso's claim as King in the hearts of the people, for they so trusted the Cid.",
+									"TextRect": {
+										"x": 1400,
+										"y": 350,
+										"width": 1640,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 29.94,
+									"TextFadeDuration" : 29.31,
+									"ImageRect": {
+										"x": 1460,
+										"y": 250,
+										"width": 1544,
+										"height": 1064
+									},
+									"String" : "King Alfonso did not recognize that the Cid had done him a service.  Instead, Alfonso held a grudge against the man who was the greatest of his knights for ever doubting him.  Alfonso also was jealous and suspicious of the Cid's popularity with the soldiers and the common man.  He sent the Cid into dangerous battle again and again, but always the Cid emerged victorious.",
+									"TextRect": {
+										"x": 1050,
+										"y": 1450,
+										"width": 1900,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/2/intro/%d.png",
+							"Sound": "elcid2_intro",
+							"Slides": [
+								{
+									"Duration" : 21.91,
+									"TextFadeDuration" : 23.2,
+									"ImageRect": {
+										"x": 1200,
+										"y": 610,
+										"width": 1771,
+										"height": 1271
+									},
+									"String" : "How do I know so much of my Cid, Rodrigo Díaz?  I am Ximena of Asturias, and I am the Dona of this Castle.  Rodrigo and I were married in Castille in 1075.  Those were among the happiest days of my life, at least when my husband was not being sent to do battle against the Moors."	,
+									"TextRect": {
+										"x": 1100,
+										"y": 310,
+										"width": 1790,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 24.14,
+									"TextFadeDuration" : 28.15,
+									"ImageRect": {
+										"x": 1130,
+										"y": 630,
+										"width": 1708,
+										"height": 1250
+									},
+									"String" : "Far to the East, in the Holy Land, they speak of only one Muslim Expansion -- that of the Seljuk Turks.  But here, in Spain, we speak of another -- the Moors.  The Moors ruled southern Spain for so long that Christian and Muslim often lived side by side with little animosity.  Such was the case in the City of Toledo, which was in Moorish lands, but inhabited by Christians as well.",
+									"TextRect": {
+										"x": 1100,
+										"y": 310,
+										"width": 1790,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.61,
+									"TextFadeDuration" : 12.85,
+									"ImageRect": {
+										"x": 1010,
+										"y": 240,
+										"width": 1428,
+										"height": 1631
+									},
+									"String" : "A political assassination had plunged the city of Toledo into a civil war.  Seeing a chance to expand his empire, King Alfonso struck at Toledo under the pretence of restoring order.",
+									"TextRect": {
+										"x": 2230,
+										"y": 650,
+										"width": 850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.78,
+									"TextFadeDuration" : 8.2,
+									"ImageRect": {
+										"x": 1000,
+										"y": 810,
+										"width": 1869,
+										"height": 1068
+									},
+									"String" : "He ordered the Cid to command the army, though one must wonder if once again he was intentionally putting the Cid in harm's way.",
+									"TextRect": {
+										"x": 1400,
+										"y": 540,
+										"width": 1100,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/2/outro/%d.png",
+							"Sound": "elcid2_outro",
+							"Slides": [
+								{
+									"Duration" : 19.96,
+									"TextFadeDuration" : 23.46,
+									"ImageRect": {
+										"x": 930,
+										"y": 250,
+										"width": 1229,
+										"height": 1624
+									},
+									"String" : "Once again, the Cid emerged victorious, and delivered the city to King Alfonso.  Moor and Christian alike shouted his name from the city walls, and named him El Cid Campeador -- my lord, the conqueror.  After nearly 400 years of Moorish rule, the city of Toledo was ruled by a Christian king.",
+									"TextRect": {
+										"x": 2130,
+										"y": 700,
+										"width": 920,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 21.44,
+									"TextFadeDuration" : 21.27,
+									"ImageRect": {
+										"x": 1350,
+										"y": 730,
+										"width": 1218,
+										"height": 1155
+									},
+									"String" : "But still Alfonso was not satisfied!  He accused the Cid of seeking personal glory at the expense of the crown.  When he heard the peasants shouting the name of the Cid instead of Alfonso's own name, he became even more angered.  I knew then that our contented lives in Castille were about to end.",
+									"TextRect": {
+										"x": 1200,
+										"y": 350,
+										"width": 1600,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/3/intro/%d.png",
+							"Sound": "elcid3_intro",
+							"Slides": [
+								{
+									"Duration" : 17.85,
+									"TextFadeDuration" : 16.05,
+									"ImageRect": {
+										"x": 1410,
+										"y": 670,
+										"width": 1603,
+										"height": 1211
+									},
+									"String" : "King Alfonso sent his most loyal and able servant, Rodrigo Díaz, the Cid, into exile with only his horse, Bavieca.  Myself and our two daughters were left at the monastery in Castille.",
+									"TextRect": {
+										"x": 1200,
+										"y": 420,
+										"width": 1180,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 10.90,
+									"TextFadeDuration" : 9.59,
+									"ImageRect": {
+										"x": 940,
+										"y": 750,
+										"width": 1995,
+										"height": 1134
+									},
+									"String" : "When Rodrigo and I parted, it felt like a nail being torn from its finger.  Rodrigo rode alone into the Castillian winter.",
+									"TextRect": {
+										"x": 1450,
+										"y": 420,
+										"width": 1100,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.55,
+									"TextFadeDuration" : 16.05,
+									"ImageRect": {
+										"x": 950,
+										"y": 410,
+										"width": 2082,
+										"height": 1474
+									},
+									"String" : "He was not alone for long.  Everywhere the Cid went, mercenaries and soldiers were eager to follow.  Soon, he had a small army of his own.  But the Cid was not content to wander the wilds of Castille forever.",
+									"TextRect": {
+										"x": 1380,
+										"y": 350,
+										"width": 1200,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 12.43,
+									"TextFadeDuration" : 7.96,
+									"ImageRect": {
+										"x": 1120,
+										"y": 1000,
+										"width": 1806,
+										"height": 805
+									},
+									"String" : "He needed a castle and a lord to serve.  This too, he found, in the most unlikely of places. ",
+									"TextRect": {
+										"x": 1200,
+										"y": 560,
+										"width": 1400,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/3/outro/%d.png",
+							"Sound": "elcid3_outro",
+							"Slides": [
+								{
+									"Duration" : 14.39,
+									"TextFadeDuration" : 16.56,
+									"ImageRect": {
+										"x": 930,
+										"y": 450,
+										"width": 1148,
+										"height": 1428
+									},
+									"String" : "Motamid, Lord of Zaragoza, was a gifted leader of men, but like many of the Moors, he was also a poet and artist.  The cultural achievements of the Moors made the rest of Europe seem barbaric by comparison.",
+									"TextRect": {
+										"x": 2100,
+										"y": 760,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.57,
+									"TextFadeDuration" : 14.41,
+									"ImageRect": {
+										"x": 1050,
+										"y": 700,
+										"width": 1264,
+										"height": 1183
+									},
+									"String" : "As the Cid parlayed with Lord Motamid in his sumptuous palace, he feasted on meals that came floating down an indoor stream.  Motamid bestowed rich gifts on the Cid, and made him a wealthy man.  ",
+									"TextRect": {
+										"x": 1240,
+										"y": 350,
+										"width": 1390,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.60,
+									"TextFadeDuration" : 9.39,
+									"ImageRect": {
+										"x": 1290,
+										"y": 990,
+										"width": 1302,
+										"height": 910
+									},
+									"String" : "But the Cid, ever the loyal servant of Castille, convinced Motamid to ratify a treaty, making Zaragoza part of Castille.",
+									"TextRect": {
+										"x": 1380,
+										"y": 550,
+										"width": 1380,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 23.70,
+									"TextFadeDuration" : 20.68,
+									"ImageRect": {
+										"x": 870,
+										"y": 320,
+										"width": 1775,
+										"height": 1292
+									},
+									"String" : "The Cid never fought openly against King Alfonso, though he did make enemies with Count Berenguer and other Spanish lords who wanted only tributes of gold from the Moors and were not interested in making alliances with them.  Count Berenguer would remain the Cid's enemy for many years.",
+									"TextRect": {
+										"x": 1080,
+										"y": 1600,
+										"width": 1740,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/4/intro/%d.png",
+							"Sound": "elcid4_intro",
+							"Slides": [
+								{
+									"Duration" : 13.37,
+									"TextFadeDuration" : 14.89,
+									"ImageRect": {
+										"x": 1140,
+										"y": 980,
+										"width": 1722,
+										"height": 903
+									},
+									"String" : "King Alfonso watched with alarm as the combined Christian - Moorish forces of the Cid gained power and prestige.  Finally, he could stand it no longer, and sent his own army against Motamid’s Moors at Zaragoza.",
+									"TextRect": {
+										"x": 1340,
+										"y": 350,
+										"width": 1370,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 11.36,
+									"TextFadeDuration" : 10.92,
+									"ImageRect": {
+										"x": 1150,
+										"y": 800,
+										"width": 1897,
+										"height": 1078
+									},
+									"String" : "As much as he would have liked to come to the assistance of his friend Motamid, the Cid could not draw steel against King Alfonso, as he was still the Cid's rightful lord.",
+									"TextRect": {
+										"x": 1060,
+										"y": 720,
+										"width": 1070,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 12.00,
+									"TextFadeDuration" : 14.21,
+									"ImageRect": {
+										"x": 1310,
+										"y": 370,
+										"width": 1715,
+										"height": 1491
+									},
+									"String" : "Since the Cid could not assist him, Motamid was forced to seek help elsewhere.  When he contacted the Berbers who lived beyond the sea in Gibraltar, however, he received more than he bargained for.",
+									"TextRect": {
+										"x": 1040,
+										"y": 350,
+										"width": 1490,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 6.34,
+									"TextFadeDuration" : 6.67,
+									"ImageRect": {
+										"x": 870,
+										"y": 590,
+										"width": 2155,
+										"height": 1302
+									},
+									"String" : "These veiled religious zealots waged a continuous jihad across the barren dunes of the Sahara.",
+									"TextRect": {
+										"x": 1300,
+										"y": 350,
+										"width": 1350,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 15.98,
+									"TextFadeDuration" : 17.09,
+									"ImageRect": {
+										"x": 950,
+										"y": 250,
+										"width": 1988,
+										"height": 1449
+									},
+									"String" : "Their leader, the fanatical Yusuf who never showed his face, immediately prepared to cross the ocean into Spain with thousands of men and camels.  King Alfonso's army was certain to crumble beneath this new wave of invaders. ",
+									"TextRect": {
+										"x": 1020,
+										"y": 1650,
+										"width": 1820,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/4/outro/%d.png",
+							"Sound": "elcid4_outro",
+							"Slides": [
+								{
+									"Duration" : 15.32,
+									"TextFadeDuration" : 15.7,
+									"ImageRect": {
+										"x": 930,
+										"y": 520,
+										"width": 1348,
+										"height": 1365
+									},
+									"String" : "Alfonso needed only have mentioned that Spain was in jeopardy, and the Cid would have come!  And when the Cid did finally come to his king's aid, the Berbers were crushed, and their leader, Yusuf, was forced to flee back to Africa.",
+									"TextRect": {
+										"x": 1060,
+										"y": 350,
+										"width": 1790,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 13.00,
+									"TextFadeDuration" : 14.38,
+									"ImageRect": {
+										"x": 1830,
+										"y": 360,
+										"width": 1033,
+										"height": 1372
+									},
+									"String" : "The Cid bowed to Alfonso, ready to return to his rightful place as the king's champion.  But King Alfonso was angered that the Cid had not arrived sooner and ordered him to return to his exile.",
+									"TextRect": {
+										"x": 1230,
+										"y": 1700,
+										"width": 1500,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.23,
+									"TextFadeDuration" : 8.91,
+									"ImageRect": {
+										"x": 910,
+										"y": 160,
+										"width": 1596,
+										"height": 1726
+									},
+									"String" : "This time he seized the Cid's wife and children.  Many long years did I rot in the dungeons of Castille.",
+									"TextRect": {
+										"x": 1300,
+										"y": 350,
+										"width": 1260,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/5/intro/%d.png",
+							"Sound": "elcid5_intro",
+							"Slides": [
+								{
+									"Duration" : 12.07,
+									"TextFadeDuration" : 14.36,
+									"ImageRect": {
+										"x": 1110,
+										"y": 690,
+										"width": 1778,
+										"height": 1201
+									},
+									"String" : "The Cid was in exile again, and this time there were no Moors to welcome him in.  He wandered the bleak rocks of Castille and wondered if his tale was finally at an end.  ",
+									"TextRect": {
+										"x": 1380,
+										"y": 350,
+										"width": 1240,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 22.80,
+									"TextFadeDuration" : 24.8,
+									"ImageRect": {
+										"x": 1030,
+										"y": 830,
+										"width": 1932,
+										"height": 1036
+									},
+									"String" : "And yet, a remarkable thing happened.  Many mercenaries and knights knew of the tales of the Cid, and were eager to follow him, even without a castle.  As the Cid wandered further south, more men, Christian and Moslem, joined his army.  Eventually, the Cid had a large enough force to carve out a fiefdom of his own.",
+									"TextRect": {
+										"x": 1380,
+										"y": 350,
+										"width": 1240,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.86,
+									"TextFadeDuration" : 9.92,
+									"ImageRect": {
+										"x": 1080,
+										"y": 350,
+										"width": 1939,
+										"height": 1197
+									},
+									"String" : "King Alfonso had set his sights on beautiful Valencia, the jewel of the Moorish coast.  But the Cid was closer and could get there sooner.",
+									"TextRect": {
+										"x": 1350,
+										"y": 1600,
+										"width": 1450,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.79,
+									"TextFadeDuration" : 12.2,
+									"ImageRect": {
+										"x": 1050,
+										"y": 480,
+										"width": 1796,
+										"height": 1404
+									},
+									"String" : "If he conquered Valencia, the Cid would have protection not only from the machinations of Alfonso, but also a bulwark against the inevitable second invasion of Yusuf and the Berbers.",
+									"TextRect": {
+										"x": 1250,
+										"y": 320,
+										"width": 1460,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.36,
+									"TextFadeDuration" : 9.88,
+									"ImageRect": {
+										"x": 1870,
+										"y": 440,
+										"width": 1019,
+										"height": 1299
+									},
+									"String" : "Events would have unfolded simply then, had not our old enemy, Count Berenguer of Barcelona, picked that moment to strike back at the Cid.",
+									"TextRect": {
+										"x": 940,
+										"y": 680,
+										"width": 970,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/5/outro/%d.png",
+							"Sound": "elcid5_outro",
+							"Slides": [
+								{
+									"Duration" : 13.48,
+									"TextFadeDuration" : 16.97,
+									"ImageRect": {
+										"x": 1210,
+										"y": 870,
+										"width": 1673,
+										"height": 984
+									},
+									"String" : "How abundant the orange groves and olive trees seemed to the conquerors who had come from bleak Castille.  Valencia was a tropical paradise, complete with palm trees, a silk market and abundant fish and waterfowl.",
+									"TextRect": {
+										"x": 1280,
+										"y": 350,
+										"width": 1540,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.72,
+									"TextFadeDuration" : 15.5,
+									"ImageRect": {
+										"x": 1390,
+										"y": 955,
+										"width": 1155,
+										"height": 749
+									},
+									"String" : "After the Cid had secured the castle and saw to the defenses of the city, he sent for me and the children.  Our reunion took place on the highest tower of the castle, before a sea that consumed the entire horizon.",
+									"TextRect": {
+										"x": 1280,
+										"y": 350,
+										"width": 1540,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.86,
+									"TextFadeDuration" : 12.17,
+									"ImageRect": {
+										"x": 1690,
+										"y": 550,
+										"width": 1288,
+										"height": 1327
+									},
+									"String" : "We turned Valencia into our own kingdom, uniting eight-thousand Christian and twenty-thousand Moorish soldiers.  It was the greatest of the Cid’s accomplishments to date.",
+									"TextRect": {
+										"x": 1350,
+										"y": 350,
+										"width": 1240,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.69,
+									"TextFadeDuration" : 17.23,
+									"ImageRect": {
+										"x": 1900,
+										"y": 260,
+										"width": 1110,
+										"height": 1614
+									},
+									"String" : "We were far away from the reach of King Alfonso, and Count Berenguer himself was safely locked in Valencia’s dungeons.  In time, he would be ransomed, and one of our daughters married to his nephew and heir, to ward against future conflicts.",
+									"TextRect": {
+										"x": 1000,
+										"y": 700,
+										"width": 970,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 16.07,
+									"TextFadeDuration" : 14.32,
+									"ImageRect": {
+										"x": 1820,
+										"y": 230,
+										"width": 1236,
+										"height": 1684
+									},
+									"String" : "If only the tale of the Cid had ended there, beneath the Valencian sunsets.  But it was not to be. Valencia lay right in the path of the advancing horde of frenzied Yusuf and his Berber hordes.",
+									"TextRect": {
+										"x": 1000,
+										"y": 700,
+										"width": 970,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/6/intro/%d.png",
+							"Sound": "elcid6_intro",
+							"Slides": [
+								{
+									"Duration" : 18.76,
+									"TextFadeDuration" : 19.75,
+									"ImageRect": {
+										"x": 910,
+										"y": 890,
+										"width": 1901,
+										"height": 1001
+									},
+									"String" : "We were trapped and alone in our kingdom of Valencia.  The Cid immediately sent out messages for potential allies, but there were few to be found.  The Christian kingdom of Aragon was too far away, and King Alfonso of Castille seemed in no hurry to come to the Cid's defense.",
+									"TextRect": {
+										"x": 1430,
+										"y": 350,
+										"width": 1200,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 11.33,
+									"TextFadeDuration" : 13.21,
+									"ImageRect": {
+										"x": 910,
+										"y": 850,
+										"width": 1638,
+										"height": 1131
+									},
+									"String" : "Even the Cid's old ally, Motamid the Moor, was of no avail.  Yusuf had sent him into exile in the Sahara Desert, where he spent the rest of his sad days composing poetry.",
+									"TextRect": {
+										"x": 1920,
+										"y": 350,
+										"width": 1040,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 14.11,
+									"TextFadeDuration" : 16.34,
+									"ImageRect": {
+										"x": 1965,
+										"y": 380,
+										"width": 1005,
+										"height": 1386
+									},
+									"String" : "The Berbers rode around the city for ten days and nights, shrieking and banging their weapons on shields made of hippopotamus hide.  But the Cid comforted his troops, prayed and planned a counterattack.",
+									"TextRect": {
+										"x": 1000,
+										"y": 800,
+										"width": 1000,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 18.20,
+									"TextFadeDuration" : 23.17,
+									"ImageRect": {
+										"x": 910,
+										"y": 760,
+										"width": 1456,
+										"height": 1127
+									},
+									"String" : "And then the unthinkable happened.  During a brilliant surprise attack to capture gold and horses from the Berbers, Rodrigo Díaz, my Cid, was shot by a stray arrow.  The surprise attack became a rout, and the Cid's men barely made it back to the castle with his broken body.",
+									"TextRect": {
+										"x": 1810,
+										"y": 350,
+										"width": 1120,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 10.95,
+									"TextFadeDuration" : 13.84,
+									"ImageRect": {
+										"x": 920,
+										"y": 330,
+										"width": 1442,
+										"height": 1530
+									},
+									"String" : "Rodrigo and I knew he would not last the night.  But we also knew that without their Cid to lead them, the soldiers of Valencia would never have the strength to stand against the Berbers.  ",
+									"TextRect": {
+										"x": 1750,
+										"y": 350,
+										"width": 1150,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.35,
+									"TextFadeDuration" : 15.11,
+									"ImageRect": {
+										"x": 1720,
+										"y": 630,
+										"width": 1393,
+										"height": 1260
+									},
+									"String" : "So it was that even as he breathed his last breath, I strapped my husband onto his horse, Bavieca, and placed his sword, Tizon, in his hand. Bavieca stood out above the city of Valencia.",
+									"TextRect": {
+										"x": 1050,
+										"y": 350,
+										"width": 1050,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 8.01,
+									"TextFadeDuration" : 8.64,
+									"ImageRect": {
+										"x": 1010,
+										"y": 190,
+										"width": 1498,
+										"height": 1712
+									},
+									"String" : "My one hope was that the men would not realize the charade -- realize that their Cid was already dead.",
+									"TextRect": {
+										"x": 1950,
+										"y": 350,
+										"width": 900,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam2/elcid_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam2/6/outro/%d.png",
+							"Sound": "elcid6_outro",
+							"Slides": [
+								{
+									"Duration" : 7.24,
+									"TextFadeDuration" : 8.47,
+									"ImageRect": {
+										"x": 1080,
+										"y": 550,
+										"width": 1971,
+										"height": 1334
+									},
+									"String" : "It was the twilight of Moorish Spain.  The Berber army had been broken and Valencia withstood the siege.",
+									"TextRect": {
+										"x": 1300,
+										"y": 350,
+										"width": 1420,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 9.93,
+									"TextFadeDuration" : 12.44,
+									"ImageRect": {
+										"x": 835,
+										"y": 250,
+										"width": 1365,
+										"height": 1313
+									},
+									"String" : "King Alfonso would not allow us to bury the Cid until he could personally attend the funeral.  When he arrived, he dispelled all thoughts of interring the Cid into the earth.",
+									"TextRect": {
+										"x": 1130,
+										"y": 1620,
+										"width": 1590,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.35,
+									"TextFadeDuration" : 17.24,
+									"ImageRect": {
+										"x": 1430,
+										"y": 710,
+										"width": 1635,
+										"height": 1180
+									},
+									"String" : "Instead, the Cid's body was preserved and placed near the altar of the church, seated on an ivory stool that he had captured from the Moors, clothed in precious silk, and holding his sword, Tizon, in his left hand.",
+									"TextRect": {
+										"x": 1300,
+										"y": 350,
+										"width": 1350,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.05,
+									"TextFadeDuration" : 11.32,
+									"ImageRect": {
+										"x": 1050,
+										"y": 740,
+										"width": 1918,
+										"height": 1166
+									},
+									"String" : "And who was left to rule in Valencia?  King Alfonso of Castille or Count Berenguer of Barcelona?  No.  Valencia is mine.  ",
+									"TextRect": {
+										"x": 1350,
+										"y": 520,
+										"width": 1270,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 19.38,
+									"TextFadeDuration" : 18.02,
+									"ImageRect": {
+										"x": 960,
+										"y": 220,
+										"width": 1131,
+										"height": 1740
+									},
+									"String" : "It is I, Ximena Díaz who claims rulership of my dead husband's kingdom.  And if the Berbers return to Valencia, it is I whom they shall find commanding the soldiers of Rodrigo Díaz, El Cid Campeador!",
+									"TextRect": {
+										"x": 2080,
+										"y": 640,
+										"width": 850,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

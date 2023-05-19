@@ -1,0 +1,49 @@
+(defrule
+(or	(taunt-detected my-player-number 208)
+(or	(taunt-detected any-ally 208)
+	(game-time > 120)))
+=>
+	(up-jump-rule 5))
+(defrule
+	(true)
+=>
+	(up-get-fact player-number 0 temporary-goal)
+	(up-modify-goal temporary-goal c:* 10)
+	(up-modify-goal temporary-goal c:+ 20)
+	(up-store-player-name 1))
+(defrule
+	(players-stance 1 ally)
+	(up-compare-goal gl-random-number >= 51)
+	(up-compare-goal gl-game-time g:>= temporary-goal)
+=>
+	(up-chat-data-to-player-using-id every-human 22323 c: 7031232); "%s, thou hast proven thyself a worthy foe! Now, I am much relieved to have thee as mine ally in the coming battle."
+	(chat-to-player my-player-number "208")
+	(chat-to-player every-computer "208")
+	(disable-self))
+(defrule
+	(players-stance 1 ally)
+	(up-compare-goal gl-random-number <= 50)
+	(up-compare-goal gl-game-time g:>= temporary-goal)
+=>
+	(up-chat-data-to-player-using-id every-human 22324 c: 7031232); "I am gladdened to see thee on my side, %s. Together we shall hew down the fiends standing against us!"
+	(chat-to-player my-player-number "208")
+	(chat-to-player every-computer "208")
+	(disable-self))
+(defrule
+(not	(players-stance 1 ally))
+	(up-compare-goal gl-random-number >= 51)
+	(up-compare-goal gl-game-time g:>= temporary-goal)
+=>
+	(up-chat-data-to-player-using-id every-human 22325 c: 7031232); "Thou wast verily fortunate to triumph during our last battle, %s. This time, thou shalt bend the knee!"
+	(chat-to-player my-player-number "208")
+	(chat-to-player every-computer "208")
+	(disable-self))
+(defrule
+(not	(players-stance 1 ally))
+	(up-compare-goal gl-random-number <= 50)
+	(up-compare-goal gl-game-time g:>= temporary-goal)
+=>
+	(up-chat-data-to-player-using-id every-human 22326 c: 7031232); "Thou hast proven thyself a worthy foe! %s, this time I shall lay waste to thine lands instead!"
+	(chat-to-player my-player-number "208")
+	(chat-to-player every-computer "208")
+	(disable-self))

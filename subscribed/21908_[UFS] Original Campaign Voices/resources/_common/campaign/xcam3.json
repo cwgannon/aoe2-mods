@@ -1,0 +1,1170 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/1/intro/%d.png",
+							"Sound": "montezuma1_intro",
+							"Slides": [
+								{
+									"Duration" : 24.70,
+									"TextFadeDuration" : 23.78,
+									"ImageRect": {
+										"x": 800,
+										"y": 305,
+										"width": 1614,
+										"height": 1194
+									},
+									"String" : "Passed down to you by Cuauhtemoc, Eagle Warrior of Tenochtitlan.  An omen appeared above the forest, the shape of an ear of corn, but blazing like daybreak.  It seemed to bleed fire, drop by drop, like a wound in the sky.  I am a warrior, not a priest, and knew not what to make of such a sign.",
+									"TextRect": {
+										"x": 1700,
+										"y": 1250,
+										"width": 1220,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.30,
+									"TextFadeDuration" : 14.65,
+									"ImageRect": {
+										"x": 1580,
+										"y": 530,
+										"width": 1460,
+										"height": 1302
+									},
+									"String" : "I consulted with the seers and magicians to see if another great war was coming, but they answered only in riddles.  'The gods want more sacrifice,' was their answer.  That was always their answer.",
+									"TextRect": {
+										"x": 1000,
+										"y": 400,
+										"width": 1530,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 13.37,
+									"TextFadeDuration" : 12.43,
+									"ImageRect": {
+										"x": 835,
+										"y": 650,
+										"width": 2242,
+										"height": 1285
+									},
+									"String" : "Much of our empire of rain forests and volcanoes has been conquered in the name of sacrifice.  The magicians tell us that we must make a sacrifice every single day for the sun to continue to rise.",
+									"TextRect": {
+										"x": 1840,
+										"y": 650,
+										"width": 1220,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 16.16,
+									"TextFadeDuration" : 12.93,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 949,
+										"height": 1313
+									},
+									"String" : "It took the relay teams two full days to carry my message the two hundred miles to our city of Tenochtitlan.  After two more days, my uncle, Montezuma, emperor of the Aztecs, sent his reply.",
+									"TextRect": {
+										"x": 1800,
+										"y": 650,
+										"width": 1020,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 10.40,
+									"TextFadeDuration" : 8.92,
+									"ImageRect": {
+										"x": 1330,
+										"y": 530,
+										"width": 1771,
+										"height": 1288
+									},
+									"String" : "Montezuma's priests foretold that the god Quetzalcoatl might soon return from his long exile.  How else to explain the omen?",
+									"TextRect": {
+										"x": 930,
+										"y": 400,
+										"width": 1180,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.30,
+									"TextFadeDuration" : 12.98,
+									"ImageRect": {
+										"x": 890,
+										"y": 440,
+										"width": 749,
+										"height": 1432
+									},
+									"String" : "Montezuma ordered my warriors to increase their efforts to consolidate the rain forest between our lands and those of our enemies. We must establish control over four shrines that are sacred to Quetzalcoatl, the feathered serpent.",
+									"TextRect": {
+										"x": 1500,
+										"y": 400,
+										"width": 1220,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 20.38,
+									"TextFadeDuration" : 11.5,
+									"ImageRect": {
+										"x": 1470,
+										"y": 690,
+										"width": 1621,
+										"height": 1218
+									},
+									"String" : "Because the Aztec Empire is mighty and constantly expands, we have made many enemies. We must defend these shrines from our enemies in order to prepare for Quetzalcoatl's eventual return.",
+									"TextRect": {
+										"x": 970,
+										"y": 400,
+										"width": 1640,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/1/outro/%d.png",
+							"Sound": "montezuma1_outro",
+							"Slides": [
+								{
+									"Duration" : 15.21,
+									"TextFadeDuration" : 15.71,
+									"ImageRect": {
+										"x": 1310,
+										"y": 490,
+										"width": 1761,
+										"height": 1365
+									},
+									"String" : "When my warriors had captured the shrines and defeated the Xochimilco and Tlatiluco, we made the long journey back to Tenochtitlan, laden with gifts for Emperor Montezuma: jade, feathers, and of course, prisoners.",
+									"TextRect": {
+										"x": 1000,
+										"y": 450,
+										"width": 1020,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 7.07,
+									"TextFadeDuration" : 6.76,
+									"ImageRect": {
+										"x": 1580,
+										"y": 600,
+										"width": 1505,
+										"height": 1253
+									},
+									"String" : "The sheer vastness of our city on the lake seemed staggering after having been in the rain forest for so many days.",
+									"TextRect": {
+										"x": 1340,
+										"y": 450,
+										"width": 1280,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 16.27,
+									"TextFadeDuration" : 16.0,
+									"ImageRect": {
+										"x": 960,
+										"y": 860,
+										"width": 1610,
+										"height": 1005
+									},
+									"String" : "Emperor Montezuma lives in the most sumptuous rooms of the palace with his wives and concubines.  While we spoke, he drank frothing chocolate from a golden cup.  Musicians played their drums and flutes and masked women danced.",
+									"TextRect": {
+										"x": 1180,
+										"y": 450,
+										"width": 1530,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 17.87,
+									"TextFadeDuration" : 16.51,
+									"ImageRect": {
+										"x": 1430,
+										"y": 560,
+										"width": 1631,
+										"height": 1292
+									},
+									"String" : "When my uncle, Montezuma, first ascended the great pyramid many years ago to become emperor, there was a great celebration.  Yet now some question his leadership.  He sometimes makes decisions slowly, and rarely does he lead the warriors into combat.",
+									"TextRect": {
+										"x": 1020,
+										"y": 400,
+										"width": 1760,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 22.73,
+									"TextFadeDuration" : 21.03,
+									"ImageRect": {
+										"x": 1040,
+										"y": 430,
+										"width": 959,
+										"height": 910
+									},
+									"String" : "Montezuma's priests informed us that Quetzalcoatl, the feathered serpent, would soon return to Tenochtitlan to reclaim his kingdom.  Since I helped prepare for his coming, I was given a new obsidian macana, and promoted to the rank of Jaguar Warrior.  There was more feasting and dancing that night.  The air was heavy with perfume.",
+									"TextRect": {
+										"x": 1800,
+										"y": 1200,
+										"width": 1060,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 16.45,
+									"TextFadeDuration" : 14.87,
+									"ImageRect": {
+										"x": 1870,
+										"y": 400,
+										"width": 1197,
+										"height": 1453
+									},
+									"String" : "But I noticed as I walked down the steps of the emperor's palace that the omen still hung heavily over the lake, spraying sparks over the midnight sky.  So says Cuauhtemoc, Jaguar Warrior of Tenochtitlan.",
+									"TextRect": {
+										"x": 950,
+										"y": 450,
+										"width": 1140,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/2/intro/%d.png",
+							"Sound": "montezuma2_intro",
+							"Slides": [
+								{
+									"Duration" : 23.03,
+									"TextFadeDuration" : 22.54,
+									"ImageRect": {
+										"x": 885,
+										"y": 675,
+										"width": 1523,
+										"height": 1190
+									},
+									"String" : "Passed down to you by Cuauhtemoc, Jaguar Warrior of Tenochtitlan.  The gods were still uneasy, for that same year, another omen appeared.  The temple of the demon Huitzlopochtli burst suddenly into flame, although it was made of stone.  When the people hurried to pour water on the fire, it burned with even greater violence.",
+									"TextRect": {
+										"x": 980,
+										"y": 400,
+										"width": 1900,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 19.88,
+									"TextFadeDuration" : 17.91,
+									"ImageRect": {
+										"x": 1740,
+										"y": 515,
+										"width": 1274,
+										"height": 1103
+									},
+									"String" : "I asked our emperor Montezuma what we needed to do to appease the gods.  His haughty priests made the predictable reply.  The Aztec Empire needed more prisoners.  The sun god and the rain god and even the feathered serpent, Quetzalcoatl, were angry deities that required sacrifice.",
+									"TextRect": {
+										"x": 980,
+										"y": 750,
+										"width": 820,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 13.54,
+									"TextFadeDuration" : 12.42,
+									"ImageRect": {
+										"x": 1600,
+										"y": 375,
+										"width": 1561,
+										"height": 1467
+									},
+									"String" : "Our city-state of Tenochtitlan is allied with two others, together composing the Triple Alliance.  Montezuma intended for the Triple Alliance to attack our long time enemies, the Tlaxcala.",
+									"TextRect": {
+										"x": 920,
+										"y": 500,
+										"width": 1020,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.82,
+									"TextFadeDuration" : 15.07,
+									"ImageRect": {
+										"x": 1725,
+										"y": 505,
+										"width": 1341,
+										"height": 1334
+									},
+									"String" : "I sent the traditional shield, arrows and cloaks to the Tlaxcala, declaring to them that they would soon be attacked.  Then we marched out into the forests, our jaguar and eagle banners ready to clash with the heron banners of the Tlaxcala.",
+									"TextRect": {
+										"x": 920,
+										"y": 750,
+										"width": 820,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 8.40,
+									"TextFadeDuration" : 6.81,
+									"ImageRect": {
+										"x": 840,
+										"y": 600,
+										"width": 1278,
+										"height": 1271
+									},
+									"String" : "Birds in the rain forest canopy took to the sky, eager to be away from the violence that was to come.",
+									"TextRect": {
+										"x": 1330,
+										"y": 400,
+										"width": 1680,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/2/outro/%d.png",
+							"Sound": "montezuma2_outro",
+							"Slides": [
+								{
+									"Duration" : 16.99,
+									"TextFadeDuration" : 16.98,
+									"ImageRect": {
+										"x": 1300,
+										"y": 780,
+										"width": 1610,
+										"height": 1152
+									},
+									"String" : "The first messengers to arrive in Tenochtitlan told of mountains or towers that floated on the sea.  Each story told to Montezuma was more fantastic than the last: They could fire stone balls, shooting sparks and raining fire that could crack open weapons.",
+									"TextRect": {
+										"x": 1160,
+										"y": 420,
+										"width": 1760,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 16.99,
+									"TextFadeDuration" : 14.68,
+									"ImageRect": {
+										"x": 1490,
+										"y": 740,
+										"width": 1610,
+										"height": 1152
+									},
+									"String" : "Huge deer with no antlers carried these gods on their backs.  Their swords were iron, their bows were iron, their shields were iron, their clothes were iron.  Surely this was the return of Quetzalcoatl!",
+									"TextRect": {
+										"x": 1160,
+										"y": 420,
+										"width": 1760,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.46,
+									"TextFadeDuration" : 16.36,
+									"ImageRect": {
+										"x": 920,
+										"y": 800,
+										"width": 1369,
+										"height": 1078
+									},
+									"String" : "Montezuma heard these reports with growing alarm, as he shifted nervously on the icpalli, his legless throne.  He ordered expensive gifts to be sent to the new arrivals, in the hopes that Quetzalcoatl would spare Montezuma, when the feathered serpent came to Tenochtitlan.",
+									"TextRect": {
+										"x": 1660,
+										"y": 420,
+										"width": 1360,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.35,
+									"TextFadeDuration" : 18.52,
+									"ImageRect": {
+										"x": 990,
+										"y": 370,
+										"width": 812,
+										"height": 1449
+									},
+									"String" : "'He has come back,' Montezuma whispered to me.  'He seeks his place on the throne, for that is what he promised when he departed.'  I held my weapons tightly but said nothing.  How could I challenge the word of our emperor?  So says Cuauhtemoc, Jaguar Warrior of Tenochtitlan.",
+									"TextRect": {
+										"x": 1750,
+										"y": 840,
+										"width": 1150,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/3/intro/%d.png",
+							"Sound": "montezuma3_intro",
+							"Slides": [
+								{
+									"Duration" : 19.99,
+									"TextFadeDuration" : 17.86,
+									"ImageRect": {
+										"x": 1470,
+										"y": 500,
+										"width": 1113,
+										"height": 868
+									},
+									"String" : "Passed down to you by Cuauhtemoc, Jaguar Warrior of Tenochtitlan.  Another omen.  The lake around the great city of Tenochtitlan rose and boiled.  It foamed until it washed against the houses of the city, sweeping many of them into the lake.",
+									"TextRect": {
+										"x": 1080,
+										"y": 1480,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.74,
+									"TextFadeDuration" : 14.12,
+									"ImageRect": {
+										"x": 920,
+										"y": 520,
+										"width": 1075,
+										"height": 1365
+									},
+									"String" : "I accompanied our dignitaries to meet with the new arrivals.  We journeyed towards the coast, through the lands of our enemies the Tlaxcala.  When we emerged from the forest, the strangers welcomed us, although they kept their weapons nearby.",
+									"TextRect": {
+										"x": 1880,
+										"y": 680,
+										"width": 940,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 21.64,
+									"TextFadeDuration" : 19.55,
+									"ImageRect": {
+										"x": 1240,
+										"y": 1120,
+										"width": 1456,
+										"height": 763
+									},
+									"String" : "I told them that we were Aztecs, representatives of the great Montezuma.  Their leader said that his people were Spanish and he named himself Cortéz, although he seemed pleased when we referred to him as Quetzalcoatl.  Although their armor and animals seemed other-worldly, they did not seem like gods to me.",
+									"TextRect": {
+										"x": 1240,
+										"y": 400,
+										"width": 1440,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 12.81,
+									"TextFadeDuration" : 12.6,
+									"ImageRect": {
+										"x": 1810,
+										"y": 570,
+										"width": 1036,
+										"height": 1299
+									},
+									"String" : "We presented Cortéz gifts of finest cotton and plumes of bird feathers, but he seemed more interested in the gold ornaments.  He asked again and again if there was more gold to be found in Tenochtitlan.",
+									"TextRect": {
+										"x": 1030,
+										"y": 720,
+										"width": 1180,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 26.87,
+									"TextFadeDuration" : 20.46,
+									"ImageRect": {
+										"x": 850,
+										"y": 280,
+										"width": 1663,
+										"height": 1225
+									},
+									"String" : "By now, Cortéz had advanced all the way to the lands of the Tlaxcala.  There was initial warfare made between Tlaxcala and the Spanish.  However, when Cortéz heard stories about the size of Tenochtitlan, and the numbers of our brave Aztec warriors, he suggested that the Spanish and Tlaxcala join forces and attack the Aztecs.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1480,
+										"width": 1870,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/3/outro/%d.png",
+							"Sound": "montezuma3_outro",
+							"Slides": [
+								{
+									"Duration" : 19.68,
+									"TextFadeDuration" : 20.13,
+									"ImageRect": {
+										"x": 1840,
+										"y": 530,
+										"width": 1173,
+										"height": 1323
+									},
+									"String" : "Although the Aztec warriors fought well that day, my men were frightened by the beasts that the Spanish rode into combat, and by the noise of their exploding weapons.  Although we had survived the attack, I thought it best to withdraw towards Tenochtitlan, and share with Emperor Montezuma all that we had learned.",
+									"TextRect": {
+										"x": 980,
+										"y": 400,
+										"width": 980,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 14.96,
+									"TextFadeDuration" : 13.98,
+									"ImageRect": {
+										"x": 910,
+										"y": 390,
+										"width": 1071,
+										"height": 998
+									},
+									"String" : "I do not know if my uncle, Montezuma, was being cowardly or merely trying to preserve us from the wrath of the gods, but he sent more gifts to Cortéz along with an invitiation to visit our great city as his personal guest.",
+									"TextRect": {
+										"x": 1250,
+										"y": 1460,
+										"width": 1720,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 20.74,
+									"TextFadeDuration" : 20.19,
+									"ImageRect": {
+										"x": 1730,
+										"y": 540,
+										"width": 1274,
+										"height": 1239
+									},
+									"String" : "I was there when Montezuma met Cortéz on one of the causeways leading into our great city.  The Spanish had evidently never seen anything like Tenochtitlan, and they stared in wonder at the brightly colored markets and pyramids rising out of a man-made island in the middle of gigantic Lake Texcoco.",
+									"TextRect": {
+										"x": 940,
+										"y": 420,
+										"width": 1400,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 10.37,
+									"TextFadeDuration" : 8.19,
+									"ImageRect": {
+										"x": 870,
+										"y": 790,
+										"width": 1397,
+										"height": 1099
+									},
+									"String" : "Some of the Spanish soldiers asked whether it was all a dream, the first glimpse of things never heard, seen or dreamed before.",
+									"TextRect": {
+										"x": 1310,
+										"y": 420,
+										"width": 1410,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 26.31,
+									"TextFadeDuration" : 22.0,
+									"ImageRect": {
+										"x": 1850,
+										"y": 535,
+										"width": 1250,
+										"height": 1278
+									},
+									"String" : "Montezuma led Cortéz at the top of the Great Pyramid, where he pointed out the various canals and neighborhoods of the city.  But Cortéz was mostly interested in gold ornaments, and helped himself to any which he encountered.  I was no longer convinced that this man was Quetzalcoatl.  So says Cuauhtemoc, Jaguar Warrior of Tenochtitlan.",
+									"TextRect": {
+										"x": 1000,
+										"y": 880,
+										"width": 1240,
+										"height": 700
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/4/intro/%d.png",
+							"Sound": "montezuma4_intro",
+							"Slides": [
+								{
+									"Duration" : 14.21,
+									"TextFadeDuration" : 15.48,
+									"ImageRect": {
+										"x": 810,
+										"y": 660,
+										"width": 1404,
+										"height": 1229
+									},
+									"String" : "Passed down to you by Cuauhtemoc, prisoner of Tenochtitlan.  The next omen we did not see, but heard the voice of a weeping woman who cried in the night that she could not hide her children.",
+									"TextRect": {
+										"x": 1800,
+										"y": 1000,
+										"width": 1210,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 23.68,
+									"TextFadeDuration" : 21.76,
+									"ImageRect": {
+										"x": 2060,
+										"y": 540,
+										"width": 623,
+										"height": 1327
+									},
+									"String" : "Indecision plagued Emperor Montezuma.  Was this man Quetzalcoatl, or was he just a man?  As the emperor brooded, the citizens grew restless.  Cortéz kept a close watch on the emperor, and soon Montezuma became a prisoner in his own palace.  Thus did the Spanish take Tenochtitlan without a siege.",
+									"TextRect": {
+										"x": 1080,
+										"y": 900,
+										"width": 1000,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 10.03,
+									"TextFadeDuration" : 10.41,
+									"ImageRect": {
+										"x": 1650,
+										"y": 430,
+										"width": 1365,
+										"height": 1358
+									},
+									"String" : "The Spanish collected all of the gold they could find.  They were not interested in our art or ornaments, but merely melted down the gold for return to Spain.",
+									"TextRect": {
+										"x": 1020,
+										"y": 700,
+										"width": 800,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 7.80,
+									"TextFadeDuration" : 6.61,
+									"ImageRect": {
+										"x": 1000,
+										"y": 1200,
+										"width": 1894,
+										"height": 599
+									},
+									"String" : "They also outlawed any further sacrifice to the gods.  When the priests protested, they were killed.",
+									"TextRect": {
+										"x": 1300,
+										"y": 820,
+										"width": 1420,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.45,
+									"TextFadeDuration" : 8.74,
+									"ImageRect": {
+										"x": 1040,
+										"y": 930,
+										"width": 1908,
+										"height": 959
+									},
+									"String" : "The citizens and warriors of Tenochtitlan were enraged.  We knew, even if our emperor did not, that these men were not gods.",
+									"TextRect": {
+										"x": 1350,
+										"y": 720,
+										"width": 1420,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 16.55,
+									"TextFadeDuration" : 14.91,
+									"ImageRect": {
+										"x": 910,
+										"y": 610,
+										"width": 1666,
+										"height": 1222
+									},
+									"String" : "Riots broke out in the marketplaces and at the palace.  When Montezuma himself appeared on the walls urging the Aztecs to be at peace, the people threw stones at him.  It was time to remove these so-called gods from Tenochtitlan!",
+									"TextRect": {
+										"x": 1780,
+										"y": 800,
+										"width": 1040,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/4/outro/%d.png",
+							"Sound": "montezuma4_outro",
+							"Slides": [
+								{
+									"Duration" : 12.87,
+									"TextFadeDuration" : 13.76,
+									"ImageRect": {
+										"x": 920,
+										"y": 360,
+										"width": 1152,
+										"height": 1106
+									},
+									"String" : "The Spanish called it la noche triste, which meant 'the night of sorrows' in their language.  At first the Spanish barricaded themselves in our homes and palaces, but we continuously attacked their quarters.",
+									"TextRect": {
+										"x": 1020,
+										"y": 1520,
+										"width": 1790,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 11.09,
+									"TextFadeDuration" : 10.74,
+									"ImageRect": {
+										"x": 970,
+										"y": 660,
+										"width": 1614,
+										"height": 1208
+									},
+									"String" : "With stones, slings and arrows, we drove the Spanish and Tlaxcalans through the streets of Tenochtitlan and across the three bridges or over the walls into Lake Texcoco.",
+									"TextRect": {
+										"x": 1880,
+										"y": 420,
+										"width": 1060,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 16.99,
+									"TextFadeDuration" : 14.15,
+									"ImageRect": {
+										"x": 1030,
+										"y": 1000,
+										"width": 1694,
+										"height": 802
+									},
+									"String" : "Thousands died.  Those Spanish that were not killed by macanas or javelins, were drowned by the weight of the treasure they refused to leave behind.  Tenochtitlan lay in ruin, but the city was ours again.",
+									"TextRect": {
+										"x": 1300,
+										"y": 600,
+										"width": 1450,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 22.22,
+									"TextFadeDuration" : 18.01,
+									"ImageRect": {
+										"x": 1200,
+										"y": 1150,
+										"width": 1558,
+										"height": 690
+									},
+									"String" : "Many brave Aztec warriors died that night as well, including noble Montezuma.  The Spanish claimed that our own people had killed him with thrown stones.  Thus it was a night of sorrows for us as well.  So says Cuauhtemoc, defender of Tenochtitlan.",
+									"TextRect": {
+										"x": 1300,
+										"y": 600,
+										"width": 1450,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/5/intro/%d.png",
+							"Sound": "montezuma5_intro",
+							"Slides": [
+								{
+									"Duration" : 23.31,
+									"TextFadeDuration" : 21.04,
+									"ImageRect": {
+										"x": 1050,
+										"y": 380,
+										"width": 588,
+										"height": 1432
+									},
+									"String" : "Passed down to you by Cuauhtemoc, Emperor of Tenochtitlan.  The death of Montezuma only served to further inflame the fury of my people.  I planned to lead the attack personally against the Spanish.  'That is as it should be, Cuauhtemoc,' the priests told me, 'for you are now our emperor.'",
+									"TextRect": {
+										"x": 1700,
+										"y": 720,
+										"width": 1180,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 10.30,
+									"TextFadeDuration" : 10.37,
+									"ImageRect": {
+										"x": 1680,
+										"y": 680,
+										"width": 1453,
+										"height": 1131
+									},
+									"String" : "I took my place on the icpalli throne and the headdress of the emperor was placed upon my head.  A crown is never a comfortable thing to wear.",
+									"TextRect": {
+										"x": 1000,
+										"y": 480,
+										"width": 1140,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 12.53,
+									"TextFadeDuration" : 11.59,
+									"ImageRect": {
+										"x": 1540,
+										"y": 830,
+										"width": 1561,
+										"height": 1001
+									},
+									"String" : "Cortéz had still not made it far from Tenochtitlan, for the Spanish were weighted down with our stolen gold.  As they fled around the shores of the lake, my warriors pursued them from canoes.",
+									"TextRect": {
+										"x": 980,
+										"y": 400,
+										"width": 1740,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.19,
+									"TextFadeDuration" : 12.13,
+									"ImageRect": {
+										"x": 1810,
+										"y": 400,
+										"width": 1138,
+										"height": 1379
+									},
+									"String" : "I sent additional warriors by land, for it was obvious now that Cortéz was attempting to flee back to the safety of his allies in Tlaxcala.  We caught up with the Spanish on the north side of Lake Texcoco.",
+									"TextRect": {
+										"x": 980,
+										"y": 570,
+										"width": 800,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/5/outro/%d.png",
+							"Sound": "montezuma5_outro",
+							"Slides": [
+								{
+									"Duration" : 17.92,
+									"TextFadeDuration" : 17.88,
+									"ImageRect": {
+										"x": 1920,
+										"y": 640,
+										"width": 1092,
+										"height": 1145
+									},
+									"String" : "I hoped that the surviving Spanish on the edge of the lake could see as their captured comrades were dragged up the steps of the great pyramid.  Perhaps they would then understand why we feared the wrath of the feathered serpent, Quetzalcoatl.  Perhaps they would know fear as well.",
+									"TextRect": {
+										"x": 1000,
+										"y": 440,
+										"width": 1600,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 15.35,
+									"TextFadeDuration" : 15.68,
+									"ImageRect": {
+										"x": 870,
+										"y": 570,
+										"width": 1344,
+										"height": 1362
+									},
+									"String" : "With the fighting subsided, there was much work to be done.  Our city had suffered much from the Spanish occupation and the fighting in the streets.  The priests set out repairing the temples, for the Spanish had cast down the idols that we had placed there.",
+									"TextRect": {
+										"x": 2180,
+										"y": 780,
+										"width": 800,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 12.41,
+									"TextFadeDuration" : 13.65,
+									"ImageRect": {
+										"x": 1520,
+										"y": 950,
+										"width": 1526,
+										"height": 914
+									},
+									"String" : "We began a celebration to give thanks to the gods when a great plague struck Tenochtitlan.  Many of our people became helpless and could only lie on their beds.  Many others died.",
+									"TextRect": {
+										"x": 1320,
+										"y": 420,
+										"width": 1180,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 22.05,
+									"TextFadeDuration" : 17.08,
+									"ImageRect": {
+										"x": 1050,
+										"y": 560,
+										"width": 735,
+										"height": 1243
+									},
+									"String" : "We did not know if the gods were still unhappy with us, or if this was some weapon unleashed by the Spanish.  Regardless, if Cortéz returned, he would find a much weakened city.  I could not let that happen.  So says Cuauhtemoc, Emperor of Tenochtitlan.",
+									"TextRect": {
+										"x": 1660,
+										"y": 880,
+										"width": 1240,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/6/intro/%d.png",
+							"Sound": "montezuma6_intro",
+							"Slides": [
+								{
+									"Duration" : 28.88,
+									"TextFadeDuration" : 27.82,
+									"ImageRect": {
+										"x": 1690,
+										"y": 750,
+										"width": 1355,
+										"height": 1103
+									},
+									"String" : "Passed down to you by Cuauhtemoc, Emperor of Tenochtitlan.  The Spanish will return soon.  I had hoped that Cortéz would continue fleeing back from whence he came, but he stopped to regroup at Tlaxcala.  I imagine that he could not stand the thought of returning to Spain while we still had treasuries of gold hidden from him.  Still dreaming of gold and glory, the Spanish pledged themselves to another assault on Tenochtitlan.",
+									"TextRect": {
+										"x": 940,
+										"y": 400,
+										"width": 1900,
+										"height": 1000
+									}
+								},
+								{
+									"Duration" : 12.97,
+									"TextFadeDuration" : 11.09,
+									"ImageRect": {
+										"x": 850,
+										"y": 630,
+										"width": 1288,
+										"height": 1239
+									},
+									"String" : "In Tlaxcala, Cortéz constructed many war boats on dry land.  Then he had the craft broken down and carried through the rain forest, only to be rebuilt on Lake Texcoco.",
+									"TextRect": {
+										"x": 1800,
+										"y": 860,
+										"width": 1120,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.80,
+									"TextFadeDuration" : 7.01,
+									"ImageRect": {
+										"x": 850,
+										"y": 630,
+										"width": 1288,
+										"height": 1239
+									},
+									"String" : "He knows that my Aztec warriors can defend the bridges leading into Tenochtitlan, but we are vulnerable from the water.",
+									"TextRect": {
+										"x": 1800,
+										"y": 860,
+										"width": 1120,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.33,
+									"TextFadeDuration" : 10.84,
+									"ImageRect": {
+										"x": 930,
+										"y": 410,
+										"width": 1383,
+										"height": 1400
+									},
+									"String" : "I called the warriors to one final battle.  The priests attempted to encourage the troops by calling upon the Aztecs to defend their ancient gods and their glorious city.",
+									"TextRect": {
+										"x": 2160,
+										"y": 850,
+										"width": 850,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 17.64,
+									"TextFadeDuration" : 15.2,
+									"ImageRect": {
+										"x": 1370,
+										"y": 1150,
+										"width": 1344,
+										"height": 711
+									},
+									"String" : "They sent up smoke signals to declare that the Aztecs were ready for war, as I climbed the steps of the great temple and sounded the shell trumpet.  Tenochtitlan would be under siege soon, and the brave Aztecs would die before we would see her captured.",
+									"TextRect": {
+										"x": 1000,
+										"y": 400,
+										"width": 1760,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam3/montezuma_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam3/6/outro/%d.png",
+							"Sound": "montezuma6_outro",
+							"Slides": [
+								{
+									"Duration" : 22.88,
+									"TextFadeDuration" : 22.03,
+									"ImageRect": {
+										"x": 1380,
+										"y": 640,
+										"width": 1736,
+										"height": 1264
+									},
+									"String" : "Not so long ago, some five hundred thousand people called Tenochtitlan home.  It is difficult to recall that this smoking ruin was once an endless city.  Yet, we will rebuild.  We created this island upon which our city and temples stand, and we can do it once more.",
+									"TextRect": {
+										"x": 1120,
+										"y": 400,
+										"width": 1580,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 31.44,
+									"TextFadeDuration" : 26.47,
+									"ImageRect": {
+										"x": 820,
+										"y": 710,
+										"width": 1827,
+										"height": 1194
+									},
+									"String" : "The Aztec Empire has endured its greatest challenge.  Yet, more Spanish may come in the future.  I am not certain there is a place for us in this new world.  I could ask the gods for a hint of the future, but no doubt that would lead to more sacrifice and I think there has been enough death for now.  My people composed a poem to commemorate this great war that we have survived, and yet perhaps still not won:",
+									"TextRect": {
+										"x": 1340,
+										"y": 440,
+										"width": 1380,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 17.41,
+									"TextFadeDuration" : 14.95,
+									"ImageRect": {
+										"x": 1000,
+										"y": 420,
+										"width": 2100,
+										"height": 1414
+									},
+									"String" : "Broken spears lie in the roads. We have torn our hair in our grief.  The houses are roofless now, and their walls are red with blood... So says Cuauhtemoc, Emperor of Tenochtitlan.",
+									"TextRect": {
+										"x": 1340,
+										"y": 440,
+										"width": 1380,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

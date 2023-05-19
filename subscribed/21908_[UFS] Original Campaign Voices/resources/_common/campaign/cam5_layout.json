@@ -1,0 +1,841 @@
+{
+  "BackgroundMaterial": "CampaignBackground05Barbarossa",
+  "Widgets": [
+
+    {
+      "Widget": {
+        "Type": "Label",
+        "Name": "TitleLabel",
+        "ViewPort": {
+          "xorigin": 1920,
+          "yorigin": 110,
+          "width": 1000,
+          "height": 100,
+          "alignment": "CentreCentre"
+        },
+        "ZPlane": 2,
+        "StateMaterials": {
+          "StateNormal": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 70,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 57,
+                "g": 28,
+                "b": 27,
+                "a": 255
+              }
+            }
+          }
+        },
+
+        "Text": "IDS_CAMPAIGN_BARBAROSSA",
+        "TextAnchor": "CentreCentre",
+        "ChildWidgets": []
+      }
+    },
+
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton1",
+        "ViewPort": {
+          "xorigin": 1760,
+          "yorigin": 170,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+         "StateDisabled": {
+            "Material": "CampaignIcon05BarbarossaDisabled",
+            "Font": {
+               "FontIndex": 0,
+               "PointSize": 34,
+               "Style": "Normal",
+               "TextColor": {
+                  "r": 42,
+                  "g": 10,
+                  "b": 82,
+                  "a": 128
+               }
+            }
+         },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride" :  "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_1",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton2",
+        "ViewPort": {
+          "xorigin": 2150,
+          "yorigin": 450,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+          "StateDisabled": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 128
+              }
+            }
+          },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride": "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_2",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton3",
+        "ViewPort": {
+          "xorigin": 1160,
+          "yorigin": 340,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+          "StateDisabled": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 128
+              }
+            }
+          },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride": "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_3",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton4",
+        "ViewPort": {
+          "xorigin": 1560,
+          "yorigin": 510,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+          "StateDisabled": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 128
+              }
+            }
+          },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride": "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_4",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton5",
+        "ViewPort": {
+          "xorigin": 1920,
+          "yorigin": 1000,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+          "StateDisabled": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 128
+              }
+            }
+          },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride": "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_5",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Button",
+        "Name": "ScenarioButton6",
+        "ViewPort": {
+          "xorigin": 2620,
+          "yorigin": 1400,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "Image": {
+          "xorigin": 0,
+          "yorigin": 0,
+          "width": 250,
+          "height": 250,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 1,
+        "StateMaterials": {
+          "StateDisabled": {
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 128
+              }
+            }
+          },
+          "StateNormal": {
+            "Material": "CampaignIcon05BarbarossaNormal",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StateHover": {
+            "Material": "CampaignIcon05BarbarossaHover",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          },
+          "StatePressed": {
+            "Material": "CampaignIcon05BarbarossaPressed",
+            "Font": {
+              "FontIndex": 0,
+              "PointSize": 34,
+              "Style": "Normal",
+              "TextColor": {
+                "r": 42,
+                "g": 10,
+                "b": 82,
+                "a": 255
+              }
+            }
+          }
+        },
+        "ChildWidgets": [
+          {
+            "Widget": {
+              "Type": "CampaignTitle",
+              "Name": "CampaignButton1Label",
+              "ViewPort": {
+                "xorigin": 0,
+                "yorigin": 225,
+                "width": 700,
+                "height": 100,
+                "alignment": "TopLeft"
+              },
+              "ClippingOverride": "Background",
+              "ZPlane": 2,
+              "Level": 0,
+              "StateMaterials": {
+                "StateNormal": {
+                  "Font": {
+                    "FontIndex": 0,
+                    "PointSize": 45,
+                    "Style": "Normal",
+                    "TextColor": {
+                      "r": 255,
+                      "g": 255,
+                      "b": 255,
+                      "a": 255
+                    }
+                  }
+                }
+              },
+              "Text": "IDS_SCENARIO_BARBAROSSA_6",
+              "TextAnchor": "TopLeft",
+              "ChildWidgets": []
+            }
+          }
+        ]
+      }
+    },
+    {
+
+      "Widget": {
+        "Type": "Base",
+        "Name": "NextIndicator1",
+        "ViewPort": {
+          "xorigin": 1600,
+          "yorigin": 440,
+          "width": 277,
+          "height": 182,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 0,
+        "Wrap": {
+          "width": 0,
+          "height": 0
+        },
+        "StateMaterials": {
+          "StateNormal": {
+            "Material": "GenghisKhanIndicator2"
+          }
+        }
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Base",
+        "Name": "NextIndicator2",
+        "ViewPort": {
+          "xorigin": 1430,
+          "yorigin": 600,
+          "width": 350,
+          "height": 160,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 0,
+        "Wrap": {
+          "width": 0,
+          "height": 0
+        },
+        "StateMaterials": {
+          "StateNormal": {
+            "Material": "GenghisKhanIndicator1"
+          }
+        }
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Base",
+        "Name": "NextIndicator3",
+        "ViewPort": {
+          "xorigin": 1290,
+          "yorigin": 800,
+          "width": 160,
+          "height": 150,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 0,
+        "Wrap": {
+          "width": 0,
+          "height": 0
+        },
+        "StateMaterials": {
+          "StateNormal": {
+            "Material": "GenghisKhanIndicator2"
+          }
+        }
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Base",
+        "Name": "NextIndicator4",
+        "ViewPort": {
+          "xorigin": 1800,
+          "yorigin": 990,
+          "width": 380,
+          "height": 390,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 0,
+        "Wrap": {
+          "width": 0,
+          "height": 0
+        },
+        "StateMaterials": {
+          "StateNormal": {
+            "Material": "GenghisKhanIndicator2"
+          }
+        }
+      }
+    },
+    {
+      "Widget": {
+        "Type": "Base",
+        "Name": "NextIndicator5",
+        "ViewPort": {
+          "xorigin": 2330,
+          "yorigin": 1460,
+          "width": 245,
+          "height": 330,
+          "alignment": "TopLeft"
+        },
+        "ZPlane": 2,
+        "Wrap": {
+          "width": 0,
+          "height": 0
+        },
+        "StateMaterials": {
+          "StateNormal": {
+            "Material": "GenghisKhanIndicator2"
+          }
+        }
+      }
+    }
+  ]
+}

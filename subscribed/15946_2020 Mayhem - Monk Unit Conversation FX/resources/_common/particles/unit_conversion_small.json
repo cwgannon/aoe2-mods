@@ -1,0 +1,8 @@
+{
+	"AtlasFile": "textures\\atlases\\unit_conversion.dds",
+	"ImageFirst": 60,
+	"ImageCount": 30,
+	"Type": "Once",
+	"Duration": 1,
+	"Scale": 0.5
+}

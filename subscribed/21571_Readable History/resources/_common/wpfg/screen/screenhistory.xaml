@@ -1,0 +1,136 @@
+<local:Age2ScreenHistory d:DesignHeight="2160" d:DesignWidth="3840" mc:Ignorable="d" x:Name="Page" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:local="clr-namespace:aoe2wpfg" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+   <Canvas Height="2160" Width="3840" Background="Transparent">
+
+      <local:Age2Frame Focusable="False" Height="2160" Width="3840" Source=".\..\panel\paneltopnavigation.xaml" />
+
+      <Border Height="2160" Width="3840">
+         <Grid Margin="-640,158,-640,0">
+            <!--<Rectangle Fill="White" x:Name="blur">
+               <Rectangle.Effect>
+                  <local:Age2BlurEffect
+               BlurMask ="{StaticResource ribbon00_AA_blurmask}"
+               P1="0,40"
+               P2="0,40"
+               TextureSize="128,128"
+               PixelWidth="{Binding ElementName=blur, Path=ActualWidth}"
+               PixelHeight="{Binding ElementName=blur, Path=ActualHeight}"
+               />
+               </Rectangle.Effect>
+            </Rectangle>-->
+
+            <Rectangle Fill="White" x:Name="ribbon" >
+               <Rectangle.Effect>
+                  <local:Age2NineSliceEffect
+               NineSliceTexture="{StaticResource ribbon00_BB}"
+               P1="0,40"
+               P2="0,40"
+               TextureSize="128,128"
+               PixelWidth="{Binding ElementName=ribbon, Path=ActualWidth}"
+               PixelHeight="{Binding ElementName=ribbon, Path=ActualHeight}"
+               ShaderOpacity="1.0"
+               >
+                  </local:Age2NineSliceEffect>
+               </Rectangle.Effect>
+            </Rectangle>
+
+            <Grid Width="3630" Height="1836">
+               <Grid.ColumnDefinitions>
+                  <ColumnDefinition Width="980"/>
+                  <ColumnDefinition/>
+               </Grid.ColumnDefinitions>
+
+               <Grid Grid.Column="0" Margin="0,0,10,0" >
+                  <Rectangle x:Name="rect0" Fill="White">
+                     <Rectangle.Effect>
+                        <local:Age2NineSliceEffect
+                           NineSliceTexture="{StaticResource panel00}"
+                           P1="84,84"
+                           P2="84,84"
+                           TextureSize="256,256"
+                           PixelWidth="{Binding ElementName=rect0,Path=ActualWidth}"
+                           PixelHeight="{Binding ElementName=rect0,Path=ActualHeight}"
+                           ShaderOpacity="1.0"
+                           >
+                        </local:Age2NineSliceEffect>
+                     </Rectangle.Effect>
+                  </Rectangle>
+
+                  <local:Age2ListBox Margin="70,90,70,90" VerticalAlignment="Top" x:Name="ListBoxHistoryItems">
+                     <ListBox.ItemContainerStyle>
+                        <Style TargetType="{x:Type ListBoxItem}">
+                           <Setter Property="IsEnabled" 
+                        Value="{Binding Enabled}"/>
+                        </Style>
+                     </ListBox.ItemContainerStyle>
+                     <ListBox.ItemTemplate>
+                        <DataTemplate>
+                           <StackPanel>
+                                 <Rectangle Height="10" Visibility="Hidden"/>
+                                 <local:Age2TextBlockDynamic
+                                     Text="{Binding Data0}"
+                                     Style="{StaticResource TextBlockWhiteMedium}"
+                                     FontFamily="{StaticResource BookAntiqua}"
+                                     Opacity="0.87"
+                                     TextAlignment="Left"/>
+                           </StackPanel>
+                        </DataTemplate>
+                     </ListBox.ItemTemplate>
+                     <!--<local:Age2ListBoxItem Data0="170043"/>-->
+                  </local:Age2ListBox>
+               </Grid>
+
+               <Grid Grid.Column="1" Margin="10,0,0,0">
+                  <Grid.RowDefinitions>
+                     <RowDefinition Height="0"/>
+                     <RowDefinition Height="150"/>
+                     <RowDefinition Height="*"/>
+                  </Grid.RowDefinitions>
+
+                  <Rectangle Grid.Row="0" Grid.RowSpan="3" x:Name="rect1" Fill="White">
+                     <Rectangle.Effect>
+                        <local:Age2NineSliceEffect
+                           NineSliceTexture="{StaticResource panel00}"
+                           P1="84,84"
+                           P2="84,84"
+                           TextureSize="256,256"
+                           PixelWidth="{Binding ElementName=rect1,Path=ActualWidth}"
+                           PixelHeight="{Binding ElementName=rect1,Path=ActualHeight}"
+                           ShaderOpacity="1.0"
+                           >
+                        </local:Age2NineSliceEffect>
+                     </Rectangle.Effect>
+                  </Rectangle>
+
+                  <StackPanel Grid.Row="1" VerticalAlignment="Top">
+                     <local:Age2TextBlock x:Name="Title" Text="Aztecs" Style="{StaticResource TextBlockHeading}" TextAlignment="Center" Margin="0,50,0,20"/>
+                     
+                     <!--<Rectangle Height="10" Fill="Gold" Margin="100,20,100,20"/>-->
+
+                  </StackPanel>
+
+                  <!--<Rectangle Grid.Row="2" Fill="#80000000" Margin="50"/>-->
+                  <local:Age2ScrollViewer Grid.Row="2" x:Name="ScrollViewer" Margin="250,0,250,50" 
+                  Style="{StaticResource ScrollViewerText}" Focusable="True" IsTabStop="True">
+                      <StackPanel>
+                          <Grid Width="1249" Height="560"  Margin="0,20,0,20" >
+                              <Image Source="/resources/history/storyimagebg.png"/>
+                              <Image Height="530" x:Name="StoryImage" Source="/resources/history/history_aztecs.png" />
+                          </Grid>
+                        <local:Age2TextBlockDynamic
+                            Grid.Row="1"
+                            Width="1950"
+                            TextWrapping="Wrap"
+                            Style="{StaticResource TextBlockFontBMed}"
+                            FontFamily="{StaticResource BookAntiqua}"
+                            Opacity="0.87"
+                            x:Name="StoryBox"
+                            Margin="20,40,0,40"/>
+                     </StackPanel>
+                  </local:Age2ScrollViewer>
+               </Grid>
+
+            </Grid>
+         </Grid>
+      </Border>
+   </Canvas>
+</local:Age2ScreenHistory>

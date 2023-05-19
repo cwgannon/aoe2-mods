@@ -1,0 +1,1420 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/1/intro/%d.png",
+							"Sound": "joan1_intro",
+							"Slides": [
+								{
+									"Duration" : 8.37,
+									"TextFadeDuration" : 8.37,
+									"ImageRect": {
+										"x": 1600,
+										"y": 530,
+										"width": 1243,
+										"height": 1544
+									},
+									"String" : "　　　From the Journal of Guy Josselyne\nFebruary 19, Army Camp near Vaucouleurs",
+									"TextRect": {
+										"x": 1400,
+										"y": 993,
+										"width": 1955,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 10.76,
+									"TextFadeDuration" : 10.76,
+									"ImageRect": {
+										"x": 1830,
+										"y": 310,
+										"width": 1243,
+										"height": 1544
+									},
+									"String" : "This morning I awoke to visions of fire and steel. These nightmares come more often now that I have seen my beloved France eaten away in years of war.",
+									"TextRect": {
+										"x": 980,
+										"y": 760,
+										"width": 1150,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.15,
+									"TextFadeDuration" : 11.72,
+									"ImageRect": {
+										"x": 1950,
+										"y": 320,
+										"width": 1150,
+										"height": 1580
+									},
+									"String" : "I wandered through camp ignoring the new snowfall, but observing the wounds and weariness of every soldier under my command, observing the desperation in their eyes.",
+									"TextRect": {
+										"x": 920,
+										"y": 1080,
+										"width": 830,
+										"height": 564
+									}
+								},
+								{
+									"Duration" : 17.91,
+									"TextFadeDuration" : 17.7,
+									"ImageRect": {
+										"x": 1500,
+										"y": 350,
+										"width": 1498,
+										"height": 1523
+									},
+									"String" : "It was then that I first saw the girl. She told us that her name was Joan. She told us she was but a peasant, who did not know how to ride or fight. She told us that she intended to rescue France. The darkness lifted from the men's souls. ",
+									"TextRect": {
+										"x": 979,
+										"y": 660,
+										"width": 880,
+										"height": 1137
+									}
+								},
+								{
+									"Duration" : 12.08,
+									"TextFadeDuration" : 10.19,
+									"ImageRect": {
+										"x": 2120,
+										"y": 480,
+										"width": 920,
+										"height": 1170
+									},
+									"String" : "Her voice rang with conviction, and we drank in her every word. I may have lost my faith, but Joan has not lost hers, and that is enough for me.",
+									"TextRect": {
+										"x": 1006,
+										"y": 370,
+										"width": 1600,
+										"height": 1383
+									}
+								},
+								{
+									"Duration" : 10.03,
+									"TextFadeDuration" : 9.24,
+									"ImageRect": {
+										"x": 960,
+										"y": 540,
+										"width": 1052,
+										"height": 1353
+									},
+									"String" : "Joan has asked our ragged band of soldiers to take her to Chinon, where the rightful ruler of France, the Dauphin, hides from his foes.",
+									"TextRect": {
+										"x": 1693,
+										"y": 750,
+										"width": 1154,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 20.65,
+									"TextFadeDuration" : 13.45,
+									"ImageRect": {
+										"x": 830,
+										"y": 590,
+										"width": 1581,
+										"height": 1329
+									},
+									"String" : "The war-torn land between is infested with enemy marauders, and we will lose many men.  Death is by now an old companion, but for Joan, we will face it again.",
+									"TextRect": {
+										"x": 1080,
+										"y": 442,
+										"width": 1780,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/1/outro/%d.png",
+							"Sound": "joan1_outro",
+							"Slides": [
+								{
+									"Duration" : 14.41,
+									"TextFadeDuration" : 10.22,
+									"ImageRect": {
+										"x": 1090,
+										"y": 265,
+										"width": 1711,
+										"height": 1274
+									},
+									"String" : "As Joan's footsteps echoed down the marbled hall of the château, the fat and whispering dukes did naught but stare.",
+									"TextRect": {
+										"x": 1257,
+										"y": 1580,
+										"width": 1388,
+										"height": 477
+									}
+								},
+								{
+									"Duration" : 13.17,
+									"TextFadeDuration" : 15.86,
+									"ImageRect": {
+										"x": 990,
+										"y": 1300,
+										"width": 726,
+										"height": 551
+									},
+									"String" : "The Dauphin himself seemed afraid as she kissed his feet. 'My gentle Dauphin,' she demanded, 'why does England claim what is ours? Why are you not crowned King of France as is your right?'",
+									"TextRect": {
+										"x": 1227,
+										"y": 857,
+										"width": 1458,
+										"height": 862
+									}
+								},
+								{
+									"Duration" : 7.05,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 2100,
+										"y": 620,
+										"width": 978,
+										"height": 1255
+									},
+									"TextFadeDuration" : 5.66,
+									"String" : "The courtiers began to murmur. The chamberlain whispered lies into the Dauphin's ear.",
+									"TextRect": {
+										"x": 1092,
+										"y": 401,
+										"width": 1551,
+										"height": 636
+									}
+								},
+								{
+									"Duration" : 5.51,
+									"FadeInTime" : 0.0,
+									"ImageRect": {
+										"x": 2100,
+										"y": 620,
+										"width": 978,
+										"height": 1255
+									},
+									"TextFadeDuration" : 5.09,
+									"String" : "But the Dauphin pushed the chamberlain away and rose to meet Joan's gaze.",
+									"TextRect": {
+										"x": 1092,
+										"y": 401,
+										"width": 1551,
+										"height": 636
+									}
+								},
+								{
+									"Duration" : 6.6,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1980,
+										"y": 820,
+										"width": 1068,
+										"height": 1037
+									},
+									"TextFadeDuration" : 6.67,
+									"String" : "She stands only to the shoulder of the shortest man, but all of us must look up to speak to her.",
+									"TextRect": {
+										"x": 1163,
+										"y": 655,
+										"width": 1670,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 16.5,
+									"FadeInTime" : 0.0,
+									"ImageRect": {
+										"x": 1980,
+										"y": 820,
+										"width": 1068,
+										"height": 1037
+									},
+									"TextFadeDuration" : 10.28,
+									"String" : "I know not what silent conversation passed between the Dauphin and his would-be savior, but it was obvious that his majesty was in the same thrall as we.",
+									"TextRect": {
+										"x": 1163,
+										"y": 655,
+										"width": 1670,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/2/intro/%d.png",
+							"Sound": "joan2_intro",
+							"Slides": [
+								{
+									"Duration" : 2.63,
+									"TextFadeDuration" : 3.25,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 1127,
+										"height": 1589
+									},
+									"String" : "March 26, Chinon",
+									"TextRect": {
+										"x": 1685,
+										"y": 1058,
+										"width": 800,
+										"height": 603
+									}
+								},
+								{
+									"Duration" : 12.31,
+									"TextFadeDuration" : 12.12,
+									"ImageRect": {
+										"x": 920,
+										"y": 290,
+										"width": 1127,
+										"height": 1589
+									},
+									"String" : "It is one thing for a band of dispirited soldiers to put their trust in a teenage girl. It is entirely another for that girl to be given command of the army of an entire nation.",
+									"TextRect": {
+										"x": 2145,
+										"y": 1230,
+										"width": 800,
+										"height": 603
+									}
+								},
+								{
+									"Duration" : 7.84,
+									"TextFadeDuration" : 10.0,
+									"ImageRect": {
+										"x": 920,
+										"y": 290,
+										"width": 1127,
+										"height": 1589
+									},
+									"String" : "We were filled with pride when we heard the Dauphin's heralds pronounce Joan the Maid as Commander of the Army of France.",
+									"TextRect": {
+										"x": 1909,
+										"y": 480,
+										"width": 900,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 7.58,
+									"TextFadeDuration" : 7.44,
+									"ImageRect": {
+										"x": 950,
+										"y": 320,
+										"width": 952,
+										"height": 1522
+									},
+									"String" : "So that she may look like a general, the Dauphin presented Joan with a great warhorse and a suit of white armor.",
+									"TextRect": {
+										"x": 2059,
+										"y": 1250,
+										"width": 950,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 7.17,
+									"TextFadeDuration" : 6.39,
+									"ImageRect": {
+										"x": 870,
+										"y": 500,
+										"width": 1337,
+										"height": 1355
+									},
+									"String" : "Joan instructed me to look for an ancient sword buried beneath the altar of a local church.",
+									"TextRect": {
+										"x": 1720,
+										"y": 520,
+										"width": 1150,
+										"height": 342
+									}
+								},
+								{
+									"Duration" : 18.72,
+									"TextFadeDuration" : 20.23,
+									"ImageRect": {
+										"x": 1750,
+										"y": 890,
+										"width": 1314,
+										"height": 1002
+									},
+									"String" : "I was skeptical, but not only did the men unearth a rusted blade, but we found that the sword belonged to Charlemagne, grandfather of France. I shall not doubt her word again. Still visible on the hilt was the fleur-de-lis.",
+									"TextRect": {
+										"x": 1056,
+										"y": 510,
+										"width": 1750,
+										"height": 804
+									}
+								},
+								{
+									"Duration" : 13.48,
+									"TextFadeDuration" : 13.71,
+									"ImageRect": {
+										"x": 1000,
+										"y": 380,
+										"width": 620,
+										"height": 1400
+									},
+									"String" : "Joan adopted the fleur-de-lis as her symbol and had it blazoned upon her battle standard. Wherever Joan goes, the standard goes also. It goes with us to Orléans.",
+									"TextRect": {
+										"x": 1650,
+										"y": 950,
+										"width": 1240,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 11.31,
+									"TextFadeDuration" : 10.5,
+									"ImageRect": {
+										"x": 860,
+										"y": 350,
+										"width": 1350,
+										"height": 1438
+									},
+									"String" : "The City of Orléans is one of the finest in France, but it is under siege by our enemies, England and Burgundy, and is about to fall. ",
+									"TextRect": {
+										"x": 1750,
+										"y": 1570,
+										"width": 1200,
+										"height": 945
+									}
+								},
+								{
+									"Duration" : 21.09,
+									"TextFadeDuration" : 12.48,
+									"ImageRect": {
+										"x": 1100,
+										"y": 780,
+										"width": 1724,
+										"height": 1100
+									},
+									"String" : "This war has dragged on for one hundred years with precious few French victories. The people of Orléans need a savior. They are to get Joan of Arc.",
+									"TextRect": {
+										"x": 1000,
+										"y": 450,
+										"width": 1849,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/2/outro/%d.png",
+							"Sound": "joan2_outro",
+							"Slides": [
+								{
+									"Duration" : 10.94,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 12.91,
+									"ImageRect": {
+										"x": 880,
+										"y": 290,
+										"width": 1092,
+										"height": 1621
+									},
+									"String" : "Joan prophesied that she would be wounded at Orléans. At the height of the battle, an arbalest bolt knocked her from her horse. We could not believe our misfortune.",
+									"TextRect": {
+										"x": 1910,
+										"y": 920,
+										"width": 1100,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 8.28,
+									"FadeInTime" : 0.0,
+									"ImageRect": {
+										"x": 880,
+										"y": 290,
+										"width": 1092,
+										"height": 1621
+									},
+									"TextFadeDuration" : 6.82,
+									"String" : "But as we carried Joan away from the carnage, the battle was won. Orléans was free.",
+									"TextRect": {
+										"x": 1910,
+										"y": 920,
+										"width": 1100,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 6.85,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1900,
+										"y": 380,
+										"width": 1138,
+										"height": 1411
+									},
+									"TextFadeDuration" : 7.37,
+									"String" : "When we entered the city, the entire population cheered us on from windows, rooftops, and city streets." ,
+									"TextRect": {
+										"x": 900,
+										"y": 1070,
+										"width": 1020,
+										"height": 363
+									}
+								},
+								{
+									"Duration" : 15.25,
+									"FadeInTime" : 0.0,
+									"ImageRect": {
+										"x": 1900,
+										"y": 380,
+										"width": 1138,
+										"height": 1411
+									},
+									"TextFadeDuration" : 8.18,
+									"String" : "They fired artillery into the night sky and shouted aloud their nickname for Joan: 'La Pucelle'—The Maid of Orléans.",
+									"TextRect": {
+										"x": 900,
+										"y": 1070,
+										"width": 1020,
+										"height": 363
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/3/intro/%d.png",
+							"Sound": "joan3_intro",
+							"Slides": [
+								{
+									"Duration" : 2.32,
+									"TextFadeDuration" : 3.26,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "June 14, Orléans",
+									"TextRect": {
+										"x": 1734,
+										"y": 1100,
+										"width": 615,
+										"height": 804
+									}
+								},
+								{
+									"Duration" : 9.04,
+									"TextFadeDuration" : 8.44,
+									"ImageRect": {
+										"x": 1310,
+										"y": 320,
+										"width": 1313,
+										"height": 1155
+									},
+									"String" : "Our rescue of Orléans was a setback for our enemies, but only a minor one. The British still possess half of France.",
+									"TextRect": {
+										"x": 1454,
+										"y": 1484,
+										"width": 1115,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 6.20,
+									"TextFadeDuration" : 6.44,
+									"ImageRect": {
+										"x": 1280,
+										"y": 780,
+										"width": 1313,
+										"height": 1085
+									},
+									"String" : "Tragically, we have cooled our heels for weeks while the Dauphin's advisors debate.",
+									"TextRect": {
+										"x": 1386,
+										"y": 542,
+										"width": 1350,
+										"height": 306
+									}
+								},
+								{
+									"Duration" : 8.72,
+									"TextFadeDuration" : 10.0,
+									"ImageRect": {
+										"x": 2100,
+										"y": 420,
+										"width": 853,
+										"height": 1452
+									},
+									"String" : "Joan became irritated with the delay and reassembled her army. She talks of nothing but her mission to drive the British into the sea.",
+									"TextRect": {
+										"x": 1050,
+										"y": 967,
+										"width": 1100,
+										"height": 774
+									}
+								},
+								{
+									"Duration" : 9.92,
+									"TextFadeDuration" : 9.49,
+									"ImageRect": {
+										"x": 813,
+										"y": 380,
+										"width": 1135,
+										"height": 1500
+									},
+									"String" : "The force of Joan's will is titanic. She has gathered to her banner swearing brigands and knaves and turned them into patriots and heroes.",
+									"TextRect": {
+										"x": 1900,
+										"y": 1300,
+										"width": 1050,
+										"height": 717
+									}
+								},
+								{
+									"Duration" : 12.69,
+									"TextFadeDuration" : 12.4,
+									"ImageRect": {
+										"x": 1000,
+										"y": 530,
+										"width": 802,
+										"height": 1211
+									},
+									"String" : "Among them is the man La Hire. A giant clad in plate mail; he drives men on with curses and fists. There will be plenty of British necks for La Hire to break at Patay.",
+									"TextRect": {
+										"x": 1800,
+										"y": 683,
+										"width": 1100,
+										"height": 924
+									}
+								},
+								{
+									"Duration" : 12.36,
+									"TextFadeDuration" : 12.0,
+									"ImageRect": {
+										"x": 1100,
+										"y": 1020,
+										"width": 1645,
+										"height": 851
+									},
+									"String" : "Patay is the gateway to the Loire River Valley.  The British hold the Loire in a grip of steel, whilst a huge army under Sir John Fastolf devastates the countryside.",
+									"TextRect": {
+										"x": 1302,
+										"y": 570,
+										"width": 1317,
+										"height": 678
+									}
+								},
+								{
+									"Duration" : 14.39,
+									"TextFadeDuration" : 10.17,
+									"ImageRect": {
+										"x": 820,
+										"y": 410,
+										"width": 2040,
+										"height": 1500
+									},
+									"String" : "Joan leads us to Patay to capture the British castles. However we must avoid Fastolf's army 'til we are strong enough to face his veterans.",
+									"TextRect": {
+										"x": 1800,
+										"y": 480,
+										"width": 1082,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/3/outro/%d.png",
+							"Sound": "joan3_outro",
+							"Slides": [
+								{
+									"Duration" : 15.16,
+									"TextFadeDuration" : 14.13,
+									"ImageRect": {
+										"x": 1520,
+										"y": 640,
+										"width": 1550,
+										"height": 1242
+									},
+									"String" : "After Patay, the myth of British invulnerability was dispelled. Now our army knows it is possible to win, but only if we are resolute and cunning.",
+									"TextRect": {
+										"x": 1181,
+										"y": 450,
+										"width": 1500,
+										"height": 477
+									}
+								},
+								{
+									"Duration" : 8.32,
+									"TextFadeDuration" : 9.0,
+									"ImageRect": {
+										"x": 790,
+										"y": 450,
+										"width": 2259,
+										"height": 1380
+									},
+									"String" : "The British are a most deadly enemy, and their longbowmen time and again have decimated a charge of French knights.",
+									"TextRect": {
+										"x": 1548,
+										"y": 1000,
+										"width": 950,
+										"height": 684
+									}
+								},
+								{
+									"Duration" : 12.66,
+									"TextFadeDuration" : 10.92,
+									"ImageRect": {
+										"x": 980,
+										"y": 830,
+										"width": 966,
+										"height": 1050
+									},
+									"String" : "To make matters worse, we now face enemies on both sides. The Dauphin's advisors spend more and more time wrangling, jealous of Joan's influence at court.",
+									"TextRect": {
+										"x": 1756,
+										"y": 605,
+										"width": 1107,
+										"height": 678
+									}
+								},
+								{
+									"Duration" : 13.46,
+									"TextFadeDuration" : 7.25,
+									"ImageRect": {
+										"x": 980,
+										"y": 830,
+										"width": 966,
+										"height": 1050
+									},
+									"String" : "I pray that Joan can complete her divine mission before the Dauphin's envious advisors betray her.",
+									"TextRect": {
+										"x": 1356,
+										"y": 470,
+										"width": 1217,
+										"height": 678
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/4/intro/%d.png",
+							"Sound": "joan4_intro",
+							"Slides": [
+								{
+									"Duration" : 3.47,
+									"TextFadeDuration" : 3.38,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "June 25, Orléans",
+									"TextRect": {
+										"x": 1752,
+										"y": 1059,
+										"width": 832,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 11.53,
+									"TextFadeDuration" : 10.72,
+									"ImageRect": {
+										"x": 1878,
+										"y": 345,
+										"width": 1180,
+										"height": 1580
+									},
+									"String" : "Dead France is returning to life. Our army swells with new recruits. In olden times, men swore fealty only to their particular lord.",
+									"TextRect": {
+										"x": 962,
+										"y": 840,
+										"width": 932,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.57,
+									"TextFadeDuration" : 13.03,
+									"ImageRect": {
+										"x": 1878,
+										"y": 345,
+										"width": 1180,
+										"height": 1580
+									},
+									"String" : "Now we fight not for insolent lords and ladies, but for France. For all of us, Joan is France. There is no distinction in our minds.",
+									"TextRect": {
+										"x": 992,
+										"y": 440,
+										"width": 932,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.60,
+									"TextFadeDuration" : 13.35,
+									"ImageRect": {
+										"x": 1090,
+										"y": 780,
+										"width": 1687,
+										"height": 1089
+									},
+									"String" : "The Dauphin himself has arrived in Orléans. Never have I seen such a celebration. France needs a king, so we must escort the Dauphin to Rheims where he can be properly crowned.",
+									"TextRect": {
+										"x": 1189,
+										"y": 450,
+										"width": 1600,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.89,
+									"TextFadeDuration" : 9.95,
+									"ImageRect": {
+										"x": 1440,
+										"y": 700,
+										"width": 1661,
+										"height": 1203
+									},
+									"String" : "Yet the city of Rheims is dangerously menaced by the Anglo-Burgundian army. The cities of Troyes and Chalon also bar the way.",
+									"TextRect": {
+										"x": 1080,
+										"y": 466,
+										"width": 1860,
+										"height": 438
+									}
+								},
+								{
+									"Duration" : 11.30,
+									"TextFadeDuration" : 8.23,
+									"ImageRect": {
+										"x": 1440,
+										"y": 700,
+										"width": 1661,
+										"height": 1203
+									},
+									"String" : "Joan commands that we must liberate all three cities before the coronation, and we eagerly seek to fight.",
+									"TextRect": {
+										"x": 1080,
+										"y": 466,
+										"width": 1860,
+										"height": 438
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/4/outro/%d.png",
+							"Sound": "joan4_outro",
+							"Slides": [
+								{
+									"Duration" : 15.79,
+									"TextFadeDuration" : 15.82,
+									"ImageRect": {
+										"x": 925,
+										"y": 320,
+										"width": 2080,
+										"height": 1080
+									},
+									"String" : "As we rode into Rheims, a sea of peasants and lords knelt before Joan. Some even knelt to kiss her horse's hoofprints. Cannon thundered and a thousand flags danced in the breeze.",
+									"TextRect": {
+										"x": 1170,
+										"y": 1450,
+										"width": 1520,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.03,
+									"TextFadeDuration" : 12.72,
+									"ImageRect": {
+										"x": 2150,
+										"y": 245,
+										"width": 943,
+										"height": 1655
+									},
+									"String" : "In the enormous palace, the Dauphin knelt before the archbishop and rose as King of France. Prayers, anthems, and sermons filled the great château. ",
+									"TextRect": {
+										"x": 1012,
+										"y": 960,
+										"width": 1080,
+										"height": 705
+									}
+								},
+								{
+									"Duration" : 9.13,
+									"TextFadeDuration" : 9.33,
+									"ImageRect": {
+										"x": 1180,
+										"y": 620,
+										"width": 2000,
+										"height": 1286
+									},
+									"String" : "Interspersed among perfumed dukes and ladies were tattered soldiers from our army, many still bearing wounds.",
+									"TextRect": {
+										"x": 1320,
+										"y": 360,
+										"width": 1280,
+										"height": 705
+									}
+								},
+								{
+									"Duration" : 6.36,
+									"TextFadeDuration" : 6.47,
+									"ImageRect": {
+										"x": 1180,
+										"y": 620,
+										"width": 2000,
+										"height": 1286
+									},
+									"String" : "Joan herself was at the king's side, as was her bedraggled battle standard.",
+									"TextRect": {
+										"x": 1320,
+										"y": 360,
+										"width": 1280,
+										"height": 705
+									}
+								},
+								{
+									"Duration" : 10.22,
+									"TextFadeDuration" : 12.62,
+									"ImageRect": {
+										"x": 1660,
+										"y": 360,
+										"width": 1390,
+										"height": 1523
+									},
+									"String" : "Despite the celebration, I know in my heart that this war is far from over. Our fathers and grandfathers died fighting against the English.",
+									"TextRect": {
+										"x": 1000,
+										"y": 330,
+										"width": 970,
+										"height": 861
+									}
+								},
+								{
+									"Duration" : 10.90,
+									"TextFadeDuration" : 5.8,
+									"ImageRect": {
+										"x": 1660,
+										"y": 360,
+										"width": 1390,
+										"height": 1523
+									},
+									"String" : "Joan gives us hope, but I do not know if hope is enough to ensure victory.",
+									"TextRect": {
+										"x": 1000,
+										"y": 330,
+										"width": 970,
+										"height": 861
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/5/intro/%d.png",
+							"Sound": "joan5_intro",
+							"Slides": [
+								{
+									"Duration" : 3.01,
+									"TextFadeDuration" : 3.54,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "September 3, Rheims",
+									"TextRect": {
+										"x": 1700,
+										"y": 1103,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.50,
+									"TextFadeDuration" : 9.18,
+									"ImageRect": {
+										"x": 1110,
+										"y": 1050,
+										"width": 1645,
+										"height": 844
+									},
+									"String" : "France has a king once more. However, as Joan gains influence with the people, jealousy grows within the court.",
+									"TextRect": {
+										"x": 1170,
+										"y": 650,
+										"width": 1647,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.26,
+									"TextFadeDuration" : 9.1,
+									"ImageRect": {
+										"x": 1110,
+										"y": 1050,
+										"width": 1645,
+										"height": 844
+									},
+									"String" : "The king's evil advisors now seek to destroy Joan. It is only a matter of time before they succeed in poisoning the king's mind.",
+									"TextRect": {
+										"x": 1170,
+										"y": 650,
+										"width": 1647,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 25.09,
+									"TextFadeDuration" : 19.8,
+									"ImageRect": {
+										"x": 1040,
+										"y": 360,
+										"width": 1884,
+										"height": 958
+									},
+									"String" : "Joan must hurry to fulfill her mission. Paris, the jewel of France, has been under English tyranny for decades, and French patriots trapped within the city are eager to escape. We are now marching on Paris, hoping that the reinforcements we have been promised will arrive in time.",
+									"TextRect": {
+										"x": 1150,
+										"y": 1419,
+										"width": 1700,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/5/outro/%d.png",
+							"Sound": "joan5_outro",
+							"Slides": [
+								{
+									"Duration" : 13.40,
+									"TextFadeDuration" : 16.4,
+									"ImageRect": {
+										"x": 1720,
+										"y": 260,
+										"width": 1288,
+										"height": 1631
+									},
+									"String" : "Tragedy. As the refugees fled into the Château of Compiegne, Joan was trapped outside. Burgundian soldiers knocked her from her horse and paraded around with their prisoner.",
+									"TextRect": {
+										"x": 942,
+										"y": 500,
+										"width": 823,
+										"height": 855
+									}
+								},
+								{
+									"Duration" : 7.01,
+									"TextFadeDuration" : 6.04,
+									"ImageRect": {
+										"x": 950,
+										"y": 300,
+										"width": 1026,
+										"height": 1593
+									},
+									"String" : "None of us can sleep, knowing our precious Joan of Arc languishes in a Burgundian prison.",
+									"TextRect": {
+										"x": 1928,
+										"y": 942,
+										"width": 1105,
+										"height": 648
+									}
+								},
+								{
+									"Duration" : 11.59,
+									"TextFadeDuration" : 9.25,
+									"ImageRect": {
+										"x": 1810,
+										"y": 200,
+										"width": 1272,
+										"height": 1654
+									},
+									"String" : "The soldiers stare at the uncaring sky, condemning themselves for being unable to save her…for being unable to save France.",
+									"TextRect": {
+										"x": 990,
+										"y": 450,
+										"width": 1000,
+										"height": 588
+									}
+								},
+								{
+									"Duration" : 17.02,
+									"TextFadeDuration" : 12.45,
+									"ImageRect": {
+										"x": 1780,
+										"y": 700,
+										"width": 1271,
+										"height": 1222
+									},
+									"String" : "Paris was the first major defeat ever dealt to our army. Had the King sent the promised reinforcements, we would have captured the city. Now, it is France's darkest hour.",
+									"TextRect": {
+										"x": 982,
+										"y": 380,
+										"width": 1256,
+										"height": 687
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/6/intro/%d.png",
+							"Sound": "joan6_intro",
+							"Slides": [
+								{
+									"Duration" : 2.58,
+									"TextFadeDuration" : 3.64,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "July 14, Bordeaux",
+									"TextRect": {
+										"x": 1721,
+										"y": 1080,
+										"width": 800,
+										"height": 660
+									}
+								},
+								{
+									"Duration" : 19.05,
+									"TextFadeDuration" : 17.71,
+									"ImageRect": {
+										"x": 950,
+										"y": 540,
+										"width": 1852,
+										"height": 1372
+									},
+									"String" : "No Joan of Arc. A rich world made empty and poor! The English put her on trial as a heretic. Joan's mind was as sharp as her sword, and she avoided all the cunning verbal traps of her prosecutors.",
+									"TextRect": {
+										"x": 1121,
+										"y": 360,
+										"width": 1700,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.96,
+									"TextFadeDuration" : 7.55,
+									"ImageRect": {
+										"x": 970,
+										"y": 270,
+										"width": 948,
+										"height": 1601
+									},
+									"String" : "In the end, Joan would not renounce her mission. The English found her guilty...",
+									"TextRect": {
+										"x": 1600,
+										"y": 719,
+										"width": 1350,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 3.44,
+									"TextFadeDuration" : 2.46,
+									"ImageRect": {
+										"x": 1790,
+										"y": 1180,
+										"width": 368,
+										"height": 686
+									},
+									"String" : "...and burned her at the stake.",
+									"TextRect": {
+										"x": 1642,
+										"y": 743,
+										"width": 700,
+										"height": 255
+									}
+								},
+								{
+									"Duration" : 17.54,
+									"TextFadeDuration" : 20.11,
+									"ImageRect": {
+										"x": 1490,
+										"y": 765,
+										"width": 1575,
+										"height": 1127
+									},
+									"String" : "But her death is not in vain. 'La Pucelle' is the rallying cry as peasant and nobleman alike take arms. My army is an army of the people, and even without the king we are poised to strike at the English stronghold of Castillon.",
+									"TextRect": {
+										"x": 1100,
+										"y": 390,
+										"width": 1650,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 7.01,
+									"TextFadeDuration" : 5.18,
+									"ImageRect": {
+										"x": 1000,
+										"y": 730,
+										"width": 1873,
+										"height": 1174
+									},
+									"String" : "A victory at Castillon will crush the English pretensions in France forever.",
+									"TextRect": {
+										"x": 1008,
+										"y": 517,
+										"width": 1680,
+										"height": 483
+									}
+								},
+								{
+									"Duration" : 16.48,
+									"TextFadeDuration" : 9.9,
+									"ImageRect": {
+										"x": 2250,
+										"y": 320,
+										"width": 774,
+										"height": 970
+									},
+									"String" : "Should I die in this battle, I die for the Maid of Orléans. I die as a patriot of France.",
+									"TextRect": {
+										"x": 1062,
+										"y": 1523,
+										"width": 1360,
+										"height": 531
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam2/joan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam2/6/outro/%d.png",
+							"Sound": "joan6_outro",
+							"Slides": [
+								{
+									"Duration" : 11.63,
+									"TextFadeDuration" : 13.0,
+									"ImageRect": {
+										"x": 1310,
+										"y": 330,
+										"width": 1246,
+										"height": 921
+									},
+									"String" : "A century of English toil, blood, and victories was reversed in a little over a year by a teenage girl. The Hundred Years War has ended.",
+									"TextRect": {
+										"x": 1103,
+										"y": 1421,
+										"width": 1631,
+										"height": 564
+									}
+								},
+								{
+									"Duration" : 13.58,
+									"TextFadeDuration" : 12.86,
+									"ImageRect": {
+										"x": 1580,
+										"y": 320,
+										"width": 728,
+										"height": 1215
+									},
+									"String" : "Even more importantly, Joan's acts reignited a sense of French nationalism. Peasants and nobles alike no longer belonged to lords and kings, but to France herself.",
+									"TextRect": {
+										"x": 1134,
+										"y": 1556,
+										"width": 1750,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 9.74,
+									"TextFadeDuration" : 9.66,
+									"ImageRect": {
+										"x": 940,
+										"y": 280,
+										"width": 1271,
+										"height": 1572
+									},
+									"String" : "We will not let Joan be forgotten.  Already, statues and stained glass portraits have been commissioned in hundreds of towns and cities throughout France.",
+									"TextRect": {
+										"x": 2018,
+										"y": 500,
+										"width": 950,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 7.92,
+									"TextFadeDuration" : 8.1,
+									"ImageRect": {
+										"x": 1430,
+										"y": 690,
+										"width": 1547,
+										"height": 1180
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "Her verdict of guilt was rightfully reversed, and eventually Joan of Arc was beatified as a saint.",
+									"TextRect": {
+										"x": 1050,
+										"y": 360,
+										"width": 1850,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 7.56,
+									"TextFadeDuration" : 7.56,
+									"ImageRect": {
+										"x": 1430,
+										"y": 690,
+										"width": 1547,
+										"height": 1180
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "Sometimes the outcome of history is determined by strength of arms, other times by happenstance.",
+									"TextRect": {
+										"x": 1050,
+										"y": 360,
+										"width": 1850,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 7.52,
+									"TextFadeDuration" : 6.75,
+									"ImageRect": {
+										"x": 1430,
+										"y": 690,
+										"width": 1547,
+										"height": 1180
+									},
+									"FadeInTime" : 0.0,
+									"String" : "But in fifteenth century France, history was determined by the will of a young girl...",
+									"TextRect": {
+										"x": 1050,
+										"y": 360,
+										"width": 1850,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 12.47,
+									"TextFadeDuration" : 8.0,
+									"ImageRect": {
+										"x": 2000,
+										"y": 650,
+										"width": 984,
+										"height": 1061
+									},
+									"String" : "...the only person in history to command the armies of an entire nation at the age of seventeen.",
+									"TextRect": {
+										"x": 1050,
+										"y": 360,
+										"width": 1850,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

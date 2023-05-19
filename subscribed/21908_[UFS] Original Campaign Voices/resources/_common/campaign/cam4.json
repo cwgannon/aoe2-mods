@@ -1,0 +1,1170 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/1/intro/%d.png",
+							"Sound": "genghis1_intro",
+							"Slides": [
+								{
+									"Duration" : 13.16,
+									"TextFadeDuration" : 10.86,
+									"ImageRect": {
+										"x": 1080,
+										"y": 340,
+										"width": 1958,
+										"height": 1064
+									},
+									"String" : "A blue wolf took as his spouse a fallow doe. They settled at the head of the Onon River to raise their offspring. And there were born the Mongols.",
+									"TextRect": {
+										"x": 1200,
+										"y": 1440,
+										"width": 1550,
+										"height": 420
+									}
+								},
+								{
+									"Duration" : 12.70,
+									"TextFadeDuration" : 12.08,
+									"ImageRect": {
+										"x": 880,
+										"y": 450,
+										"width": 1155,
+										"height": 1456
+									},
+									"String" : "So begins my life's work, 'The Secret History of the Mongols.' I have been selected to compose this epic because great events are about to take place. We are going to leave Mongolia.",
+									"TextRect": {
+										"x": 980,
+										"y": 340,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.85,
+									"TextFadeDuration" : 15.84,
+									"ImageRect": {
+										"x": 1300,
+										"y": 720,
+										"width": 1715,
+										"height": 1183
+									},
+									"String" : "I have lived always on this frigid, dry, and endless steppe. The tribes here squabble like vultures fighting over the desiccated corpse of a marmot. We fight over limited resources: scarce water, few trees, sparse grass for our herds to graze on.",
+									"TextRect": {
+										"x": 1000,
+										"y": 380,
+										"width": 1725,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.26,
+									"TextFadeDuration" : 15.94,
+									"ImageRect": {
+										"x": 820,
+										"y": 320,
+										"width": 1054,
+										"height": 1215
+									},
+									"String" : "A wise and dangerous man named Temuchin means to change all this. He says that if the tribal conflict is to end, the Mongols require but two things. First, we need green pastures for our herds. With more to go around, there will be less competition among the tribes.",
+									"TextRect": {
+										"x": 1680,
+										"y": 1320,
+										"width": 1350,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.47,
+									"TextFadeDuration" : 5.21,
+									"ImageRect": {
+										"x": 1560,
+										"y": 820,
+										"width": 1519,
+										"height": 1089
+									},
+									"String" : "Second, we are a nation of warriors; we need a common enemy with which to do battle.",
+									"TextRect": {
+										"x": 1150,
+										"y": 520,
+										"width": 1550,
+										"height": 360
+									}
+								},
+								{
+									"Duration" : 9.62,
+									"TextFadeDuration" : 8.58,
+									"ImageRect": {
+										"x": 1350,
+										"y": 540,
+										"width": 1663,
+										"height": 1362
+									},
+									"String" : "To meet both these needs, Temuchin has come up with the most modest of schemes: to unite the tribes and go to war with anyone who stands in our path.",
+									"TextRect": {
+										"x": 1100,
+										"y": 360,
+										"width": 1750,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.80,
+									"TextFadeDuration" : 6.2,
+									"ImageRect": {
+										"x": 1680,
+										"y": 370,
+										"width": 1342,
+										"height": 1539
+									},
+									"String" : "'How?' we ask him.  'How can nomadic horsemen in felt tents embark on a campaign of world conquest?' ",
+									"TextRect": {
+										"x": 980,
+										"y": 450,
+										"width": 1140,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.55,
+									"TextFadeDuration" : 9.19,
+									"ImageRect": {
+										"x": 1050,
+										"y": 380,
+										"width": 823,
+										"height": 1516
+									},
+									"String" : "Temuchin replies that we will fight not as warriors, but as a unified army. We fight not for our glory, but for the glory of Mongolia.  ",
+									"TextRect": {
+										"x": 1840,
+										"y": 450,
+										"width": 1000,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.95,
+									"TextFadeDuration" : 9.55,
+									"ImageRect": {
+										"x": 2080,
+										"y": 420,
+										"width": 798,
+										"height": 1446
+									},
+									"String" : "And with those words, the name of Temuchin has passed almost into obscurity. His name is replaced with a title: Great Khan. Genghis Khan.",
+									"TextRect": {
+										"x": 980,
+										"y": 840,
+										"width": 1200,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/1/outro/%d.png",
+							"Sound": "genghis1_outro",
+							"Slides": [
+								{
+									"Duration" : 9.75,
+									"TextFadeDuration" : 9.27,
+									"ImageRect": {
+										"x": 1600,
+										"y": 580,
+										"width": 1477,
+										"height": 1376
+									},
+									"String" : "Nearly all of the Mongol tribes have united under the Great Khan. The chieftains of those tribes reluctant to join were boiled alive.",
+									"TextRect": {
+										"x": 950,
+										"y": 390,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.11,
+									"TextFadeDuration" : 11.33,
+									"ImageRect": {
+										"x": 860,
+										"y": 300,
+										"width": 1299,
+										"height": 1617
+									},
+									"String" : "Each day new faces have taken up the bow; unfamiliar hands hold the Nine Bands of yak hair that has become Genghis's standard. There are more men and horses gathered in the camp than I ever knew existed.",
+									"TextRect": {
+										"x": 2000,
+										"y": 720,
+										"width": 950,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 23.40,
+									"TextFadeDuration" : 17.1,
+									"ImageRect": {
+										"x": 1040,
+										"y": 750,
+										"width": 1843,
+										"height": 1127
+									},
+									"String" : "Horse archers and lancers, men in leather cuirass and silk armor, all lift their heads upward to the platform from where Genghis speaks. The Great Khan calls himself the punishment of God. Men smile like hungry wolves. It is dawn of the first day of the Mongolian Empire.",
+									"TextRect": {
+										"x": 1020,
+										"y": 400,
+										"width": 1780,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/2/intro/%d.png",
+							"Sound": "genghis2_intro",
+							"Slides": [
+								{
+									"Duration" : 15.09,
+									"TextFadeDuration" : 12.75,
+									"ImageRect": {
+										"x": 890,
+										"y": 300,
+										"width": 1846,
+										"height": 1167
+									},
+									"String" : "Winter has come to the steppes. The earth is frozen hard as bone, and the only movement is steam rising from the nostrils of men and horses. Only the promise of battle brings warmth.",
+									"TextRect": {
+										"x": 1060,
+										"y": 1470,
+										"width": 1820,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.59,
+									"TextFadeDuration" : 17.06,
+									"ImageRect": {
+										"x": 760,
+										"y": 620,
+										"width": 1257,
+										"height": 1246
+									},
+									"String" : "Nearly all the tribes in Mongolia now answer to Genghis Khan. But with success, comes enemies. A man named Kushluk has challenged Genghis's right to rule. Kushluk sows discord among the Kara-Khitai tribe and means to have himself proclaimed as a rival Khan.",
+									"TextRect": {
+										"x": 1510,
+										"y": 410,
+										"width": 1450,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.48,
+									"TextFadeDuration" : 12.16,
+									"ImageRect": {
+										"x": 1180,
+										"y": 280,
+										"width": 1568,
+										"height": 1295
+									},
+									"String" : "Genghis cannot allow these transgressions to go unpunished. He needs to set an example. So we ride west, to find and slay Kushluk. If the Kara-Khitai shelter him, then their lives are forfeit as well.",
+									"TextRect": {
+										"x": 1020,
+										"y": 1550,
+										"width": 1800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/2/outro/%d.png",
+							"Sound": "genghis2_outro",
+							"Slides": [
+								{
+									"Duration" : 11.93,
+									"TextFadeDuration" : 12.39,
+									"ImageRect": {
+										"x": 1710,
+										"y": 320,
+										"width": 1369,
+										"height": 1561
+									},
+									"String" : "Genghis Khan knows that there are weapons aside from the lance and bow. He is a master of mental warfare. Just as he has made an example of Kushluk, he makes examples of enemy lands.",
+									"TextRect": {
+										"x": 1020,
+										"y": 500,
+										"width": 1280,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.67,
+									"TextFadeDuration" : 13.46,
+									"ImageRect": {
+										"x": 840,
+										"y": 610,
+										"width": 2144,
+										"height": 1278
+									},
+									"String" : "When first we encounter a new adversary, the Great Khan spares no one. We ride to the closest town, slay every living thing, burn down the city, sow the fields with salt, and make a mountain of enemy skulls.",
+									"TextRect": {
+										"x": 990,
+										"y": 400,
+										"width": 1830,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.02,
+									"TextFadeDuration" : 6.8,
+									"ImageRect": {
+										"x": 740,
+										"y": 250,
+										"width": 1456,
+										"height": 1659
+									},
+									"String" : "After that, the other towns are quick to send forth their emissaries, eager to placate the ravenous Mongol hordes.",
+									"TextRect": {
+										"x": 2000,
+										"y": 850,
+										"width": 950,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/3/intro/%d.png",
+							"Sound": "genghis3_intro",
+							"Slides": [
+								{
+									"Duration" : 15.97,
+									"TextFadeDuration" : 15.9,
+									"ImageRect": {
+										"x": 1580,
+										"y": 380,
+										"width": 1407,
+										"height": 1421
+									},
+									"String" : "Now all of Mongolia is in the grasp of Genghis Khan. Beyond are two vast empires: China to the east and Persia to the west. Persia is the sensible next choice of battle, since it separates us from the rich forage pastures in Europe.",
+									"TextRect": {
+										"x": 980,
+										"y": 450,
+										"width": 1300,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 3.90,
+									"TextFadeDuration" : 3.23,
+									"ImageRect": {
+										"x": 1790,
+										"y": 460,
+										"width": 1099,
+										"height": 1407
+									},
+									"String" : "But first, Genghis Khan has another score to settle.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1580,
+										"width": 1400,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 9.38,
+									"TextFadeDuration" : 8.41,
+									"ImageRect": {
+										"x": 890,
+										"y": 460,
+										"width": 1327,
+										"height": 1330
+									},
+									"String" : "After witnessing the power of our cavalry in action, the Chinese spoke of nothing but peace. They even promised support for our campaign westward. ",
+									"TextRect": {
+										"x": 2040,
+										"y": 470,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.36,
+									"TextFadeDuration" : 6.42,
+									"ImageRect": {
+										"x": 1160,
+										"y": 980,
+										"width": 1450,
+										"height": 842
+									},
+									"String" : "But now that we have turned away from China, they have decided not to deliver the men and arms they promised Genghis.",
+									"TextRect": {
+										"x": 1300,
+										"y": 700,
+										"width": 1300,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 16.63,
+									"TextFadeDuration" : 10.77,
+									"ImageRect": {
+										"x": 1279,
+										"y": 300,
+										"width": 1841,
+										"height": 1267
+									},
+									"String" : "It is time for another demonstration. Persia can wait as the Horde wheels east once more, and we prepare to march into China, the largest, most advanced empire in the world.",
+									"TextRect": {
+										"x": 950,
+										"y": 1625,
+										"width": 2000,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/3/outro/%d.png",
+							"Sound": "genghis3_outro",
+							"Slides": [
+								{
+									"Duration" : 10.54,
+									"TextFadeDuration" : 10.08,
+									"ImageRect": {
+										"x": 820,
+										"y": 880,
+										"width": 1719,
+										"height": 1019
+									},
+									"String" : "It was... a glorious slaughter. For years, visitors to China will be astounded by the mountain of human and horse skeletons that we have erected.",
+									"TextRect": {
+										"x": 1200,
+										"y": 500,
+										"width": 1600,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.63,
+									"TextFadeDuration" : 10.34,
+									"ImageRect": {
+										"x": 840,
+										"y": 310,
+										"width": 1581,
+										"height": 1380
+									},
+									"String" : "The Hordes have gained one huge advantage by this invasion of China: technology. We now possess the knowledge and equipment to allow us to make siege weapons.",
+									"TextRect": {
+										"x": 1500,
+										"y": 1550,
+										"width": 1430,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.41,
+									"TextFadeDuration" : 5.16,
+									"ImageRect": {
+										"x": 1010,
+										"y": 780,
+										"width": 2044,
+										"height": 1141
+									},
+									"String" : "We will crack open the Persian and European castles to reach the softer parts within.",
+									"TextRect": {
+										"x": 1200,
+										"y": 600,
+										"width": 1600,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.87,
+									"TextFadeDuration" : 13.04,
+									"ImageRect": {
+										"x": 970,
+										"y": 850,
+										"width": 2020,
+										"height": 1036
+									},
+									"String" : "Genghis is pleased with our progress and with the legacy he leaves behind. His mother once ate wild onions and rodents to keep from starving. But the children and grandchildren of Genghis will eat off plates of Persian gold.",
+									"TextRect": {
+										"x": 1000,
+										"y": 540,
+										"width": 1800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/4/intro/%d.png",
+							"Sound": "genghis4_intro",
+							"Slides": [
+								{
+									"Duration" : 9.79,
+									"TextFadeDuration" : 10.09,
+									"ImageRect": {
+										"x": 1210,
+										"y": 330,
+										"width": 1414,
+										"height": 1054
+									},
+									"String" : "Sleep in the saddle. Drink the rain. Eat nothing but dried meat, dried milk, and horse blood. Such is the life of a Mongol at war.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1525,
+										"width": 1840,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 6.36,
+									"TextFadeDuration" : 5.25,
+									"ImageRect": {
+										"x": 850,
+										"y": 660,
+										"width": 1677,
+										"height": 1246
+									},
+									"String" : "At night we are rewarded with fermented yak's milk and the promise of Persian treasures.",
+									"TextRect": {
+										"x": 1250,
+										"y": 460,
+										"width": 1320,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.36,
+									"TextFadeDuration" : 5.73,
+									"ImageRect": {
+										"x": 1740,
+										"y": 400,
+										"width": 1285,
+										"height": 1397
+									},
+									"String" : "Driven on by the words of the Great Khan we have crossed miles of the Asian continent at a full gallop.",
+									"TextRect": {
+										"x": 1130,
+										"y": 1740,
+										"width": 1700,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 3.50,
+									"TextFadeDuration" : 2.89,
+									"ImageRect": {
+										"x": 910,
+										"y": 1120,
+										"width": 2072,
+										"height": 707
+									},
+									"String" : "Before us lies the vast empire of Persia.",
+									"TextRect": {
+										"x": 1350,
+										"y": 750,
+										"width": 1200,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 10.93,
+									"TextFadeDuration" : 9.06,
+									"ImageRect": {
+										"x": 1180,
+										"y": 300,
+										"width": 1556,
+										"height": 1308
+									},
+									"String" : "The Khwarazm Shah will be given one chance to submit, and then his cities will be pulled down brick by brick. But not all of us head into Persia.",
+									"TextRect": {
+										"x": 1040,
+										"y": 1580,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.83,
+									"TextFadeDuration" : 13.38,
+									"ImageRect": {
+										"x": 830,
+										"y": 560,
+										"width": 1145,
+										"height": 1211
+									},
+									"String" : "Genghis has sent Subotai Ba'atur of the Reindeer People north into Russia. The Russian principalities are disorganized, and Genghis hopes that Subotai can break them one by one. Then the borders of Mongolia will cover all of Asia.",
+									"TextRect": {
+										"x": 1630,
+										"y": 1500,
+										"width": 1300,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/4/outro/%d.png",
+							"Sound": "genghis4_outro",
+							"Slides": [
+								{
+									"Duration" : 14.86,
+									"TextFadeDuration" : 13.95,
+									"ImageRect": {
+										"x": 1230,
+										"y": 760,
+										"width": 1299,
+										"height": 1159
+									},
+									"String" : "The Persian army numbered nearly half a million men but was beaten by a Mongol army less than half that size. The governors of outlying cities were executed by pouring molten silver into their eyes and throats.",
+									"TextRect": {
+										"x": 1130,
+										"y": 480,
+										"width": 1720,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.61,
+									"TextFadeDuration" : 13.65,
+									"ImageRect": {
+										"x": 970,
+										"y": 380,
+										"width": 1960,
+										"height": 857
+									},
+									"String" : "The capitol city of Samarkand, which was expected to withstand our siege for a year, fell in five days. Separate mountains were made of the skulls of men, women, children, horses, dogs, and cats.",
+									"TextRect": {
+										"x": 950,
+										"y": 1400,
+										"width": 1900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.23,
+									"TextFadeDuration" : 14.92,
+									"ImageRect": {
+										"x": 1260,
+										"y": 880,
+										"width": 1700,
+										"height": 973
+									},
+									"String" : "We roamed the streets in wonder at the opulence of the Persians, drinking at their fountains and gorging ourselves on sherbet and tropical fruit. For a man born in a tent, it seemed as if Genghis Khan had torn open the gates to Heaven itself.",
+									"TextRect": {
+										"x": 950,
+										"y": 520,
+										"width": 1970,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.97,
+									"TextFadeDuration" : 11.97,
+									"ImageRect": {
+										"x": 910,
+										"y": 310,
+										"width": 2071,
+										"height": 1278
+									},
+									"String" : "Russia and Mesopotamia were now ours to command. The empire now stretched over seven thousand miles from the Pacific Ocean to the Black Sea. We were about to enter Europe when tragedy struck.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1620,
+										"width": 1800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/5/intro/%d.png",
+							"Sound": "genghis5_intro",
+							"Slides": [
+								{
+									"Duration" : 18.39,
+									"TextFadeDuration" : 13.47,
+									"ImageRect": {
+										"x": 1840,
+										"y": 300,
+										"width": 1204,
+										"height": 805
+									},
+									"String" : "Old wolves do not die gracefully. Warriors their entire lives, they do not know how to live when they grow old and their fangs fall out. Such it is with Mongols as well. Genghis Khan was now eighty years old.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1400,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.68,
+									"TextFadeDuration" : 5.66,
+									"ImageRect": {
+										"x": 1020,
+										"y": 300,
+										"width": 1703,
+										"height": 1042
+									},
+									"String" : "On the night when we knew that our glorious conquest was about to end, Genghis summoned his sons to his tent.",
+									"TextRect": {
+										"x": 1200,
+										"y": 1450,
+										"width": 1600,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 18.39,
+									"TextFadeDuration" : 17.58,
+									"ImageRect": {
+										"x": 850,
+										"y": 700,
+										"width": 1383,
+										"height": 1208
+									},
+									"String" : "They found their father shivering before a fire, delirious with pain. 'My descendants will wear gold,' he said, 'they will eat the finest meats and ride the finest horses... and forget to whom they owe it all. A deed is not glorious until it is finished.'",
+									"TextRect": {
+										"x": 990,
+										"y": 400,
+										"width": 1950,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 6.68,
+									"TextFadeDuration" : 5.47,
+									"ImageRect": {
+										"x": 860,
+										"y": 315,
+										"width": 921,
+										"height": 1588
+									},
+									"String" : "And he refused to die until Ogatai, his third son, promised to continue the war.",
+									"TextRect": {
+										"x": 1840,
+										"y": 600,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 4.36,
+									"TextFadeDuration" : 4.28,
+									"ImageRect": {
+										"x": 1600,
+										"y": 440,
+										"width": 1400,
+										"height": 1474
+									},
+									"String" : "Ogatai emerged from the tent, carrying his father's bow, and declared",
+									"TextRect": {
+										"x": 1350,
+										"y": 420,
+										"width": 930,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.99,
+									"TextFadeDuration" : 5.83,
+									"ImageRect": {
+										"x": 840,
+										"y": 675,
+										"width": 2080,
+										"height": 1215
+									},
+									"String" : "'This storm is not yet finished. I still hear the sound of lightning, and it strikes in Poland.'",
+									"TextRect": {
+										"x": 1100,
+										"y": 520,
+										"width": 1650,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 9.53,
+									"TextFadeDuration" : 8.75,
+									"ImageRect": {
+										"x": 1150,
+										"y": 640,
+										"width": 1657,
+										"height": 1241
+									},
+									"String" : "The church bells rang in Europe when they saw our horde pouring out of the mountains. The armies of Bohemia and Germany hastened to Poland's defense.",
+									"TextRect": {
+										"x": 1080,
+										"y": 470,
+										"width": 1800,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.30,
+									"TextFadeDuration" : 6.4,
+									"ImageRect": {
+										"x": 830,
+										"y": 1120,
+										"width": 2079,
+										"height": 763
+									},
+									"String" : "To them, our army might have been from the Underworld itself, still commanded by the shade of the Great Khan.",
+									"TextRect": {
+										"x": 1000,
+										"y": 920,
+										"width": 1770,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/5/outro/%d.png",
+							"Sound": "genghis5_outro",
+							"Slides": [
+								{
+									"Duration" : 12.12,
+									"TextFadeDuration" : 12.48,
+									"ImageRect": {
+										"x": 790,
+										"y": 590,
+										"width": 1649,
+										"height": 1281
+									},
+									"String" : "European knights fight as individuals, but Mongols fight as part of a united army. Laden down with armor, the Polish and Germans could not catch our quick-footed horses.",
+									"TextRect": {
+										"x": 1800,
+										"y": 490,
+										"width": 1070,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.45,
+									"TextFadeDuration" : 8.54,
+									"ImageRect": {
+										"x": 910,
+										"y": 320,
+										"width": 1481,
+										"height": 1183
+									},
+									"String" : "Time and again we fired flaming arrows at them, then retreated out of range. When the enemy cavalry pursued, we would lead them into an ambush.",
+									"TextRect": {
+										"x": 1080,
+										"y": 1500,
+										"width": 1720,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.81,
+									"TextFadeDuration" : 9.46,
+									"ImageRect": {
+										"x": 1580,
+										"y": 320,
+										"width": 1330,
+										"height": 1057
+									},
+									"String" : "The ambush was always announced by the naqara, a huge drum carried into battle on a camel. A hundred times a hundred times has the naqara sounded on this day.",
+									"TextRect": {
+										"x": 1050,
+										"y": 1535,
+										"width": 1660,
+										"height": 930
+									}
+								},
+								{
+									"Duration" : 15.45,
+									"TextFadeDuration" : 6.85,
+									"ImageRect": {
+										"x": 1040,
+										"y": 350,
+										"width": 1792,
+										"height": 805
+									},
+									"String" : "We were ordered to cut off an ear for every victim. Nine sacks of ears were sent back to Ogatai Khan.",
+									"TextRect": {
+										"x": 1180,
+										"y": 1440,
+										"width": 1690,
+										"height": 972
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/6/intro/%d.png",
+							"Sound": "genghis6_intro",
+							"Slides": [
+								{
+									"Duration" : 16.06,
+									"TextFadeDuration" : 17.0,
+									"ImageRect": {
+										"x": 1200,
+										"y": 330,
+										"width": 1383,
+										"height": 1208
+									},
+									"String" : "Only one enemy stands in our way. France and the nations beyond are beaten from decades of Crusades. If we break Eastern Europe, then it is likely that all of Western Europe will surrender. But to break the East, we must defeat Hungary.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1600,
+										"width": 1820,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 13.16,
+									"TextFadeDuration" : 11.0,
+									"ImageRect": {
+										"x": 1910,
+										"y": 380,
+										"width": 1008,
+										"height": 1488
+									},
+									"String" : "Hungary possesses the most formidable cavalry in all of Europe. They have not only the strength of European armor, but their horses are cousins to our own, having drifted in from across the Russian steppes.",
+									"TextRect": {
+										"x": 1030,
+										"y": 750,
+										"width": 970,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 11.23,
+									"TextFadeDuration" : 10.43,
+									"ImageRect": {
+										"x": 1060,
+										"y": 1050,
+										"width": 1788,
+										"height": 865
+									},
+									"String" : "The Sajo River that separates us from the army of Hungary is frozen so we will be unable to deploy boats. Instead, the battle will be won or lost over who controls the bridge.",
+									"TextRect": {
+										"x": 1020,
+										"y": 650,
+										"width": 1900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.54,
+									"TextFadeDuration" : 8.66,
+									"ImageRect": {
+										"x": 980,
+										"y": 830,
+										"width": 1880,
+										"height": 1061
+									},
+									"String" : "Subotai is coming with reinforcements. If we can survive the charge of Hungarian knights until Subotai arrives, then we can hope to take the bridge.",
+									"TextRect": {
+										"x": 1080,
+										"y": 550,
+										"width": 1770,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 22.60,
+									"TextFadeDuration" : 14.7,
+									"ImageRect": {
+										"x": 900,
+										"y": 360,
+										"width": 2037,
+										"height": 963
+									},
+									"String" : "Much rests on this simple bridge. If we capture the Sajo crossing, we capture Hungary. If Hungary falls, so falls Europe. With Europe and Asia under Mongolian command, our conquest of the world will be complete and final.",
+									"TextRect": {
+										"x": 980,
+										"y": 1380,
+										"width": 1990,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam4/genghis_khan_background.dds",
+							"SlideImageSequence": "textures/campaign/cam4/6/outro/%d.png",
+							"Sound": "genghis6_outro",
+							"Slides": [
+								{
+									"Duration" : 11.66,
+									"TextFadeDuration" : 10.78,
+									"ImageRect": {
+										"x": 860,
+										"y": 330,
+										"width": 1802,
+										"height": 1133
+									},
+									"String" : "Nothing stands between us and the Atlantic Ocean. The Mongol empire comprises two whole continents; Europe and Asia belong to the Hordes.",
+									"TextRect": {
+										"x": 1150,
+										"y": 1600,
+										"width": 1620,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.34,
+									"TextFadeDuration" : 12.53,
+									"ImageRect": {
+										"x": 800,
+										"y": 270,
+										"width": 1201,
+										"height": 1617
+									},
+									"String" : "Every place we entered has changed forever with our passing. Russia, once filled with quarreling city-states, much like ancient Mongolia, will forever be melded into a single, gigantic nation.",
+									"TextRect": {
+										"x": 2050,
+										"y": 880,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 25.00,
+									"TextFadeDuration" : 19.59,
+									"ImageRect": {
+										"x": 960,
+										"y": 720,
+										"width": 2055,
+										"height": 1180
+									},
+									"String" : "Genghis Khan forged the largest empire ever created in the life of one man. His body was carried back to the River Onon, where the legendary Blue Wolf and Fallow Doe once lived. He was buried in the ground and a thousand horsemen rode over the site to disguise it. Genghis Khan's final resting place was devoured by the steppes.",
+									"TextRect": {
+										"x": 1100,
+										"y": 380,
+										"width": 1670,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.1,
+									"TextFadeDuration" : 7.1,
+									"ImageRect": {
+										"x": 1500,
+										"y": 450,
+										"width": 1442,
+										"height": 1460
+									},
+									"String" : "My people cherish the legend that their great ruler will one day return to lead his horsemen to another bloody victory.",
+									"TextRect": {
+										"x": 980,
+										"y": 400,
+										"width": 1150,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

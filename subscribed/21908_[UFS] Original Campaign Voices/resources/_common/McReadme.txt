@@ -1,0 +1,1 @@
+Nothing in the "campaign" folder works until Microsoft fixes the modding support for .json files :(

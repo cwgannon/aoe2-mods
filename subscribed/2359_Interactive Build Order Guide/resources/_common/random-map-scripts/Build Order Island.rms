@@ -1,0 +1,183 @@
+/* Build Order Island - by Cicero */
+
+start_random
+percent_chance 20 #define PH_SPRING
+percent_chance 10 #define PH_ALPINE
+percent_chance 45 #define PH_DESERT
+percent_chance 10 #define PH_AFRICAN_E
+percent_chance 05 #define PH_ASIAN
+percent_chance 10 #define PH_MEDISOUTH
+end_random
+
+#include_drs F_seasons.inc
+
+<PLAYER_SETUP>
+
+direct_placement
+
+#include_drs thebr_setup.inc
+
+<LAND_GENERATION>
+
+base_terrain VODA
+
+create_land
+{            
+terrain_type                     LAYER_A
+land_percent                     20
+clumping_factor                  15
+circle_radius                    20
+left_border                      10
+right_border                     10
+top_border                       10
+bottom_border                    10
+base_size                        14
+other_zone_avoidance_distance    7
+assign_to_player                 1
+land_position                    50 50
+}
+
+<TERRAIN_GENERATION>
+
+#include_drs F_ColorCorrection.inc
+#define WMASK_VODA
+#include_drs F_WaterMasking.inc
+
+create_terrain WOODIES
+{
+base_terrain                   LAYER_A
+spacing_to_other_terrain_types 4
+land_percent                   4
+number_of_clumps               7
+set_avoid_player_start_areas
+set_scale_by_groups
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   LAYER_A
+number_of_clumps               8
+spacing_to_other_terrain_types 0
+land_percent                   10
+set_scale_by_size
+}
+
+create_terrain DLC_ROCK
+{
+base_terrain                   LAYER_B
+number_of_clumps               1000
+spacing_to_other_terrain_types 2
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_A
+{
+base_terrain                   LAYER_B
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+terrain_mask 2
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_C
+{
+base_terrain                   LAYER_A
+number_of_clumps               12
+spacing_to_other_terrain_types 0
+land_percent                   1
+set_scale_by_size
+terrain_mask 1
+}
+
+<OBJECTS_GENERATION>
+
+#define GNR_NORMALTC
+#define GNR_STARTVILLS
+#define GNR_CLASSICSCOUT
+
+#define GNR_GIVERELICS
+
+#define GNR_RELICMODERN_MEDIUM
+
+#define GNR_REGICIDECLASSIC
+#define GNR_6KER
+
+#define GNR_STARTINGGOLD
+#define GNR_STARTINGSTONE
+
+#define GNR_STARTGOLD744CL
+#define GNR_STARTSTONE54CL
+
+create_object SHEEP
+{
+number_of_objects 4
+number_of_groups 1
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 8
+find_closest
+}
+
+create_object SHEEP
+{
+number_of_objects 2
+number_of_groups 2
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 15
+max_distance_to_players 30
+}
+
+create_object BOAR
+{
+number_of_groups 2
+number_of_objects 1
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 16
+max_distance_to_players 19
+}
+
+#define GNR_HOMESTRAGGLE
+#define GNR_NORMALBIRDS
+
+#define GNR_MAPSTRAGGLE
+
+create_object SHORE_FISH
+{
+number_of_objects 200
+set_scaling_to_map_size
+set_gaia_object_only
+temp_min_distance_group_placement 10
+}
+
+create_object TUNA
+{
+number_of_objects 1000
+set_scaling_to_map_size
+set_gaia_object_only
+max_distance_to_other_zones 5
+temp_min_distance_group_placement 5
+}
+
+#include_drs GeneratingObjects.inc

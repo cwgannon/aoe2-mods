@@ -1,0 +1,888 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/1/intro/%d.png",
+							"Sound": "wallace1_intro",
+							"Font": {
+								"FontIndex": 2,
+								"PointSize": 84,
+								"Style": "Italic",
+								"TextColor": {
+									"r": 42,
+									"g": 10,
+									"b": 82,
+									"a": 128
+								}
+							},
+							"Slides": [
+								{
+									"Duration" : 4.92,
+									"TextFadeDuration" : 5.21,
+									"ImageRect": {
+										"x": 800,
+										"y": 290,
+										"width": 2006,
+										"height": 1586
+									},
+									"String" : "We are without a leader. The dead king of Scotland has no heir.",
+									"TextRect": {
+										"x": 2048,
+										"y": 766,
+										"width": 900,
+										"height": 438
+									}
+								},
+								{
+									"Duration" : 18.48,
+									"TextFadeDuration" : 14.85,
+									"ImageRect": {
+										"x": 1860,
+										"y": 390,
+										"width": 1201,
+										"height": 1474
+									},
+									"String" : "War creeps in from the south, where Edward Longshanks, the avaricious King of England, has returned from successful campaigns to conquer Wales and France. As Longshanks turns his attention to Scotland, the shadow of fear settles across the Highlands.",
+									"TextRect": {
+										"x": 911,
+										"y": 625,
+										"width": 1106,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 7.12,
+									"TextFadeDuration" : 6.15,
+									"ImageRect": {
+										"x": 1310,
+										"y": 150,
+										"width": 1810,
+										"height": 1348
+									},
+									"String" : "The English have thousands of Welsh longbowmen, hundreds of knights on horseback, and dozens of siege weapons.",
+									"TextRect": {
+										"x": 1250,
+										"y": 1453,
+										"width": 1257,
+										"height": 541
+									}
+								},
+								{
+									"Duration" : 20.41,
+									"TextFadeDuration" : 12.59,
+									"ImageRect": {
+										"x": 910,
+										"y": 290,
+										"width": 1096,
+										"height": 1558
+									},
+									"String" : "We Scottish have a rabble of untrained soldiers who do not even know how to march in a straight line. We must act soon. If we have any chance of resistance, we need to forge an army by any means necessary.",
+									"TextRect": {
+										"x": 1960,
+										"y": 940,
+										"width": 1080,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/1/outro/%d.png",
+							"Sound": "wallace1_outro",
+							"Slides": [
+								{
+									"Duration" : 14.12,
+									"TextFadeDuration" : 11.82,
+									"ImageRect": {
+										"x": 790,
+										"y": 370,
+										"width": 2006,
+										"height": 1516
+									},
+									"String" : "Scotland has soldiers now, if only a few. But if we are to turn back the greed of Edward Longshanks, we will need many more recruits, and much more gold in our coffers.",
+									"TextRect": {
+										"x": 1859,
+										"y": 332,
+										"width": 1158,
+										"height": 521
+									}
+								},
+								{
+									"Duration" : 9.71,
+									"TextFadeDuration" : 5.24,
+									"ImageRect": {
+										"x": 910,
+										"y": 400,
+										"width": 1488,
+										"height": 1488
+									},
+									"String" : "These ancient stones and oaks around us will soon be steeped in the blood of Clansmen.",
+									"TextRect": {
+										"x": 1898,
+										"y": 1082,
+										"width": 980,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/2/intro/%d.png",
+							"Sound": "wallace2_intro",
+							"Slides": [
+								{
+									"Duration" : 14.62,
+									"TextFadeDuration" : 14.41,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 1985,
+										"height": 1292
+									},
+									"String" : "An army marches on its stomach, or so the old saying goes. My Clansmen have been farming and tending sheep for hundreds of years … but gathering enough food to feed an army is a different matter entirely.",
+									"TextRect": {
+										"x": 1081,
+										"y": 345,
+										"width": 1821,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 7.75,
+									"TextFadeDuration" : 5.13,
+									"ImageRect": {
+										"x": 1370,
+										"y": 360,
+										"width": 1831,
+										"height": 1502
+									},
+									"String" : "Without a strong economy, the meager forces that we have cobbled together will collapse again.",
+									"TextRect": {
+										"x": 878,
+										"y": 306,
+										"width": 1682,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/2/outro/%d.png",
+							"Sound": "wallace2_outro",
+							"Slides": [
+								{
+									"Duration" : 22.89,
+									"TextFadeDuration" : 21.28,
+									"ImageRect": {
+										"x": 720,
+										"y": 65,
+										"width": 1484,
+										"height": 1705
+									},
+									"String" : "Edward Longshanks, for all his disrepute, has shown military tactics in Wales, England, and France to be very effective, if not cruel and ruthless. He is indeed an enemy to be feared. The English sacked the town of Berwick-upon-Tweed. Would that I could call it a battle, but it was truly more of a massacre.",
+									"TextRect": {
+										"x": 1824,
+										"y": 375,
+										"width": 1186,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 10.49,
+									"TextFadeDuration" : 8.39,
+									"ImageRect": {
+										"x": 1600,
+										"y": 140,
+										"width": 1544,
+										"height": 1509
+									},
+									"String" : "Unless we organize our army, there will be more massacres to follow. I pray we can be ready for Longshanks coming.",
+									"TextRect": {
+										"x": 891,
+										"y": 1655,
+										"width": 1756,
+										"height": 338
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/3/intro/%d.png",
+							"Sound": "wallace3_intro",
+							"Slides": [
+								{
+									"Duration" : 18.12,
+									"TextFadeDuration" : 16.42,
+									"ImageRect": {
+										"x": 830,
+										"y": 155,
+										"width": 1495,
+										"height": 1204
+									},
+									"String" : "In villages throughout the Highlands, there is grim talk of skirmishes between Scotland and England. We lost the city of Dunbar this week. Scottish defenders broke ranks and fled. The English have an army that is larger and better trained.",
+									"TextRect": {
+										"x": 1134,
+										"y": 1480,
+										"width": 1736,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.31,
+									"TextFadeDuration" : 9.8,
+									"ImageRect": {
+										"x": 1050,
+										"y": 580,
+										"width": 1824,
+										"height": 1320
+									},
+									"String" : "To compete with them, we are going to need new recruits to pick up the spear, sword, or bow. We must remake these shepherds into soldiers.",
+									"TextRect": {
+										"x": 1234,
+										"y": 330,
+										"width": 1736,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/3/outro/%d.png",
+							"Sound": "wallace3_outro",
+							"Slides": [
+								{
+									"Duration" : 16.11,
+									"TextFadeDuration" : 14.3,
+									"ImageRect": {
+										"x": 960,
+										"y": 380,
+										"width": 1264,
+										"height": 1488
+									},
+									"String" : "Now that we have militias stationed across the border, the English have slowed their raids. But facing Longshanks' army will be another matter. The wicked English king has yet to bring his famous longbows to bear.",
+									"TextRect": {
+										"x": 1679,
+										"y": 356,
+										"width": 1251,
+										"height": 483
+									}
+								},
+								{
+									"Duration" : 8.98,
+									"TextFadeDuration" : 4.82,
+									"ImageRect": {
+										"x": 840,
+										"y": 165,
+										"width": 1943,
+										"height": 1558
+									},
+									"String" : "Our militias can only get us so far. We are going to need more advanced weapons.",
+									"TextRect": {
+										"x": 1592,
+										"y": 1550,
+										"width": 1048,
+										"height": 456
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/4/intro/%d.png",
+							"Sound": "wallace4_intro",
+							"Slides": [
+								{
+									"Duration" : 18.66,
+									"TextFadeDuration" : 17.34,
+									"ImageRect": {
+										"x": 2010,
+										"y": 330,
+										"width": 1061,
+										"height": 1558
+									},
+									"String" : "Rumors creep in from the south of a giant who leads the forces of Scotland, his great sword driving through earth and man and horse alike. If this mythical knight can hold the English advance, it will give us time to develop the arms we need.",
+									"TextRect": {
+										"x": 891,
+										"y": 318,
+										"width": 1458,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 7.96,
+									"TextFadeDuration" : 5.02,
+									"ImageRect": {
+										"x": 910,
+										"y": 310,
+										"width": 1369,
+										"height": 1600
+									},
+									"String" : "Even now our smiths are forging swords, and fletchers are making arrows and crossbow bolts.",
+									"TextRect": {
+										"x": 1266,
+										"y": 363,
+										"width": 1522,
+										"height": 567
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/4/outro/%d.png",
+							"Sound": "wallace4_outro",
+							"Slides": [
+								{
+									"Duration" : 12.31,
+									"TextFadeDuration" : 11.16,
+									"ImageRect": {
+										"x": 1550,
+										"y": 600,
+										"width": 1579,
+										"height": 1281
+									},
+									"String" : "Longshanks has invaded, stormed, and sacked the city of Perth. Worse, he has captured the fabled Stone of Scone and declared himself King of Scotland.",
+									"TextRect": {
+										"x": 1261,
+										"y": 350,
+										"width": 1777,
+										"height": 552
+									}
+								},
+								{
+									"Duration" : 16.92,
+									"TextFadeDuration" : 16.4,
+									"ImageRect": {
+										"x": 950,
+										"y": 320,
+										"width": 1411,
+										"height": 1509
+									},
+									"String" : "If we cannot bring about a victory in battle soon, then the Scottish armies will be too demoralized to put up any fight at all. If this mythical Scottish giant does exist, I wish that he would get his forces up to Stirling, where we shall next do battle.",
+									"TextRect": {
+										"x": 2052,
+										"y": 800,
+										"width": 1100,
+										"height": 1326
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/5/intro/%d.png",
+							"Sound": "wallace5_intro",
+							"Slides": [
+								{
+									"Duration" : 5.50,
+									"TextFadeDuration" : 6.03,
+									"ImageRect": {
+										"x": 910,
+										"y": 370,
+										"width": 1950,
+										"height": 1502
+									},
+									"String" : "The time for minor skirmishes is over. We now prepare for war.",
+									"TextRect": {
+										"x": 1159,
+										"y": 310,
+										"width": 1501,
+										"height": 363
+									}
+								},
+								{
+									"Duration" : 9.91,
+									"TextFadeDuration" : 8.63,
+									"ImageRect": {
+										"x": 990,
+										"y": 565,
+										"width": 1936,
+										"height": 1411
+									},
+									"String" : "The villain, Longshanks, is poised to cross the River Forth and threaten the town of Stirling with a force of men-at-arms, heavy cavalry, and a multitude of archers.",
+									"TextRect": {
+										"x": 1125,
+										"y": 350,
+										"width": 1790,
+										"height": 684
+									}
+								},
+								{
+									"Duration" : 13.42,
+									"TextFadeDuration" : 6.0,
+									"ImageRect": {
+										"x": 790,
+										"y": 150,
+										"width": 1988,
+										"height": 1474
+									},
+									"String" : "Our newly forged army marches southward, to establish our own base and attack the English before they can ready their troops.",
+									"TextRect": {
+										"x": 1123,
+										"y": 1520,
+										"width": 1780,
+										"height": 327
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/5/outro/%d.png",
+							"Sound": "wallace5_outro",
+							"Slides": [
+								{
+									"Duration" : 14.37,
+									"TextFadeDuration" : 12.93,
+									"ImageRect": {
+										"x": 700,
+										"y": 360,
+										"width": 1722,
+										"height": 1484
+									},
+									"String" : "Stirling was our first great victory. Even as we held the coastline, word came in that the Stirling Bridge had been held by a force of Scots led by the mythical knight of whom so many have spoken.",
+									"TextRect": {
+										"x": 2083,
+										"y": 1454,
+										"width": 1000,
+										"height": 795
+									}
+								},
+								{
+									"Duration" : 7.50,
+									"TextFadeDuration" : 4.93,
+									"ImageRect": {
+										"x": 940,
+										"y": 210,
+										"width": 1502,
+										"height": 1845
+									},
+									"String" : "Now we know his name: Sir William Wallace, the Hammer of the English.",
+									"TextRect": {
+										"x": 1880,
+										"y": 1381,
+										"width": 1160,
+										"height": 435
+									}
+								},
+								{
+									"Duration" : 11.88,
+									"TextFadeDuration" : 9.67,
+									"ImageRect": {
+										"x": 1210,
+										"y": 350,
+										"width": 1880,
+										"height": 1523
+									},
+									"String" : "Edward Longshanks names Wallace a traitor and a criminal. But Sir William replies that he cannot be a traitor, since he never swore fealty to an English king.",
+									"TextRect": {
+										"x": 1150,
+										"y": 350,
+										"width": 1605,
+										"height": 447
+									}
+								},
+								{
+									"Duration" : 14.21,
+									"TextFadeDuration" : 8.49,
+									"ImageRect": {
+										"x": 1010,
+										"y": 290,
+										"width": 1670,
+										"height": 1614
+									},
+									"String" : "With Wallace leading our armies, the men fight with renewed vigor. Perhaps the tide of our misfortunes is about to turn …",
+									"TextRect": {
+										"x": 1126,
+										"y": 353,
+										"width": 1874,
+										"height": 552
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/6/intro/%d.png",
+							"Sound": "wallace6_intro",
+							"Slides": [
+								{
+									"Duration" : 8.91,
+									"TextFadeDuration" : 10.61,
+									"ImageRect": {
+										"x": 700,
+										"y": 220,
+										"width": 1754,
+										"height": 1638
+									},
+									"String" : "Our coffers were depleted at the Battle of Stirling, so we need to strengthen our economy once again before pushing south into lands held by the English.",
+									"TextRect": {
+										"x": 2008,
+										"y": 920,
+										"width": 1100,
+										"height": 348
+									}
+								},
+								{
+									"Duration" : 7.18,
+									"TextFadeDuration" : 4.46,
+									"ImageRect": {
+										"x": 910,
+										"y": 310,
+										"width": 1705,
+										"height": 1589
+									},
+									"String" : "We need to construct a market and establish trade routes to the villages of friendly clans.",
+									"TextRect": {
+										"x": 1880,
+										"y": 570,
+										"width": 990,
+										"height": 537
+									}
+								},
+								{
+									"Duration" : 10.90,
+									"TextFadeDuration" : 9.2,
+									"ImageRect": {
+										"x": 1250,
+										"y": 400,
+										"width": 1932,
+										"height": 1512
+									},
+									"String" : "Local legends speak of three sacred relics hidden south of Stirling. Acquiring these artifacts for Wallace's army will be a great boost to Scottish morale.",
+									"TextRect": {
+										"x": 1150,
+										"y": 308,
+										"width": 1730,
+										"height": 921
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/6/outro/%d.png",
+							"Sound": "wallace6_outro",
+							"Slides": [
+								{
+									"Duration" : 8.62,
+									"TextFadeDuration" : 8.3,
+									"ImageRect": {
+										"x": 900,
+										"y": 480,
+										"width": 2167,
+										"height": 1334
+									},
+									"String" : "With the three relics locked away safely in Scottish churches, men murmur that we are blessed by the heavens.",
+									"TextRect": {
+										"x": 1091,
+										"y": 338,
+										"width": 1932,
+										"height": 492
+									}
+								},
+								{
+									"Duration" : 10.63,
+									"TextFadeDuration" : 8.12,
+									"ImageRect": {
+										"x": 740,
+										"y": 450,
+										"width": 1600,
+										"height": 1470
+									},
+									"String" : "Our army now stands a chance as we prepare for the final clash with the English.  Scotland now has archers and knights of our own with which to meet Longshanks.",
+									"TextRect": {
+										"x": 1153,
+										"y": 380,
+										"width": 1811,
+										"height": 336
+									}
+								},
+								{
+									"Duration" : 15.19,
+									"TextFadeDuration" : 7.16,
+									"ImageRect": {
+										"x": 1610,
+										"y": 160,
+										"width": 1575,
+										"height": 1614
+									},
+									"String" : "We march south, to Falkirk, where we will rendezvous with the army of William Wallace and plan our combined attack upon the English castle.",
+									"TextRect": {
+										"x": 836,
+										"y": 900,
+										"width": 889,
+										"height": 372
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/7/intro/%d.png",
+							"Sound": "wallace7_intro",
+							"Slides": [
+								{
+									"Duration" : 11.51,
+									"TextFadeDuration" : 9.48,
+									"ImageRect": {
+										"x": 870,
+										"y": 260,
+										"width": 2107,
+										"height": 1694
+									},
+									"String" : "The only way we can hold the boggy lowlands around Falkirk is to build a castle and as many walls as we can construct in a short time.",
+									"TextRect": {
+										"x": 1200,
+										"y": 380,
+										"width": 1828,
+										"height": 568
+									}
+								},
+								{
+									"Duration" : 8.95,
+									"TextFadeDuration" : 6.12,
+									"ImageRect": {
+										"x": 810,
+										"y": 410,
+										"width": 1929,
+										"height": 1568
+									},
+									"String" : "These fortifications will serve to protect our camp as we construct siege weapons with which to assault the English castle.",
+									"TextRect": {
+										"x": 1199,
+										"y": 317,
+										"width": 1775,
+										"height": 450
+									}
+								},
+								{
+									"Duration" : 10.59,
+									"TextFadeDuration" : 8.76,
+									"ImageRect": {
+										"x": 1010,
+										"y": 610,
+										"width": 2111,
+										"height": 1278
+									},
+									"String" : "Once the castle is constructed, Wallace himself has sworn to join our forces and together we will attack Longshanks and his English troops.",
+									"TextRect": {
+										"x": 1169,
+										"y": 380,
+										"width": 1633,
+										"height": 438
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam1/wallace_background.dds",
+							"SlideImageSequence": "textures/campaign/cam1/7/outro/%d.png",
+							"Sound": "wallace7_outro",
+							"Slides": [
+								{
+									"Duration" : 12.05,
+									"TextFadeDuration" : 10.17,
+									"ImageRect": {
+										"x": 1110,
+										"y": 400,
+										"width": 2037,
+										"height": 1509
+									},
+									"String" : "It looked certain that we would be defeated at Falkirk. Yet somehow, though outnumbered and outranged by English longbows, we were victorious.",
+									"TextRect": {
+										"x": 1180,
+										"y": 350,
+										"width": 1877,
+										"height": 681
+									}
+								},
+								{
+									"Duration" : 8.32,
+									"TextFadeDuration" : 5.09,
+									"ImageRect": {
+										"x": 950,
+										"y": 750,
+										"width": 2107,
+										"height": 1117
+									},
+									"String" : "The English castle was torn down and a Scottish one will be built in its place.",
+									"TextRect": {
+										"x": 1158,
+										"y": 351,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.83,
+									"TextFadeDuration" : 12.17,
+									"ImageRect": {
+										"x": 1700,
+										"y": 260,
+										"width": 1470,
+										"height": 1666
+									},
+									"String" : "William Wallace has shown us the path to victory. Although he is but one man, he inspires great deeds in others and many of the Scottish princes and lords have drawn their swords with his.",
+									"TextRect": {
+										"x": 870,
+										"y": 1023,
+										"width": 1100,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 7.12,
+									"TextFadeDuration" : 6.24,
+									"ImageRect": {
+										"x": 910,
+										"y": 265,
+										"width": 844,
+										"height": 1645
+									},
+									"String" : "Wallace's own sword is a five-and-a-half-foot beast, forged of course in Scotland.",
+									"TextRect": {
+										"x": 1678,
+										"y": 779,
+										"width": 1383,
+										"height": 448
+									}
+								},
+								{
+									"Duration" : 19.41,
+									"TextFadeDuration" : 14.11,
+									"ImageRect": {
+										"x": 910,
+										"y": 180,
+										"width": 2114,
+										"height": 1313
+									},
+									"String" : "He has sworn not to rest, until his sword finds the neck of Edward Longshanks.  The struggle will continue, but we have learned the ways of war. Now it is the English who will know fear.",
+									"TextRect": {
+										"x": 1098,
+										"y": 1557,
+										"width": 1821,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

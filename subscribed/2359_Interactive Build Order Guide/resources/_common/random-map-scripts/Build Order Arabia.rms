@@ -1,0 +1,355 @@
+/* Build Order Arabia - by Cicero */
+
+start_random
+percent_chance 20 #define PH_SPRING
+percent_chance 10 #define PH_ALPINE
+percent_chance 45 #define PH_DESERT
+percent_chance 10 #define PH_AFRICAN_E
+percent_chance 05 #define PH_ASIAN
+percent_chance 10 #define PH_MEDISOUTH
+end_random
+
+#include_drs F_seasons.inc
+
+<PLAYER_SETUP>
+
+direct_placement
+
+#include_drs thebr_setup.inc
+
+<LAND_GENERATION>
+
+base_terrain LAYER_A
+
+create_land
+{ 
+terrain_type DLC_ROCK
+number_of_tiles 1440
+base_size 14
+border_fuzziness 15
+assign_to_player 1
+land_position 50 50
+}
+
+<TERRAIN_GENERATION>
+
+#include_drs F_ColorCorrection.inc
+
+create_terrain WOODIES
+{
+base_terrain                   LAYER_A
+spacing_to_other_terrain_types 5
+land_percent                   9
+number_of_clumps               8
+set_avoid_player_start_areas     
+set_scale_by_groups
+}
+
+create_terrain WOODIES
+{
+base_terrain DLC_ROCK
+spacing_to_other_terrain_types 2
+number_of_tiles 200
+number_of_clumps 3
+set_avoid_player_start_areas
+}
+
+create_terrain LAYER_A
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+}
+
+create_terrain LAYER_A
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+}
+
+
+create_terrain LAYER_A
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   LAYER_A
+number_of_clumps               16
+spacing_to_other_terrain_types 0
+land_percent                   20
+set_scale_by_size
+}
+
+create_terrain DLC_ROCK
+{
+base_terrain                   LAYER_B
+number_of_clumps               1000
+spacing_to_other_terrain_types 2
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_A
+{
+base_terrain                   LAYER_B
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain LAYER_B
+{
+base_terrain                   DLC_ROCK
+number_of_clumps               1000
+spacing_to_other_terrain_types 0
+land_percent                   100
+set_scale_by_size
+}
+
+create_terrain WOODIES_B
+{
+base_terrain                   LAYER_A
+spacing_to_other_terrain_types 3
+land_percent                   1
+number_of_clumps               3
+set_avoid_player_start_areas     
+set_scale_by_groups
+}
+
+create_terrain LAYER_C
+{
+base_terrain                   LAYER_A
+number_of_clumps               24
+spacing_to_other_terrain_types 1
+land_percent                   2
+set_scale_by_size
+}
+
+create_terrain LAYER_C
+{
+base_terrain                   LAYER_A
+number_of_clumps               30
+spacing_to_other_terrain_types 1
+land_percent                   2
+set_scale_by_size
+}
+
+<OBJECTS_GENERATION>
+
+create_object TOWN_CENTER
+{
+set_place_for_every_player
+group_placement_radius 18
+min_distance_to_players 0
+max_distance_to_players 0
+}
+
+create_object VILLAGER
+{
+set_place_for_every_player
+min_distance_to_players 6
+max_distance_to_players 6
+}
+
+create_object SCOUT
+{
+number_of_objects 1
+set_place_for_every_player
+min_distance_to_players 7
+max_distance_to_players 9
+avoid_forest_zone 1
+}
+
+create_object KERICEK
+{
+number_of_objects 6
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 9
+max_distance_to_players 13
+actor_area 1
+actor_area_radius 4
+min_distance_group_placement 2
+avoid_forest_zone 4
+}
+
+create_object GOLD
+{
+number_of_objects 7
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 12
+max_distance_to_players 17
+actor_area 2
+actor_area_radius 5
+avoid_actor_area 1
+avoid_forest_zone 4
+}
+
+create_object STONE
+{
+number_of_objects 5
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 13
+max_distance_to_players 18
+actor_area 3
+actor_area_radius 5
+avoid_actor_area 1
+avoid_actor_area 2
+avoid_forest_zone 3
+}
+
+create_object GOLD
+{
+number_of_objects 4
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 17
+max_distance_to_players 22
+actor_area 4
+actor_area_radius 5
+avoid_actor_area 1
+avoid_actor_area 2
+avoid_actor_area 3
+avoid_forest_zone 3
+}
+
+create_object STONE
+{
+number_of_objects 4
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 19
+max_distance_to_players 24
+actor_area 5
+actor_area_radius 5
+avoid_actor_area 1
+avoid_actor_area 2
+avoid_actor_area 3
+avoid_actor_area 4
+avoid_forest_zone 3
+}
+
+create_object GOLD
+{
+number_of_objects 4
+group_placement_radius 3
+set_tight_grouping
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 23
+max_distance_to_players 28
+actor_area_radius 5
+avoid_actor_area 1
+avoid_actor_area 2
+avoid_actor_area 3
+avoid_actor_area 4
+avoid_actor_area 5
+avoid_forest_zone 3
+}
+
+create_object SHEEP
+{
+number_of_objects 4
+number_of_groups 1
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 8
+find_closest
+}
+
+create_object SHEEP
+{
+number_of_objects 2
+number_of_groups 2
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 15
+max_distance_to_players 30
+}
+
+create_object BOAR
+{
+number_of_groups 2
+number_of_objects 1
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 16
+max_distance_to_players 19
+}
+
+create_object STRAGGLER 
+{
+number_of_objects 2
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 4
+max_distance_to_players 5
+min_distance_group_placement 2
+avoid_actor_area 14
+}
+
+create_object STRAGGLER 
+{
+number_of_objects 3
+set_gaia_object_only
+set_place_for_every_player
+min_distance_to_players 6
+max_distance_to_players 8
+min_distance_group_placement 2
+avoid_actor_area 14
+}
+
+create_object STRAGGLER 
+{
+number_of_objects 30
+set_gaia_object_only
+set_scaling_to_map_size
+min_distance_to_players 15
+}
+
+#include_drs GeneratingObjects.inc
+
+<ELEVATION_GENERATION>
+
+create_elevation 7
+{
+base_terrain LAYER_A
+number_of_clumps 30
+number_of_tiles 3000        
+}
+
+<CLIFF_GENERATION>
+min_number_of_cliffs 10
+max_number_of_cliffs 15
+min_length_of_cliff  3
+max_length_of_cliff  10

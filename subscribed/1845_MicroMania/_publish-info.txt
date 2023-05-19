@@ -1,0 +1,2 @@
+Visibility=PUBLIC
+Description=MicroMania is a micro training map. Each alive unit gives 10 gold by total 11 rounds. Earn more gold than other player to win!

@@ -1,0 +1,2238 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/tours/intro/%d.png",
+							"Sound": "tours_intro",
+							"Slides": [
+								{
+									"Duration" : 27.49,
+									"TextFadeDuration" : 25.51,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1610,
+										"y": 800,
+										"width": 1393,
+										"height": 1092
+									},
+									"String" : "It is impossible to imagine the world ending on such a fine fall day.  Yet the storm of Moslem horses continues to rage throughout Europe, leaving conquered cities and shattered armies stunned in its wake. The lightning-quick strikes of the Moslem horses break the city of Bordeaux, and then Poitiers, leaving precious little of the Frankish kingdom to defend.",
+									"TextRect": {
+										"x": 900,
+										"y": 420,
+										"width": 1710,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 7.43,
+									"TextFadeDuration" : 6.0,
+									"ImageRect": {
+										"x": 1610,
+										"y": 800,
+										"width": 1393,
+										"height": 1092
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Yet, Charles Martel gathers the disheartened Frankish army for one last stand at the city of Tours.",
+									"TextRect": {
+										"x": 900,
+										"y": 420,
+										"width": 1710,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 16.25,
+									"TextFadeDuration" : 13.86,
+									"ImageRect": {
+										"x": 1060,
+										"y": 820,
+										"width": 1740,
+										"height": 1075
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "Moslem horses, bred for speed and beauty, begin to splash across the Vienne River.  Martel's knights and swordsmen, trudging under the weight of iron mail, struggle to interpose themselves between the Moslems and the city of Tours. ",
+									"TextRect": {
+										"x": 1100,
+										"y": 420,
+										"width": 1710,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 16.42,
+									"TextFadeDuration" : 12.4,
+									"ImageRect": {
+										"x": 1060,
+										"y": 820,
+										"width": 1740,
+										"height": 1075
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Carrion birds circle in the air, anticipating the savagery to come.  The rest of Europe watches anxiously, for this is the climax of the Moslem invasion and the last stand of Christian Europe.",
+									"TextRect": {
+										"x": 1100,
+										"y": 420,
+										"width": 1710,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/tours/outro/%d.png",
+							"Sound": "tours_outro",
+							"Slides": [
+								{
+									"Duration" : 21.73,
+									"TextFadeDuration" : 21.0,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1180,
+										"y": 1240,
+										"width": 1628,
+										"height": 795
+									},
+									"String" : "The soul of the Frankish army was its knights, but Charles Martel knew that his cavalry -- undisciplined, buried under weight of weapons and armor -- could not match the swiftness of the Moslem riders.  Therefore, he ordered the knights to dismount and join ranks with the Frankish swordsmen to form a tight shield wall.",
+									"TextRect": {
+										"x": 1050,
+										"y": 520,
+										"width": 1710,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 17.83,
+									"TextFadeDuration" : 15.69,
+									"ImageRect": {
+										"x": 1180,
+										"y": 1240,
+										"width": 1628,
+										"height": 795
+									},
+									"FadeInTime" : 0.0,
+									"String" : "The Moslems had always conquered with swift offensiveness and were not equipped to counter the Franks' defensive strategy.  The arrows of the Moslem archers bounced harmlessly off the heavy Frankish armor, and the light Moslem cavalry could not breach the human chain.",
+									"TextRect": {
+										"x": 1050,
+										"y": 520,
+										"width": 1710,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 19.9,
+									"TextFadeDuration" : 15.9,
+									"ImageRect": {
+										"x": 880,
+										"y": 230,
+										"width": 1323,
+										"height": 1673
+									},
+									"String" : "Battered and bleeding, the Moslems broke ranks and fled back to the Pyrenees and the protection of Spain.  From Charles Martel's Frankish kingdom, eventually grew the Holy Roman Empire, making him the founding father of both Germany and France.",
+									"TextRect": {
+										"x": 1920,
+										"y": 740,
+										"width": 1100,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/vinlandsaga/intro/%d.png",
+							"Sound": "vinland_intro",
+							"Slides": [
+								{
+									"Duration" : 21.17,
+									"TextFadeDuration" : 19.02,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1630,
+										"y": 440,
+										"width": 1390,
+										"height": 1316
+									},
+									"String" : "In the gloom, the longhouse feels empty.  But it is filled with the odors of rust and tar and animal fur, and the snoring of dogs.  It is the man named Erik who speaks, smacking scarred fingers together for emphasis, the steam of his breath tangling with the wood smoke.  ",
+									"TextRect": {
+										"x": 900,
+										"y": 400,
+										"width": 1440,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 24.33,
+									"TextFadeDuration" : 21.33,
+									"ImageRect": {
+										"x": 1140,
+										"y": 1050,
+										"width": 1890,
+										"height": 868
+									},
+									"FadeInTime" : 0.0,
+									"String" : "He fills the men's heads with legends of exploration and raiding, of a sea that eats longboats and an undiscovered country ripe for Viking occupation.  He tells the Vikings that they can leave their frigid homeland, and sail across the endless Sea of Worms to a new world brimming with wild grain and grapes and tall trees.",
+									"TextRect": {
+										"x": 1280,
+										"y": 450,
+										"width": 1540,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 19.57,
+									"TextFadeDuration" : 16.07,
+									"ImageRect": {
+										"x": 1210,
+										"y": 210,
+										"width": 1838,
+										"height": 1435
+									},
+									"String" : "To the Vikings, he speaks of paradise, and of course the grizzled Norse men are always eager for adventure.  When he asks for volunteers, men slam their weapons on tables and shout his name in the cold air.  Erik the Red smiles.",
+									"TextRect": {
+										"x": 880,
+										"y": 1460,
+										"width": 1300,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/vinlandsaga/outro/%d.png",
+							"Sound": "vinland_outro",
+							"Slides": [
+								{
+									"Duration" : 18.57,
+									"TextFadeDuration" : 18.33,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1470,
+										"y": 590,
+										"width": 1544,
+										"height": 1285
+									},
+									"String" : "Much of the Viking history is recorded in oral accounts called sagas passed down through generations.  The most famous sagas are reserved for the adventures of Erik the Red and his men who crossed the mighty sea in tiny ships to forge a new Viking sovereignty.",
+									"TextRect": {
+										"x": 880,
+										"y": 300,
+										"width": 2080,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.18,
+									"TextFadeDuration" : 14.74,
+									"ImageRect": {
+										"x": 1470,
+										"y": 590,
+										"width": 1544,
+										"height": 1285
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Vinland, as the new world was called, was not kind to the Vikings.  Though they lacked the iron weapons of the Norsemen, the native Skraelings were fierce warriors, and fought relentlessly to defend their homeland against the Norse invaders.  ",
+									"TextRect": {
+										"x": 880,
+										"y": 300,
+										"width": 2080,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.42,
+									"TextFadeDuration" : 9.74,
+									"ImageRect": {
+										"x": 1280,
+										"y": 630,
+										"width": 1740,
+										"height": 1302
+									},
+									"String" : "The vastness of the North Atlantic cut off the Vikings in Newfoundland from their homeland, and they suffered many long years in trying to establish their new colony.",
+									"TextRect": {
+										"x": 880,
+										"y": 350,
+										"width": 1780,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/hastings/intro/%d.png",
+							"Sound": "hastings_intro",
+							"Slides": [
+								{
+									"Duration" : 21.73,
+									"TextFadeDuration" : 19.7,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 920,
+										"y": 355,
+										"width": 1064,
+										"height": 1498
+									},
+									"String" : "Mercenaries and Norman knights look dubiously at the ships that wobble in the black, fog-choked sea.  What man is this Duke William to put so many horses on leaky transports?  William ignores their questioning glances and stares across the channel in the direction of England. ",
+									"TextRect": {
+										"x": 2020,
+										"y": 820,
+										"width": 800,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 14.02,
+									"TextFadeDuration" : 12.69,
+									"ImageRect": {
+										"x": 920,
+										"y": 355,
+										"width": 1064,
+										"height": 1498
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Edward the Confessor is dead and now three men claim rulership of England. Harold the Saxon sits on the English throne and even now hastens to fortify his shores against two invasions.  ",
+									"TextRect": {
+										"x": 2020,
+										"y": 820,
+										"width": 800,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 15.82,
+									"TextFadeDuration" : 12.89,
+									"ImageRect": {
+										"x": 890,
+										"y": 860,
+										"width": 1768,
+										"height": 1085
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "Harold Hardraade, King of Denmark and Norway, sends Vikings from the north as William invades from the south.  The outcome of this three-way conflict is as murky as the fog that shrouds the English Channel.",
+									"TextRect": {
+										"x": 1150,
+										"y": 470,
+										"width": 1600,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 23.53,
+									"TextFadeDuration" : 17.34,
+									"ImageRect": {
+										"x": 890,
+										"y": 860,
+										"width": 1768,
+										"height": 1085
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Harold the Saxon's huskarls are professional soldiers, not mercenaries.  William's only chance of defeating them is to use heavy cavalry.  But to do so, he must first get all of these horses onto these unreliable boats.  The future of England is about to be decided...",
+									"TextRect": {
+										"x": 1150,
+										"y": 470,
+										"width": 1600,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/hastings/outro/%d.png",
+							"Sound": "hastings_outro",
+							"Slides": [
+								{
+									"Duration" : 19.61,
+									"TextFadeDuration" : 17.01,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1900,
+										"y": 700,
+										"width": 1103,
+										"height": 1159
+									},
+									"String" : "Harold the Saxon's huskarls looked certain to defend the crown for him as they fought the Vikings to a bloody stalemate at Stamford Bridge.  Despite his losses, Harold marched his exhausted troops south to meet William the Conqueror near Hastings.",
+									"TextRect": {
+										"x": 950,
+										"y": 750,
+										"width": 1040,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 16.97,
+									"TextFadeDuration" : 15.27,
+									"ImageRect": {
+										"x": 1900,
+										"y": 700,
+										"width": 1103,
+										"height": 1159
+									},
+									"FadeInTime" : 0.0,
+									"String" : "William's archers and pikemen were no match for Harold the Saxon's veteran huskarls.  Harold even broke the charge of William's knights.  William himself went down in the fray and as rumors of his death spread, the Normans turned to flee.  ",
+									"TextRect": {
+										"x": 950,
+										"y": 750,
+										"width": 1040,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 23.21,
+									"TextFadeDuration" : 22.46,
+									"ImageRect": {
+										"x": 930,
+										"y": 480,
+										"width": 690,
+										"height": 1295
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "But William was not dead, and he rallied his troops by throwing aside his helmet so they could see his clean-shaven face and know he was alive.  William and his armored knights rode down the huskarls, breaking the Saxon force, and continued their ride all the way to London. William was crowned king on Christmas Day.",
+									"TextRect": {
+										"x": 1700,
+										"y": 850,
+										"width": 1200,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 15.52,
+									"TextFadeDuration" : 11.37,
+									"ImageRect": {
+										"x": 930,
+										"y": 480,
+										"width": 690,
+										"height": 1295
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Because his reign eventually ushered England into a position of unprecedented world leadership, the year 1066 became established as the most famous date in English history.",
+									"TextRect": {
+										"x": 1700,
+										"y": 850,
+										"width": 1200,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/manzikert/intro/%d.png",
+							"Sound": "manzikert_intro",
+							"Slides": [
+								{
+									"Duration" : 19.41,
+									"TextFadeDuration" : 17.9,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1210,
+										"y": 240,
+										"width": 1579,
+										"height": 1204
+									},
+									"String" : "Minarets of dust twist upwards as horse hooves strike the fractured earth.  Thousands of Seljuk Turks stream across the barrens of Anatolia to converge on the walled city of Manzikert, which was recently recaptured by the Byzantium army.",
+									"TextRect": {
+										"x": 980,
+										"y": 1420,
+										"width": 1850,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 19.69,
+									"TextFadeDuration" : 17.12,
+									"ImageRect": {
+										"x": 1210,
+										"y": 240,
+										"width": 1579,
+										"height": 1204
+									},
+									"FadeInTime" : 0.0,
+									"String" : "The Byzantines are the heirs of Rome, and their armored cataphracts and legions of disciplined swordsmen can smash aside the light armored Turkish horse archers -- provided they can catch them.  But an unlikely turn of events has greatly improved the Turks' chances for victory.",
+									"TextRect": {
+										"x": 980,
+										"y": 1420,
+										"width": 1850,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 14.76,
+									"TextFadeDuration" : 14.1,
+									"ImageRect": {
+										"x": 990,
+										"y": 1120,
+										"width": 1890,
+										"height": 809
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "The Byzantine army is wracked by treachery and deceit from within. One day a band of mercenaries deserts the Byzantines.  On another, the army's second in command leads a treacherous conspiracy against the commanding general.",
+									"TextRect": {
+										"x": 1200,
+										"y": 520,
+										"width": 1480,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 16.45,
+									"TextFadeDuration" : 8.07,
+									"ImageRect": {
+										"x": 990,
+										"y": 1120,
+										"width": 1890,
+										"height": 809
+									},
+									"FadeInTime" : 0.0,
+									"String" : "If the Turks can somehow turn the splintering factions against the Byzantine army, they may overcome a better-equipped and better-trained enemy.",
+									"TextRect": {
+										"x": 1200,
+										"y": 520,
+										"width": 1480,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/manzikert/outro/%d.png",
+							"Sound": "manzikert_outro",
+							"Slides": [
+								{
+									"Duration" : 18.89,
+									"TextFadeDuration" : 16.05,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 690,
+										"y": 815,
+										"width": 1474,
+										"height": 1145
+									},
+									"String" : "As long as the sun was in the sky, the Byzantine army could fight the Turks back towards their camp.  But when dusk settled over Anatolia, the Turks could harass the ponderous Byzantine cavalry as it withdrew to Manzikert.",
+									"TextRect": {
+										"x": 1450,
+										"y": 480,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 10.91,
+									"TextFadeDuration" : 8.79,
+									"ImageRect": {
+										"x": 690,
+										"y": 815,
+										"width": 1474,
+										"height": 1145
+									},
+									"FadeInTime" : 0.0,
+									"String" : "When they could stand no more of this torment, the Byzantine flanks collapsed into a full rout and the Turkish horse archers pounced for a quick kill.",
+									"TextRect": {
+										"x": 1450,
+										"y": 480,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 20.26,
+									"TextFadeDuration" : 17.36,
+									"ImageRect": {
+										"x": 890,
+										"y": 390,
+										"width": 1257,
+										"height": 1229
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "The Battle of Manzikert was not lost due to the poor performance of soldiers or commanders, but through Byzantine treachery. Deceit from within the armies disrupted the chain of command, as factions feuding for control of the throne in Constantinople betrayed their armies at the front.",
+									"TextRect": {
+										"x": 2100,
+										"y": 720,
+										"width": 920,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 24.29,
+									"TextFadeDuration" : 13.72,
+									"ImageRect": {
+										"x": 890,
+										"y": 390,
+										"width": 1257,
+										"height": 1229
+									},
+									"FadeInTime" : 0.0,
+									"String" : "A much-weakened Byzantium was then forced to call to the rest of the Christian West for help, leading to the Crusades.  The Byzantine Empire lingered for another four centuries but in only a shadow of its former glory.",
+									"TextRect": {
+										"x": 2100,
+										"y": 720,
+										"width": 920,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/agincourt/intro/%d.png",
+							"Sound": "agincourt_intro",
+							"Slides": [
+								{
+									"Duration" : 19.87,
+									"TextFadeDuration" : 16.18,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 900,
+										"y": 470,
+										"width": 1288,
+										"height": 1327
+									},
+									"String" : "The rains come again, until there is nothing left of road or wood or field, nothing in the entire world but mud. The exhausted English soldiers hoist their longbows over their heads, trying to protect the precious yew wood from the water.",
+									"TextRect": {
+										"x": 2200,
+										"y": 820,
+										"width": 860,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 14.48,
+									"TextFadeDuration" : 10.93,
+									"ImageRect": {
+										"x": 900,
+										"y": 470,
+										"width": 1288,
+										"height": 1327
+									},
+									"FadeInTime" : 0.0,
+									"String" : "The empty wagons can scarcely roll forward, even though all of the supplies have long been eaten.  From the rear terrifying hoof beats resound.  The French knights have come.",
+									"TextRect": {
+										"x": 2200,
+										"y": 820,
+										"width": 860,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 13.74,
+									"TextFadeDuration" : 11.81,
+									"ImageRect": {
+										"x": 910,
+										"y": 250,
+										"width": 1845,
+										"height": 1428
+									},
+									"FadeOutTime" : 0.0,
+									"String" : "The English have been in a slow retreat ever since the debacle at Harfleur, where King Henry the Fifth's glorious siege dragged on and on, costing the lives of 3000 Englishmen.",
+									"TextRect": {
+										"x": 1660,
+										"y": 1460,
+										"width": 1160,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.11,
+									"TextFadeDuration" : 11.77,
+									"ImageRect": {
+										"x": 910,
+										"y": 250,
+										"width": 1845,
+										"height": 1428
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "Now Henry has all but abandoned his dream of establishing his hereditary claim to the French crown.  Like his men, he only wants to reach Calais and the ships that will return them home to England.",
+									"TextRect": {
+										"x": 1660,
+										"y": 1460,
+										"width": 1160,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 16.94,
+									"TextFadeDuration" : 14.58,
+									"ImageRect": {
+										"x": 910,
+										"y": 250,
+										"width": 1845,
+										"height": 1428
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "But on the road back to Calais, the French army overtakes Henry.  Knowing that the English are fatigued, starving and outnumbered three to one, the French have no interest in negotiation.  The English make their stand on a wooded hilltop. ",
+									"TextRect": {
+										"x": 1660,
+										"y": 1460,
+										"width": 1160,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.27,
+									"TextFadeDuration" : 5.79,
+									"ImageRect": {
+										"x": 910,
+										"y": 250,
+										"width": 1845,
+										"height": 1428
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "The archers plant stakes in the ground to offer some barrier against the deadly French cavalry.",
+									"TextRect": {
+										"x": 1660,
+										"y": 1460,
+										"width": 1160,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.47,
+									"TextFadeDuration" : 11.71,
+									"ImageRect": {
+										"x": 910,
+										"y": 250,
+										"width": 1845,
+										"height": 1428
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Henry's only hope is that his lightly-armored infantry prove more nimble than the impetuous French knights and that the range of his archers can even the odds before the French horses are upon them.",
+									"TextRect": {
+										"x": 1660,
+										"y": 1460,
+										"width": 1160,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/agincourt/outro/%d.png",
+							"Sound": "agincourt_outro",
+							"Slides": [
+								{
+									"Duration" : 16.62,
+									"TextFadeDuration" : 18.14,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 650,
+										"y": 400,
+										"width": 1953,
+										"height": 1582
+									},
+									"String" : "The Battle of Agincourt is remembered not because it was an inevitable triumph, but because it was an upset.  Outnumbered English longbows were victorious over French knights only because the knights had to charge up a muddy hill through a dense forest.",
+									"TextRect": {
+										"x": 2000,
+										"y": 420,
+										"width": 980,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 15.81,
+									"TextFadeDuration" : 12.54,
+									"ImageRect": {
+										"x": 650,
+										"y": 400,
+										"width": 1953,
+										"height": 1582
+									},
+									"FadeInTime" : 0.0,
+									"String" : "The English wore little armor, and were able to catch the encumbered French in the middle of their retreat.  A charge by Henry and his surviving cavalry pushed aside the beaten French and opened the road to the coast.",
+									"TextRect": {
+										"x": 2000,
+										"y": 420,
+										"width": 980,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 16.32,
+									"TextFadeDuration" : 13.38,
+									"ImageRect": {
+										"x": 870,
+										"y": 740,
+										"width": 1691,
+										"height": 1201
+									},
+									"String" : "Despite his victory, Henry did not follow through on his attack, but withdrew to England.  The true winner of the battle was Burgundy, which was able to come to power in a vacuum emptied by both the English and the French.",
+									"TextRect": {
+										"x": 1280,
+										"y": 420,
+										"width": 1700,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/lepanto/intro/%d.png",
+							"Sound": "lepanto_intro",
+							"Slides": [
+								{
+									"Duration" : 19.87,
+									"TextFadeDuration" : 19.61,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1110,
+										"y": 590,
+										"width": 1775,
+										"height": 1309
+									},
+									"String" : "The steady splashing, as the oars of 200 ships strike the water, drowns out all other sound.  The most powerful fleet ever assembled by Don Juan of Austria and his allies in Venice sails under the burning light of dawn towards a final encounter with the Ottoman Turks.",
+									"TextRect": {
+										"x": 1020,
+										"y": 300,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.39,
+									"TextFadeDuration" : 11.59,
+									"ImageRect": {
+										"x": 1110,
+										"y": 590,
+										"width": 1775,
+										"height": 1309
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "The Turkish army has greatly expanded its empire, adding North Africa and Mesopotamia to the Turkish holdings in Anatolia, but has finally been turned back by a staunch defense of Hungary.",
+									"TextRect": {
+										"x": 1020,
+										"y": 300,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.30,
+									"TextFadeDuration" : 8.52,
+									"ImageRect": {
+										"x": 1110,
+										"y": 590,
+										"width": 1775,
+										"height": 1309
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Undaunted, the Turks turned their attention to the Mediterranean, where they intended to break the Christian naval powers of Venice and Spain.",
+									"TextRect": {
+										"x": 1020,
+										"y": 300,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 32.19,
+									"TextFadeDuration" : 21.92,
+									"ImageRect": {
+										"x": 1130,
+										"y": 280,
+										"width": 1722,
+										"height": 921
+									},
+									"String" : "Now 230 rowed galleys and six heavy galleases lumber into the Bay of Lepanto to meet the 270 galleys of the Turkish fleet.  The ships draw up with scarcely five miles separating the distance between them.  A storm of arrows darkens the sky, and the drone of splashing oars is finally drowned out by the thunder of cannon.",
+									"TextRect": {
+										"x": 1120,
+										"y": 1300,
+										"width": 1850,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/lepanto/outro/%d.png",
+							"Sound": "lepanto_outro",
+							"Slides": [
+								{
+									"Duration" : 21.45,
+									"TextFadeDuration" : 22.14,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1650,
+										"y": 710,
+										"width": 1530,
+										"height": 1229
+									},
+									"String" : "The heavy Venetian galleases broke through the Turkish lines, and trampled over the smaller ships of the Turks.  But there were too few of the galleases to win the battle on their own.  The Spanish and Venetians attempted to grapple and board the Turkish ships, where the superior experience and weapons of the Christian marines could be brought to bear.",
+									"TextRect": {
+										"x": 900,
+										"y": 400,
+										"width": 1520,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 17.64,
+									"TextFadeDuration" : 14.65,
+									"ImageRect": {
+										"x": 1650,
+										"y": 710,
+										"width": 1530,
+										"height": 1229
+									},
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : "As the day wore on, the Turkish juggernaut began to run out of steam.  Scores of Turkish galleys were dashed on the rocks and others sank to the bottom of the bay.  Less than fifty Turkish ships survived the battle.",
+									"TextRect": {
+										"x": 900,
+										"y": 400,
+										"width": 1520,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 27.93,
+									"TextFadeDuration" : 22.33,
+									"ImageRect": {
+										"x": 1650,
+										"y": 710,
+										"width": 1530,
+										"height": 1229
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Lepanto was not the climax of the conflict between the Christians and the Turks on the Mediterranean, but it was a turning point.  The Turks had difficulty rebuilding their fleet back to its former size while the Christians continued to update their fleets with the latest technological advancements, insuring a decisive military advantage for further encounters on the high seas.",
+									"TextRect": {
+										"x": 900,
+										"y": 400,
+										"width": 1520,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/kyoto/intro/%d.png",
+							"Sound": "kyoto_intro",
+							"Slides": [
+								{
+									"Duration" : 30.37,
+									"TextFadeDuration" : 24.48,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 1335,
+										"y": 1070,
+										"width": 1271,
+										"height": 882
+									},
+									"String" : "The ships slide through a mirror-flat ocean stained red with spring seaweed.  Columns of rock improbably draped with pine trees tower out of the mist.  The men on the ships watch silently as the samurai prowl the deck above.  They will make land near Kyoto and their lord, Hideyoshi, will lead the siege of the city of ten-thousand shrines.",
+									"TextRect": {
+										"x": 900,
+										"y": 340,
+										"width": 2000,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 24.52,
+									"TextFadeDuration" : 20.76,
+									"ImageRect": {
+										"x": 1335,
+										"y": 1070,
+										"width": 1271,
+										"height": 882
+									},
+									"FadeInTime" : 0.0,
+									"String" : "Within Kyoto, revolutionaries hold prisoner Lord Nobunaga -- the man who would unify Japan. The islands of Japan remain a patchwork of bickering samurai warlords who still settle conflicts with ritualized duels.  Nobunaga seeks to forge a single Japan, dragging the provincial samurai into the modern era.  ",
+									"TextRect": {
+										"x": 900,
+										"y": 340,
+										"width": 2000,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 29.22,
+									"TextFadeDuration" : 17.1,
+									"ImageRect": {
+										"x": 845,
+										"y": 720,
+										"width": 1456,
+										"height": 1299
+									},
+									"String" : "Like his master Nobunaga, Hideyoshi wins his battles by volleys of muskets, fully exploiting the firearms recently introduced by Portuguese sailors. Hideyoshi intends no bargaining -- he will demand once for Nobunaga's release, and then storm the city.",
+									"TextRect": {
+										"x": 900,
+										"y": 340,
+										"width": 2000,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/kyoto/outro/%d.png",
+							"Sound": "kyoto_outro",
+							"Slides": [
+								{
+									"Duration" : 22.52,
+									"TextFadeDuration" : 22.94,
+									"ImageRect": {
+										"x": 1000,
+										"y": 220,
+										"width": 1960,
+										"height": 1197
+									},
+									"String" : "Kyoto paid dearly for Nobunaga's death and in the end, Hideyoshi was able to accomplish what his mentor could not -- by 1590, Japan was a unified country.  Great though it was, this accomplishment did not satisfy Hideyoshi, who then set about on an ambitious plan to conquer China and Korea.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1350,
+										"width": 1700,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 23.00,
+									"TextFadeDuration" : 13.73,
+									"ImageRect": {
+										"x": 960,
+										"y": 230,
+										"width": 746,
+										"height": 1614
+									},
+									"String" : "Japan was not free of conflict, as civil wars continued to rise and fall for many years.  However, the Ieyasu family, former allies of Hideyoshi, continued to rule Japan as Shogun until the 19th century.",
+									"TextRect": {
+										"x": 1950,
+										"y": 850,
+										"width": 1100,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/noryang/intro/%d.png",
+							"Sound": "noryang_intro",
+							"Slides": [
+								{
+									"Duration" : 34.64,
+									"TextFadeDuration" : 32.15,
+									"ImageRect": {
+										"x": 940,
+										"y": 530,
+										"width": 1607,
+										"height": 1435
+									},
+									"String" : "The haze of spent gunpowder hangs over the gravel-strewn beach, confusing the seabirds that nest on the rocky outcroppings of Chinhae Bay.  As soon as the winds of the Eastern Sea disrupt the cloud, the Japanese navy will return, cannons blazing at the seawalls and what remains of the Korean fleet.  Although the army has so far managed to repel any of the samurai that have waded ashore, it is only a matter of time before the Japanese are victorious.",
+									"TextRect": {
+										"x": 900,
+										"y": 340,
+										"width": 2000,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 41.81,
+									"TextFadeDuration" : 30.99,
+									"ImageRect": {
+										"x": 890,
+										"y": 640,
+										"width": 2055,
+										"height": 1274
+									},
+									"String" : "The last hope for the Korean navy is an innovative commander named Yi Sun-shin.  Admiral Yi is constructing a secret weapon -- a ship with iron armor that can withstand the Japanese cannon and a spiked hull to repel boarders.  He calls these ships Kobukson, or Turtle Ships.  If Admiral Yi can ready his fleet of Turtle Ships in time, then the Koreans stand a chance of defeating the Japanese.  On the other hand, if he is too late...",
+									"TextRect": {
+										"x": 900,
+										"y": 340,
+										"width": 2000,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam4/noryang/outro/%d.png",
+							"Sound": "noryang_outro",
+							"Slides": [
+								{
+									"Duration" : 20.52,
+									"TextFadeDuration" : 19.96,
+									"ImageRect": {
+										"x": 920,
+										"y": 180,
+										"width": 1491,
+										"height": 1113
+									},
+									"String" : "The Japanese were unable to establish a base on either China or Korea.  Therefore, all supplies and reinforcements had to come from the Japanese islands themselves.  Once Admiral Yi destroyed the Japanese navy, the samurai armies were isolated from supply, and the invasion ended.",
+									"TextRect": {
+										"x": 1160,
+										"y": 1300,
+										"width": 1700,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 24.76,
+									"TextFadeDuration" : 19.32,
+									"ImageRect": {
+										"x": 1620,
+										"y": 800,
+										"width": 1418,
+										"height": 1145
+									},
+									"String" : "Yi Sun-shin died in the battle, but the Japanese commander, Hideyoshi, died soon after, and with him, the lust for Japanese conquest.  The possibility of a Japanese empire in eastern Asia in the 16th century died under the guns of slow, but deadly, armored Korean warships.",
+									"TextRect": {
+										"x": 1280,
+										"y": 420,
+										"width": 1380,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/bukhara/intro/%d.png",
+							"Sound": "PLAY_BOF1S1",
+							"Slides": [
+								{
+									"Duration" : 25.45,
+									"TextFadeDuration" : 24.65,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216101,
+									"TextRect": {
+										"x": 1020,
+										"y": 1350,
+										"width": 1800,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.05,
+									"TextFadeDuration" : 9.9,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : 216102,
+									"TextRect": {
+										"x": 1020,
+										"y": 1400,
+										"width": 1800,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 18.55,
+									"TextFadeDuration" : 17.35,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : 216103,
+									"TextRect": {
+										"x": 1020,
+										"y": 1350,
+										"width": 1800,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 23.5,
+									"TextFadeDuration" : 22.5,
+									"FadeInTime" : 0.0,
+									"String" : 216104,
+									"TextRect": {
+										"x": 1020,
+										"y": 1350,
+										"width": 1800,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 16.2,
+									"TextFadeDuration" : 13.2,
+									"String" : 216105,
+									"TextRect": {
+										"x": 1020,
+										"y": 720,
+										"width": 700,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/bukhara/outro/%d.png",
+							"Sound": "PLAY_BOF1S1END",
+							"Slides": [
+								{
+									"Duration" : 24.0,
+									"TextFadeDuration" : 23.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216151,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 860,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 24.7,
+									"TextFadeDuration" : 21.7,
+									"String" : 216152,
+									"TextRect": {
+										"x": 2000,
+										"y": 700,
+										"width": 820,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/dospilas/intro/%d.png",
+							"Sound": "PLAY_BOF1S3",
+							"Slides": [
+								{
+									"Duration" : 15.0,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 13.95,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216301,
+									"TextRect": {
+										"x": 1880,
+										"y": 570,
+										"width": 940,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 15.55,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 14.55,
+									"String" : 216302,
+									"TextRect": {
+										"x": 1880,
+										"y": 570,
+										"width": 940,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 18.45,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 17.25,
+									"String" : 216303,
+									"TextRect": {
+										"x": 1060,
+										"y": 680,
+										"width": 1760,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.1,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 15.1,
+									"String" : 216304,
+									"TextRect": {
+										"x": 1060,
+										"y": 680,
+										"width": 1760,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/dospilas/outro/%d.png",
+							"Sound": "PLAY_BOF1S3END",
+							"Slides": [
+								{
+									"Duration" : 15.05,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 14.05,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216351,
+									"TextRect": {
+										"x": 2170,
+										"y": 720,
+										"width": 650,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 10.05,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 9.15,
+									"String" : 216352,
+									"TextRect": {
+										"x": 2170,
+										"y": 720,
+										"width": 650,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 18.25,
+									"TextFadeDuration" : 15.25,
+									"String" : 216353,
+									"TextRect": {
+										"x": 1020,
+										"y": 1380,
+										"width": 1800,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/york/intro/%d.png",
+							"Sound": "PLAY_BOF1S8",
+							"Slides": [
+								{
+									"Duration" : 20.5,
+									"TextFadeDuration" : 19.65,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216801,
+									"TextRect": {
+										"x": 2090,
+										"y": 620,
+										"width": 730,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 22.55,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 21.5,
+									"String" : 216802,
+									"TextRect": {
+										"x": 1020,
+										"y": 590,
+										"width": 1200,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 19.0,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 18.05,
+									"String" : 216803,
+									"TextRect": {
+										"x": 1020,
+										"y": 590,
+										"width": 1200,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 20.5,
+									"TextFadeDuration" : 19.0,
+									"String" : 216804,
+									"TextRect": {
+										"x": 2090,
+										"y": 620,
+										"width": 730,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 27.55,
+									"TextFadeDuration" : 24.55,
+									"String" : 216805,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1200,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/york/outro/%d.png",
+							"Sound": "PLAY_BOF1S8END",
+							"Slides": [
+								{
+									"Duration" : 22.05,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 20.8,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216851,
+									"TextRect": {
+										"x": 1020,
+										"y": 590,
+										"width": 1200,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 21.5,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 20.25,
+									"String" : 216852,
+									"TextRect": {
+										"x": 1020,
+										"y": 590,
+										"width": 1200,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 28.6,
+									"TextFadeDuration" : 25.6,
+									"String" : 216853,
+									"TextRect": {
+										"x": 1020,
+										"y": 720,
+										"width": 760,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/honfoglalas/intro/%d.png",
+							"Sound": "PLAY_BOF1S4",
+							"Slides": [
+								{
+									"Duration" : 16.55,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 15.2,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216401,
+									"TextRect": {
+										"x": 2120,
+										"y": 700,
+										"width": 700,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 16.45,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 15.05,
+									"String" : 216402,
+									"TextRect": {
+										"x": 2120,
+										"y": 700,
+										"width": 700,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 12.0,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 10.6,
+									"String" : 216403,
+									"TextRect": {
+										"x": 2120,
+										"y": 700,
+										"width": 700,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 21.05,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 19.8,
+									"String" : 216404,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1140,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 14.45,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 11.45,
+									"String" : 216405,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1140,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/honfoglalas/outro/%d.png",
+							"Sound": "PLAY_BOF1S4END",
+							"Slides": [
+								{
+									"Duration" : 17.0,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 15.6,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216451,
+									"TextRect": {
+										"x": 1060,
+										"y": 620,
+										"width": 1760,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 26.5,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 25.2,
+									"String" : 216452,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 1800,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 24.75,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 21.75,
+									"String" : 216453,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 1800,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/kurikara/intro/%d.png",
+							"Sound": "PLAY_BOF1S5",
+							"Slides": [
+								{
+									"Duration" : 18.55,
+									"TextFadeDuration" : 17.45,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216501,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 1000,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 23.5,
+									"TextFadeDuration" : 22.7,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : 216502,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 1000,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 25.0,
+									"TextFadeDuration" : 23.7,
+									"FadeInTime" : 0.0,
+									"String" : 216503,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1020,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 25.5,
+									"TextFadeDuration" : 24.1,
+									"FadeOutTime" : 0.0,
+									"String" : 216504,
+									"TextRect": {
+										"x": 2150,
+										"y": 720,
+										"width": 670,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 24.45,
+									"TextFadeDuration" : 21.45,
+									"FadeInTime" : 0.0,
+									"String" : 216505,
+									"TextRect": {
+										"x": 2150,
+										"y": 720,
+										"width": 670,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/kurikara/outro/%d.png",
+							"Sound": "PLAY_BOF1S5END",
+							"Slides": [
+								{
+									"Duration" : 24.5,
+									"TextFadeDuration" : 23.55,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216551,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 24.55,
+									"TextFadeDuration" : 23.45,
+									"FadeInTime" : 0.0,
+									"String" : 216552,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 25.95,
+									"TextFadeDuration" : 22.95,
+									"String" : 216553,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1020,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/cyprus/intro/%d.png",
+							"Sound": "PLAY_BOF1S2",
+							"Slides": [
+								{
+									"Duration" : 26.5,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 25.35,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216201,
+									"TextRect": {
+										"x": 1020,
+										"y": 1400,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.5,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 16.35,
+									"String" : 216202,
+									"TextRect": {
+										"x": 1020,
+										"y": 1400,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 20.5,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 19.2,
+									"String" : 216203,
+									"TextRect": {
+										"x": 1700,
+										"y": 580,
+										"width": 1120,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 23.4,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 20.4,
+									"String" : 216204,
+									"TextRect": {
+										"x": 1700,
+										"y": 580,
+										"width": 1120,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/cyprus/outro/%d.png",
+							"Sound": "PLAY_BOF1S2END",
+							"Slides": [
+								{
+									"Duration" : 20.0,
+									"FadeOutTime" : 0.0,
+									"TextFadeDuration" : 18.75,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216251,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 24.0,
+									"FadeInTime" : 0.0,
+									"TextFadeDuration" : 22.95,
+									"String" : 216252,
+									"TextRect": {
+										"x": 1020,
+										"y": 570,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.8,
+									"TextFadeDuration" : 18.8,
+									"String" : 216253,
+									"TextRect": {
+										"x": 1010,
+										"y": 600,
+										"width": 740,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/sogut/intro/%d.png",
+							"Sound": "PLAY_BOF1S7",
+							"Slides": [
+								{
+									"Duration" : 31.0,
+									"TextFadeDuration" : 30.0,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216701,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 660,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 18.95,
+									"TextFadeDuration" : 17.75,
+									"FadeInTime" : 0.0,
+									"FadeOutTime" : 0.0,
+									"String" : 216702,
+									"TextRect": {
+										"x": 1020,
+										"y": 680,
+										"width": 660,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 20.55,
+									"TextFadeDuration" : 19.45,
+									"FadeInTime" : 0.0,
+									"String" : 216703,
+									"TextRect": {
+										"x": 1020,
+										"y": 680,
+										"width": 660,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 10.45,
+									"TextFadeDuration" : 7.45,
+									"String" : 216704,
+									"TextRect": {
+										"x": 1200,
+										"y": 1360,
+										"width": 1580,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/sogut/outro/%d.png",
+							"Sound": "PLAY_BOF1S7END",
+							"Slides": [
+								{
+									"Duration" : 12.5,
+									"TextFadeDuration" : 11.5,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216751,
+									"TextRect": {
+										"x": 1760,
+										"y": 570,
+										"width": 1060,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 26.3,
+									"TextFadeDuration" : 24.75,
+									"FadeInTime" : 0.0,
+									"String" : 216752,
+									"TextRect": {
+										"x": 2060,
+										"y": 570,
+										"width": 760,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 21.85,
+									"TextFadeDuration" : 18.85,
+									"String" : 216753,
+									"TextRect": {
+										"x": 1020,
+										"y": 1360,
+										"width": 1800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/langshan/intro/%d.png",
+							"Sound": "PLAY_BOF1S6",
+							"Slides": [
+								{
+									"Duration" : 24.55,
+									"TextFadeDuration" : 23.35,
+									"FadeOutTime" : 0.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216601,
+									"TextRect": {
+										"x": 2030,
+										"y": 620,
+										"width": 890,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 19.0,
+									"TextFadeDuration" : 17.9,
+									"FadeInTime" : 0.0,
+									"String" : 216602,
+									"TextRect": {
+										"x": 2030,
+										"y": 620,
+										"width": 890,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 21.85,
+									"TextFadeDuration" : 18.85,
+									"String" : 216603,
+									"TextRect": {
+										"x": 1020,
+										"y": 620,
+										"width": 800,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/fcam7/forgotten_background.dds",
+							"SlideImageSequence": "textures/campaign/fcam7/langshan/outro/%d.png",
+							"Sound": "PLAY_BOF1S6END",
+							"Slides": [
+								{
+									"Duration" : 25.5,
+									"TextFadeDuration" : 23.65,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : 216651,
+									"TextRect": {
+										"x": 1020,
+										"y": 580,
+										"width": 700,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 21.65,
+									"TextFadeDuration" : 18.65,
+									"String" : 216652,
+									"TextRect": {
+										"x": 1020,
+										"y": 640,
+										"width": 680,
+										"height": 800
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"AtlasFile": "textures\\atlases\\binary_fx.dds",
+	"ImageFirst": 60,
+	"ImageCount": 60,
+	"Type": "Loop",
+	"Duration": 3,
+	"Scale": 0.45,
+	"StopMode": "Complete"
+}

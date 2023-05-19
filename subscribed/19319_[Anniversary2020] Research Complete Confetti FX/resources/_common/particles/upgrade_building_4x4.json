@@ -1,0 +1,9 @@
+{
+	"AtlasFile": "textures\\atlases\\OneYearAnniversary.dds",
+	"ImageFirst": 0,
+	"ImageCount": 60,
+	"Type": "Once",
+	"Duration": 2.0,
+	"Scale": 0.5,
+	"StopMode": "Complete"
+}

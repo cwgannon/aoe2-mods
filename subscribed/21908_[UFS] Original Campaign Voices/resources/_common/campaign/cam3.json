@@ -1,0 +1,1153 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/1/intro/%d.png",
+							"Sound": "saladin1_intro",
+							"Slides": [
+								{
+									"Duration" : 8.67,
+									"TextFadeDuration" : 4.62,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "Egypt. A month since I entered the Holy Land...",
+									"TextRect": {
+										"x": 1188,
+										"y": 1053,
+										"width": 1300,
+										"height": 171
+									}
+								},
+								{
+									"Duration" : 3.86,
+									"TextFadeDuration" : 3.78,
+									"ImageRect": {
+										"x": 910,
+										"y": 480,
+										"width": 1222,
+										"height": 833
+									},
+									"String" : "I was in a foreign land. And I was dying.",
+									"TextRect": {
+										"x": 1188,
+										"y": 1553,
+										"width": 1263,
+										"height": 171
+									}
+								},
+								{
+									"Duration" : 11.88,
+									"TextFadeDuration" : 13.32,
+									"ImageRect": {
+										"x": 2110,
+										"y": 260,
+										"width": 984,
+										"height": 1246
+									},
+									"String" : "I wandered the cold desert for four nights before the horse archers found me. I had abandoned my mount to the vultures and my armor to the heat of day. As a knight, I was not much of a threat to them.",
+									"TextRect": {
+										"x": 940,
+										"y": 895,
+										"width": 1251,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 19.13,
+									"TextFadeDuration" : 19.34,
+									"ImageRect": {
+										"x": 1510,
+										"y": 850,
+										"width": 1526,
+										"height": 1029
+									},
+									"String" : "I thought these men were Turks, come to toy with their prey. But when I could distinguish the riders from the blur of mirage I saw that they were Saracens, the rulers of the Middle East. I had ridden to the Holy Land with the Crusaders from France and Normandy, so I was by all rights these Saracens' enemy. ",
+									"TextRect": {
+										"x": 940,
+										"y": 350,
+										"width": 2100,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 5.20,
+									"TextFadeDuration" : 5.13,
+									"ImageRect": {
+										"x": 820,
+										"y": 320,
+										"width": 1579,
+										"height": 1159
+									},
+									"String" : "Yet they gave me water and a spindly horse and led me back to their leader.",
+									"TextRect": {
+										"x": 1300,
+										"y": 1660,
+										"width": 1370,
+										"height": 246
+									}
+								},
+								{
+									"Duration" : 23.03,
+									"TextFadeDuration" : 25.9,
+									"ImageRect": {
+										"x": 2310,
+										"y": 400,
+										"width": 683,
+										"height": 1428
+									},
+									"String" : "And that was how I met Saladin. The paintings in Europe show Saladin as demonic, barbarian. Yet he is more chivalrous than any knight I'd met before and prefers the palaces of Damascus to slaughtering Normans in the desert. I had not expected hospitality from Saracens — we Normans execute any armed Arab we capture.",
+									"TextRect": {
+										"x": 1000,
+										"y": 528,
+										"width": 1350,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 8.63,
+									"TextFadeDuration" : 8.88,
+									"ImageRect": {
+										"x": 840,
+										"y": 640,
+										"width": 1190,
+										"height": 1246
+									},
+									"String" : "But Saladin left me free to explore his camp. Perhaps he wants an objective observer to chronicle the prodigious bloodshed ahead.",
+									"TextRect": {
+										"x": 1002,
+										"y": 360,
+										"width": 1810,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.79,
+									"TextFadeDuration" : 16.79,
+									"ImageRect": {
+										"x": 970,
+										"y": 380,
+										"width": 1148,
+										"height": 1327
+									},
+									"String" : "Saladin's army is heading south to Egypt to reinforce Cairo. Egypt is a tempting prize for the Crusaders. She is fabulously wealthy, yet governed by an ineffectual fool. Before my capture, I was en route to join in the Crusaders' assault on Egypt.",
+									"TextRect": {
+										"x": 2100,
+										"y": 571,
+										"width": 920,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 17.50,
+									"TextFadeDuration" : 13.53,
+									"ImageRect": {
+										"x": 1495,
+										"y": 290,
+										"width": 1617,
+										"height": 1302
+									},
+									"String" : "It is a bitter irony that now I shall view the contest from the enemy camp. So it was that I found myself less than a hundred miles from the Dead Sea, in the company of my enemies.",
+									"TextRect": {
+										"x": 1040,
+										"y": 1284,
+										"width": 930,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/1/outro/%d.png",
+							"Sound": "saladin1_outro",
+							"Slides": [
+								{
+									"Duration" : 19.23,
+									"TextFadeDuration" : 19.85,
+									"ImageRect": {
+										"x": 850,
+										"y": 280,
+										"width": 2263,
+										"height": 1181
+									},
+									"String" : "The Franks are dispersed, and the Egyptian army broken. Saladin has taken his place as governor of the Nile. Any European king would seize this opportunity to eliminate his political enemies. Saladin, however, allowed any Egyptian opposed to his rule to leave the city unharmed.",
+									"TextRect": {
+										"x": 1030,
+										"y": 1480,
+										"width": 1900,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 22.90,
+									"TextFadeDuration" : 21.15,
+									"ImageRect": {
+										"x": 800,
+										"y": 780,
+										"width": 2100,
+										"height": 1125
+									},
+									"String" : "Saladin has set out to win over the population. In Cairo, he built mosques and palaces, universities and hospitals. My own countrymen, the sons of Europe, showed naught but treachery, while the Saracens work to dignify their civilization. It is a troubling turn of events and I have difficulty sleeping.",
+									"TextRect": {
+										"x": 1150,
+										"y": 350,
+										"width": 1900,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/2/intro/%d.png",
+							"Sound": "saladin2_intro",
+							"Slides": [
+								{
+									"Duration" : 4.29,
+									"TextFadeDuration" : 5.19,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "The Holy City of Medina. Year fifteen of my capture...",
+									"TextRect": {
+										"x": 980,
+										"y": 1100,
+										"width": 1300,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 9.17,
+									"TextFadeDuration" : 9.68,
+									"ImageRect": {
+										"x": 2210,
+										"y": 850,
+										"width": 858,
+										"height": 1047
+									},
+									"String" : "Volumes have I filled with my fatigued writings. Lord Saladin reads them only rarely. He speaks of greater events yet to come.",
+									"TextRect": {
+										"x": 1020,
+										"y": 442,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 8.35,
+									"TextFadeDuration" : 9.55,
+									"ImageRect": {
+										"x": 1870,
+										"y": 250,
+										"width": 1201,
+										"height": 1603
+									},
+									"String" : "The political boundaries in this endless desert have shifted as a result of three Crusades. Four Crusader states now exist in the Holy Land.",
+									"TextRect": {
+										"x": 920,
+										"y": 1000,
+										"width": 1020,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.37,
+									"TextFadeDuration" : 9.5,
+									"ImageRect": {
+										"x": 1870,
+										"y": 250,
+										"width": 1201,
+										"height": 1603
+									},
+									"String" : "After the Saracen victory in Egypt, the Crusader leaders realized that Saladin was worthy of their concern. They were quick to suggest a treaty.",
+									"TextRect": {
+										"x": 920,
+										"y": 360,
+										"width": 1020,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.27,
+									"TextFadeDuration" : 10.12,
+									"ImageRect": {
+										"x": 1870,
+										"y": 250,
+										"width": 1201,
+										"height": 1603
+									},
+									"String" : "I hoped that with peace at last upon us, I would be returned to my own folk, but this peace, so short-lived, is already broken.",
+									"TextRect": {
+										"x": 920,
+										"y": 1000,
+										"width": 1020,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 10.96,
+									"TextFadeDuration" : 11.76,
+									"ImageRect": {
+										"x": 1050,
+										"y": 570,
+										"width": 683,
+										"height": 1306
+									},
+									"String" : "And it is not Saracen, but Crusader that has violated his word of honor.  Reynald de Chatillon, a wicked French knight, has been raiding Arab territory in defiance of the treaty.",
+									"TextRect": {
+										"x": 1670,
+										"y": 849,
+										"width": 1500,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.39,
+									"TextFadeDuration" : 11.66,
+									"ImageRect": {
+										"x": 890,
+										"y": 280,
+										"width": 1029,
+										"height": 1376
+									},
+									"String" : "He attacks trade caravans, and his pirate ships threaten the Saracen holy cities of Medina and Mecca. Saladin, in his fury, has sworn to kill Reynald with his own hands.",
+									"TextRect": {
+										"x": 1780,
+										"y": 1220,
+										"width": 1250,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/2/outro/%d.png",
+							"Sound": "saladin2_outro",
+							"Slides": [
+								{
+									"Duration" : 13.37,
+									"TextFadeDuration" : 13.38,
+									"ImageRect": {
+										"x": 810,
+										"y": 680,
+										"width": 2295,
+										"height": 1208
+									},
+									"String" : "Although I am still prisoner, Saladin and his generals dine with me. Over meals we discuss mathematics and astronomy. I never imagined a race of desert folk could be so wise.",
+									"TextRect": {
+										"x": 980,
+										"y": 380,
+										"width": 1950,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.52,
+									"TextFadeDuration" : 11.88,
+									"ImageRect": {
+										"x": 810,
+										"y": 270,
+										"width": 2135,
+										"height": 1131
+									},
+									"String" : "Baghdad, the Saracen capital, is the most civilized city in the world, with free hospitals, public baths, a postal service, and banks with branches as far away as China.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1489,
+										"width": 1680,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 19.36,
+									"TextFadeDuration" : 15.62,
+									"ImageRect": {
+										"x": 1220,
+										"y": 270,
+										"width": 1876,
+										"height": 1173
+									},
+									"String" : "But as we eat, talk inevitably turns to war. Reynald's pirate vessels now rot at the bottom of the Red Sea. His raids have stopped. Reynald has escaped, but I suspect Saladin shall neither forgive nor forget.",
+									"TextRect": {
+										"x": 1120,
+										"y": 1500,
+										"width": 1650,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/3/intro/%d.png",
+							"Sound": "saladin3_intro",
+							"Slides": [
+								{
+									"Duration" : 10.84,
+									"TextFadeDuration" : 3.12,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "Galilee.  Year twenty of my capture...",
+									"TextRect": {
+										"x": 1160,
+										"y": 1052,
+										"width": 1009,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.70,
+									"TextFadeDuration" : 12.1,
+									"ImageRect": {
+										"x": 850,
+										"y": 260,
+										"width": 1572,
+										"height": 1152
+									},
+									"String" : "Last night, we rode into a sandstorm. The men dared not open their mouths to speak. We clung to the necks of horses or camels while waves of sand rose and fell around us.",
+									"TextRect": {
+										"x": 1150,
+										"y": 1600,
+										"width": 1700,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.69,
+									"TextFadeDuration" : 15.93,
+									"ImageRect": {
+										"x": 870,
+										"y": 300,
+										"width": 1187,
+										"height": 1005
+									},
+									"String" : "The Saracens have pursued a large force of Europeans into the desert. The Crusaders carry with them a relic – a piece of the True Cross. Capturing this artifact will deal a severe blow to the morale of Saladin's Christian foes.",
+									"TextRect": {
+										"x": 1150,
+										"y": 1444,
+										"width": 1846,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.01,
+									"TextFadeDuration" : 10.92,
+									"ImageRect": {
+										"x": 1710,
+										"y": 840,
+										"width": 1327,
+										"height": 1071
+									},
+									"String" : "I asked Saladin why we were here, miles from civilization and water. He said 'to bring crimson death to the blue-eyed enemy.' ",
+									"TextRect": {
+										"x": 1150,
+										"y": 880,
+										"width": 1327,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.60,
+									"TextFadeDuration" : 12.22,
+									"ImageRect": {
+										"x": 1280,
+										"y": 250,
+										"width": 1530,
+										"height": 1288
+									},
+									"String" : "The huge Crusader army has halted to make its stand beneath the two peaks called the Horns of Hattin. At the Horns is only a single pool of water, and Saladin controls it.",
+									"TextRect": {
+										"x": 1040,
+										"y": 1520,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.80,
+									"TextFadeDuration" : 13.06,
+									"ImageRect": {
+										"x": 1810,
+										"y": 260,
+										"width": 1302,
+										"height": 1630
+									},
+									"String" : "At night, the Saracens ride out and extravagantly pour out vessels of water into the sand within sight of the thirst-crazed Europeans. It is cruelty worthy of a... Crusader.",
+									"TextRect": {
+										"x": 940,
+										"y": 645,
+										"width": 1350,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/3/outro/%d.png",
+							"Sound": "saladin3_outro",
+							"Slides": [
+								{
+									"Duration" : 6.45,
+									"TextFadeDuration" : 7.78,
+									"ImageRect": {
+										"x": 1910,
+										"y": 545,
+										"width": 1169,
+										"height": 1341
+									},
+									"String" : "The fighting was fierce – the Crusaders had to conquer or die. Mostly, they died.",
+									"TextRect": {
+										"x": 1000,
+										"y": 360,
+										"width": 1320,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.20,
+									"TextFadeDuration" : 16.0,
+									"ImageRect": {
+										"x": 830,
+										"y": 260,
+										"width": 2290,
+										"height": 1145
+									},
+									"String" : "Saladin has treated his prisoners well, providing them with icewater from the mountains and comfortable tents. For the first time in years, I have been able to speak to fellow countrymen. But I am unsure what to say to these...invaders.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1520,
+										"width": 1720,
+										"height": 456
+									}
+								},
+								{
+									"Duration" : 19.46,
+									"TextFadeDuration" : 19.89,
+									"ImageRect": {
+										"x": 880,
+										"y": 340,
+										"width": 1229,
+										"height": 959
+									},
+									"String" : "Not all of the prisoners were treated so royally. Reynald de Chatillon was captured here and, fulfilling his vow, Saladin sliced off Reynald's head with his own scimitar. How ironic that it was only after the Crusaders entered their lands that the Saracens were transformed into the people that we set out to destroy.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1460,
+										"width": 1711,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/4/intro/%d.png",
+							"Sound": "saladin4_intro",
+							"Slides": [
+								{
+									"Duration" : 4.73,
+									"TextFadeDuration" : 4.84,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 1698,
+										"height": 1131
+									},
+									"String" : "Jerusalem.  Twenty years have I been with the Saracens..." ,
+									"TextRect": {
+										"x": 950,
+										"y": 1058,
+										"width": 1537,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 16.66,
+									"TextFadeDuration" : 16.82,
+									"ImageRect": {
+										"x": 1050,
+										"y": 270,
+										"width": 1698,
+										"height": 1131
+									},
+									"String" : "Saladin's target is Jerusalem. The great, ancient city is sacred to Christianity, Judaism, and Islam and is the virtual capital of the Holy Land. If there can be a victor in this endless conflict, it will be the army who holds Jerusalem.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1500,
+										"width": 1640,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 17.09,
+									"TextFadeDuration" : 13.07,
+									"ImageRect": {
+										"x": 1080,
+										"y": 300,
+										"width": 1806,
+										"height": 1194
+									},
+									"String" : "To complicate matters, Saladin is determined not to harm the city itself. If a single holy shrine is damaged, the populace might well view Saladin not as a liberator but as yet another conqueror.",
+									"TextRect": {
+										"x": 1050,
+										"y": 1540,
+										"width": 1900,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/4/outro/%d.png",
+							"Sound": "saladin4_outro",
+							"Slides": [
+								{
+									"Duration" : 16.83,
+									"TextFadeDuration" : 20.54,
+									"ImageRect": {
+										"x": 1470,
+										"y": 520,
+										"width": 1649,
+										"height": 1353
+									},
+									"String" : "The last time I entered Jerusalem, as a Crusading knight, I waded through the blood of victims. This time, not a building was looted, not a townsperson was injured. Saladin set free nearly every prisoner he took.",
+									"TextRect": {
+										"x": 900,
+										"y": 350,
+										"width": 2010,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.15,
+									"TextFadeDuration" : 12.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 280,
+										"width": 1092,
+										"height": 1556
+									},
+									"String" : "The citizens of Jerusalem proclaimed Saladin as their savior. He offered to free me, but after 20 years in his service I have decided to see it out to the end.",
+									"TextRect": {
+										"x": 2000,
+										"y": 600,
+										"width": 800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/5/intro/%d.png",
+							"Sound": "saladin5_intro",
+							"Slides": [
+								{
+									"Duration" : 4.41,
+									"TextFadeDuration" : 4.47,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "Tiberias, twenty and a half years of bloodshed...",
+									"TextRect": {
+										"x": 1050,
+										"y": 1133,
+										"width": 1500,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 6.95,
+									"TextFadeDuration" : 7.33,
+									"ImageRect": {
+										"x": 810,
+										"y": 290,
+										"width": 1232,
+										"height": 1586
+									},
+									"String" : "We are far from the ocean, so the Saracens interpret the smell of salt and commotion of seabirds as signs from Heaven.",
+									"TextRect": {
+										"x": 1680,
+										"y": 1500,
+										"width": 1300,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 10.21,
+									"TextFadeDuration" : 9.57,
+									"ImageRect": {
+										"x": 1880,
+										"y": 280,
+										"width": 1222,
+										"height": 1600
+									},
+									"String" : "I sit near Saladin's tent, watching the butchery below. Saracen horse archers sweep through yet another unorganized mob of European soldiers.",
+									"TextRect": {
+										"x": 950,
+										"y": 1000,
+										"width": 1120,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.48,
+									"TextFadeDuration" : 14.99,
+									"ImageRect": {
+										"x": 910,
+										"y": 300,
+										"width": 1337,
+										"height": 1481
+									},
+									"String" : "The great Crusader nations have been reduced to puny city-states. Only Tiberias, Tyre, and Ascalon are still in Crusader hands. Nonetheless, these three cities are well fortified and could withstand any siege.",
+									"TextRect": {
+										"x": 2030,
+										"y": 810,
+										"width": 990,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 15.89,
+									"TextFadeDuration" : 15.37,
+									"ImageRect": {
+										"x": 850,
+										"y": 850,
+										"width": 2245,
+										"height": 1042
+									},
+									"String" : "Saladin has had many victories on the open desert, but the Crusader castles are unparalleled. If he is victorious now, the Holy Land will belong to the Saracens again. A failure could mean decades more of carnage.",
+									"TextRect": {
+										"x": 1000,
+										"y": 370,
+										"width": 1900,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/5/outro/%d.png",
+							"Sound": "saladin5_outro",
+							"Slides": [
+								{
+									"Duration" : 15.32,
+									"TextFadeDuration" : 17.29,
+									"ImageRect": {
+										"x": 920,
+										"y": 280,
+										"width": 1901,
+										"height": 1120
+									},
+									"String" : "Once I was amazed at the nobility of the Saracen warriors. Only a few years ago they entered battle as gentlemen, bringing with them treasure chests, wine, singing girls, and collections of doves, nightingales, and parrots. No longer. ",
+									"TextRect": {
+										"x": 1100,
+										"y": 1481,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.02,
+									"TextFadeDuration" : 21.43,
+									"ImageRect": {
+										"x": 830,
+										"y": 300,
+										"width": 1502,
+										"height": 1138
+									},
+									"String" : "In reaction to European hostility and fanaticism, the Saracens have steadily become more resolute... more bloodthirsty. Their love of art is replaced by a love for battle. Now, in answer to the Crusade, they have adapted their principle of jihad for warfare.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1460,
+										"width": 1925,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 18.71,
+									"TextFadeDuration" : 9.83,
+									"ImageRect": {
+										"x": 850,
+										"y": 450,
+										"width": 2255,
+										"height": 1441
+									},
+									"String" : "The result has been devastating to the Crusaders. The European presence in the Holy Land was finished. Or so everyone believed...",
+									"TextRect": {
+										"x": 1000,
+										"y": 950,
+										"width": 1640,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/6/intro/%d.png",
+							"Sound": "saladin6_intro",
+							"Slides": [
+								{
+									"Duration" : 5.38,
+									"TextFadeDuration" : 6.53,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "The City of Acre. Nearly twenty-one years have I ridden with Saladin...",
+									"TextRect": {
+										"x": 1168,
+										"y": 1022,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.98,
+									"TextFadeDuration" : 14.82,
+									"ImageRect": {
+										"x": 830,
+										"y": 750,
+										"width": 2277,
+										"height": 1138
+									},
+									"String" : "When word of the Saracen victory at Jerusalem reached Europe, another Crusade was launched. The kings of the three most powerful nations in Europe — England, France, and the Holy Roman Empire — embarked for the Holy Land with hundreds of thousands of troops.",
+									"TextRect": {
+										"x": 940,
+										"y": 360,
+										"width": 1900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.65,
+									"TextFadeDuration" : 10.03,
+									"ImageRect": {
+										"x": 910,
+										"y": 400,
+										"width": 1068,
+										"height": 1043
+									},
+									"String" : "Saladin knows that his most dangerous opponent is Richard the Lionhearted of England, a brilliant tactician who learned the art of war fighting against his own father.",
+									"TextRect": {
+										"x": 1770,
+										"y": 1450,
+										"width": 1180,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 4.01,
+									"TextFadeDuration" : 6.52,
+									"ImageRect": {
+										"x": 1490,
+										"y": 550,
+										"width": 1628,
+										"height": 1362
+									},
+									"String" : "He builds colossal fortresses and fights always from the front lines...",
+									"TextRect": {
+										"x": 933,
+										"y": 360,
+										"width": 1475,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 3.23,
+									"TextFadeDuration" : 14.37,
+									"ImageRect": {
+										"x": 1510,
+										"y": 690,
+										"width": 1565,
+										"height": 1215
+									},
+									"String" : "...the ideal of a romantic warrior.",
+									"TextRect": {
+										"x": 933,
+										"y": 360,
+										"width": 1475,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.72,
+									"TextFadeDuration" : 11.19,
+									"ImageRect": {
+										"x": 840,
+										"y": 605,
+										"width": 1852,
+										"height": 1299
+									},
+									"String" : "Richard's army has come ashore near Acre. Much of Saladin's army is trapped in the city, while two monstrous English trebuchets pound at Acre's walls. If Richard can defeat our army here, then he can walk into Jerusalem unopposed.",
+									"TextRect": {
+										"x": 1050,
+										"y": 330,
+										"width": 1870,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.20,
+									"TextFadeDuration" : 12.64,
+									"ImageRect": {
+										"x": 850,
+										"y": 350,
+										"width": 1323,
+										"height": 1491
+									},
+									"String" : "Saladin knows that this is the climax of his jihad. All the Crusader states have fallen. If the Saracens can hold onto Acre, then the Europeans will be forced to return home.",
+									"TextRect": {
+										"x": 2050,
+										"y": 780,
+										"width": 970,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.35,
+									"TextFadeDuration" : 12.64,
+									"ImageRect": {
+										"x": 850,
+										"y": 350,
+										"width": 1323,
+										"height": 1491
+									},
+									"String" : "If Acre falls, then the centuries-long nightmare of eternal war, raid and counterraid, begin again. All Saladin's victories will be for nothing.",
+									"TextRect": {
+										"x": 2050,
+										"y": 780,
+										"width": 970,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam3/saladin_background.dds",
+							"SlideImageSequence": "textures/campaign/cam3/6/outro/%d.png",
+							"Sound": "saladin6_outro",
+							"Slides": [
+								{
+									"Duration" : 1.85,
+									"TextFadeDuration" : 3.03,
+									"ImageRect": {
+										"x": 1410,
+										"y": 350,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "The first year of my freedom...",
+									"TextRect": {
+										"x": 1250,
+										"y": 1038,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.31,
+									"TextFadeDuration" : 10.39,
+									"ImageRect": {
+										"x": 2010,
+										"y": 320,
+										"width": 998,
+										"height": 1565
+									},
+									"String" : "The fighting is over. The fire has gone out of Richard's lust for conquest. The two respected adversaries started speaking, finally, of peace.",
+									"TextRect": {
+										"x": 930,
+										"y": 438,
+										"width": 1100,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 16.80,
+									"TextFadeDuration" : 19.86,
+									"ImageRect": {
+										"x": 1110,
+										"y": 790,
+										"width": 1859,
+										"height": 1106
+									},
+									"String" : "War is not gentle with men's health. Richard fell ill with a fever. Because he respected his enemy, Saladin sent Richard fruit and mountain snow to comfort him. Soon enough, Richard boarded a ship headed back to England. The Third Crusade is over.",
+									"TextRect": {
+										"x": 1020,
+										"y": 360,
+										"width": 1860,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.65,
+									"TextFadeDuration" : 19.77,
+									"ImageRect": {
+										"x": 850,
+										"y": 330,
+										"width": 1330,
+										"height": 1096
+									},
+									"String" : "The final treaty was signed on September 2, 1192. By its terms, Jerusalem remains in Saracen hands, but Christian pilgrims are to be allowed to visit all the holy places, freely and safely. It seems a fitting compromise to a war that has been fought over religion and land.",
+									"TextRect": {
+										"x": 1050,
+										"y": 1500,
+										"width": 1960,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 20.96,
+									"TextFadeDuration" : 21.85,
+									"ImageRect": {
+										"x": 1810,
+										"y": 820,
+										"width": 1257,
+										"height": 1078
+									},
+									"String" : "The war is over, but I do not think I shall ever see Normandy again. I want to see the steel foundries in Damascus and the gardens of the Caliph in Baghdad. I have never seen the mighty Krak de Chevalliers, now-fallen fortress of the Knights Templar. The Holy Land has many wondrous sites, and I can spend a lifetime here.",
+									"TextRect": {
+										"x": 890,
+										"y": 420,
+										"width": 2100,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 20.66,
+									"TextFadeDuration" : 16.0,
+									"ImageRect": {
+										"x": 1050,
+										"y": 350,
+										"width": 1799,
+										"height": 1033
+									},
+									"String" : "It is peace in the Holy Land… for the moment. Sadly, in a land so small, home to so many different cultures, birthplace of three of the world's great religions, I suspect that blood may one day stain the sand again.",
+									"TextRect": {
+										"x": 1100,
+										"y": 1550,
+										"width": 1700,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

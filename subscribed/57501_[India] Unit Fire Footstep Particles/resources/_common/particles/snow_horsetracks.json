@@ -1,0 +1,14 @@
+{
+	"AtlasFile": "textures\\atlases\\fire_tracks.dds",
+	"ImageFirst": 640,
+	"ImageCount": 640,
+	"ImageAngles": 16,
+	"Type": "Once",
+	"Layer": "Terrain",
+	"StartDelay": 0,
+	"Duration": 4,
+	"Scale": 0.35,
+	"Alpha": 0.7,
+	"StartMode": "Fade",
+	"StartDuration": 0.5
+}

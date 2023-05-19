@@ -1,0 +1,7 @@
+Same objetive as: https://www.voobly.com/gamemods/mod/680/Useless-Plants-Remover
+Including: https://voobly.com/gamemods/mod/677/Cactus-Remover
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+::: Replacing all these files with empty content :::
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+a_plant

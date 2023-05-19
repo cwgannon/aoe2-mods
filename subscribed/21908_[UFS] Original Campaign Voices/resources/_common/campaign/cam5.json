@@ -1,0 +1,1034 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/1/intro/%d.png",
+							"Sound": "barbarossa1_intro",
+							"Slides": [
+								{
+									"Duration" : 21.02,
+									"TextFadeDuration" : 16.08,
+									"ImageRect": {
+										"x": 780,
+										"y": 690,
+										"width": 2053,
+										"height": 1222
+									},
+									"String" : "So you have come to hear the tale of Frederick Barbarossa?  Better order us another round. Maybe three. You see... it is a great tale. But then again, everything about the man was great.",
+									"TextRect": {
+										"x": 1040,
+										"y": 450,
+										"width": 1900,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 17.89,
+									"TextFadeDuration" : 18.65,
+									"ImageRect": {
+										"x": 900,
+										"y": 340,
+										"width": 1152,
+										"height": 1495
+									},
+									"String" : "Barbarossa was a man of great appetites... great ambitions... and a great, red beard. But the question — the question you want to know — is: Was that enough? Is the will of one man enough to forge an empire?",
+									"TextRect": {
+										"x": 2000,
+										"y": 711,
+										"width": 790,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.67,
+									"TextFadeDuration" : 16.05,
+									"ImageRect": {
+										"x": 830,
+										"y": 320,
+										"width": 1340,
+										"height": 1580
+									},
+									"String" : "For there was no Holy Roman Empire at that time, only a gaggle of quarrelling city-states. These dubiously loyal princedoms were more interested in a loose confederation than a unified empire.",
+									"TextRect": {
+										"x": 2300,
+										"y": 480,
+										"width": 600,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 18.13,
+									"TextFadeDuration" : 15.97,
+									"ImageRect": {
+										"x": 1760,
+										"y": 350,
+										"width": 1190,
+										"height": 1631
+									},
+									"String" : "But Barbarossa, he believed that he was the emperor by will of God, and he intended to bring the Holy Roman Empire back to its former glory. If that meant crushing all of the German princes, well, so be it.",
+									"TextRect": {
+										"x": 975,
+										"y": 1180,
+										"width": 830,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/1/outro/%d.png",
+							"Sound": "barbarossa1_outro",
+							"Slides": [
+								{
+									"Duration" : 7.15,
+									"TextFadeDuration" : 8.33,
+									"ImageRect": {
+										"x": 1150,
+										"y": 385,
+										"width": 1929,
+										"height": 1519
+									},
+									"String" : "They have called Barbarossa the scourge of Europe. But he was as skilled a diplomat as he was a warrior.",
+									"TextRect": {
+										"x": 1130,
+										"y": 386,
+										"width": 1500,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 19.79,
+									"TextFadeDuration" : 18.58,
+									"ImageRect": {
+										"x": 880,
+										"y": 810,
+										"width": 1348,
+										"height": 1078
+									},
+									"String" : "He united Germany with more than just the sword. He established a set of legal codes known as the Land Peaces. He helped the hungry by fixing an official price for grain after every harvest. The provinces of Germany quickly became the wealthiest and most powerful in Europe.",
+									"TextRect": {
+										"x": 1000,
+										"y": 420,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 8.21,
+									"TextFadeDuration" : 6.36,
+									"ImageRect": {
+										"x": 850,
+										"y": 685,
+										"width": 2093,
+										"height": 1197
+									},
+									"String" : "The Holy Roman Empire was so successful, in fact, that it quickly overgrew its boundaries.",
+									"TextRect": {
+										"x": 1740,
+										"y": 525,
+										"width": 1280,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/2/intro/%d.png",
+							"Sound": "barbarossa2_intro",
+							"Slides": [
+								{
+									"Duration" : 13.80,
+									"TextFadeDuration" : 11.99,
+									"ImageRect": {
+										"x": 1460,
+										"y": 780,
+										"width": 1519,
+										"height": 1106
+									},
+									"String" : "The empire was in full bloom, and her population was rapidly expanding. The Germans felled forests, drained marshlands, and reclaimed land from the sea itself. But there was still not enough space.",
+									"TextRect": {
+										"x": 1000,
+										"y": 430,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.46,
+									"TextFadeDuration" : 11.98,
+									"ImageRect": {
+										"x": 1080,
+										"y": 240,
+										"width": 2034,
+										"height": 1670
+									},
+									"String" : "Bringing the vastness of Poland into the empire would ease the pressure on the empire's borders.",
+									"TextRect": {
+										"x": 920,
+										"y": 1280,
+										"width": 900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.83,
+									"TextFadeDuration" : 13.09,
+									"ImageRect": {
+										"x": 1550,
+										"y": 750,
+										"width": 1425,
+										"height": 1134
+									},
+									"String" : "To deal with Poland, Barbarossa called up one of his mightiest vassals, Henry the Lion.  Henry was a powerful prince of Saxony, and his decadent palaces outshown the emperor's own.",
+									"TextRect": {
+										"x": 980,
+										"y": 460,
+										"width": 1940,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.77,
+									"TextFadeDuration" : 7.96,
+									"ImageRect": {
+										"x": 750,
+										"y": 300,
+										"width": 2179,
+										"height": 1596
+									},
+									"String" : "While he swore fealty to Barbarossa, some questioned whether Henry the Lion did not want the Empire for his own.",
+									"TextRect": {
+										"x": 935,
+										"y": 550,
+										"width": 1665,
+										"height": 567
+									}
+								},
+								{
+									"Duration" : 13.10,
+									"TextFadeDuration" : 8.65,
+									"ImageRect": {
+										"x": 860,
+										"y": 765,
+										"width": 1957,
+										"height": 1131
+									},
+									"String" : "By ordering Henry the Lion to aid in the subjugation of Poland, Barbarossa meant to test his oath of allegiance once and for all.",
+									"TextRect": {
+										"x": 1450,
+										"y": 525,
+										"width": 1480,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/2/outro/%d.png",
+							"Sound": "barbarossa2_outro",
+							"Slides": [
+								{
+									"Duration" : 17.13,
+									"TextFadeDuration" : 18.71,
+									"ImageRect": {
+										"x": 820,
+										"y": 245,
+										"width": 1283,
+										"height": 1340
+									},
+									"String" : "Henry expected to be drawn and quartered, the usual fate of traitors in those times. But Barbarossa recognized the potential for a strong ally and officially forgave him, provided that Henry the Lion would swear to support Barbarossa from now on.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1580,
+										"width": 1990,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 3.50,
+									"TextFadeDuration" : 2.65,
+									"ImageRect": {
+										"x": 1710,
+										"y": 300,
+										"width": 1320,
+										"height": 1607
+									},
+									"String" : "Amazingly, Henry agreed.",
+									"TextRect": {
+										"x": 1060,
+										"y": 1245,
+										"width": 678,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 21.90,
+									"TextFadeDuration" : 15.51,
+									"ImageRect": {
+										"x": 770,
+										"y": 670,
+										"width": 2020,
+										"height": 1215
+									},
+									"String" : "Germany was unified, and Henry the Lion was pacified. But the Holy Roman Empire was not complete. Harkening back to Charlemagne, the empire claimed ownership of Italy, and especially Rome.",
+									"TextRect": {
+										"x": 1040,
+										"y": 470,
+										"width": 1930,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/3/intro/%d.png",
+							"Sound": "barbarossa3_intro",
+							"Slides": [
+								{
+									"Duration" : 15.04,
+									"TextFadeDuration" : 14.17,
+									"ImageRect": {
+										"x": 670,
+										"y": 130,
+										"width": 1797,
+										"height": 1794
+									},
+									"String" : "In Rome, the pope firmly believed that it was the church, not the emperor, who was the ultimate authority for the empire. Barbarossa could not convince the pope to see things his way, so he appointed his own pope.",
+									"TextRect": {
+										"x": 1500,
+										"y": 550,
+										"width": 1530,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.43,
+									"TextFadeDuration" : 6.47,
+									"ImageRect": {
+										"x": 1458,
+										"y": 265,
+										"width": 1547,
+										"height": 1236
+									},
+									"String" : "This too was not enough, for pope and antipope promptly excommunicated each other.",
+									"TextRect": {
+										"x": 1420,
+										"y": 1580,
+										"width": 1320,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 14.09,
+									"TextFadeDuration" : 13.88,
+									"ImageRect": {
+										"x": 900,
+										"y": 270,
+										"width": 2120,
+										"height": 1607
+									},
+									"String" : "In the end, Barbarossa had to resort again to politics at the point of a lance. If the pope would not listen to reason, then perhaps he would concede with two thousand German knights pouring down the Italian peninsula.",
+									"TextRect": {
+										"x": 1000,
+										"y": 520,
+										"width": 1300,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.85,
+									"TextFadeDuration" : 10.44,
+									"ImageRect": {
+										"x": 840,
+										"y": 280,
+										"width": 1866,
+										"height": 1474
+									},
+									"String" : "The greatest of the northern cities, the virtual capital of Lombardy, was Milan. The lords of Milan were as proud as they were belligerent.",
+									"TextRect": {
+										"x": 1970,
+										"y": 1650,
+										"width": 1040,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.66,
+									"TextFadeDuration" : 17.62,
+									"ImageRect": {
+										"x": 1810,
+										"y": 180,
+										"width": 1008,
+										"height": 1724
+									},
+									"String" : "Barbarossa was determined to raze Milan to the ground as a warning to all the Italian city-states, and particularly the pope in Rome. The message was clear: He, Frederick Barbarossa, was the one and true Holy Roman Emperor.",
+									"TextRect": {
+										"x": 1080,
+										"y": 950,
+										"width": 830,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/3/outro/%d.png",
+							"Sound": "barbarossa3_outro",
+							"Slides": [
+								{
+									"Duration" : 11.47,
+									"TextFadeDuration" : 11.23,
+									"ImageRect": {
+										"x": 830,
+										"y": 575,
+										"width": 2069,
+										"height": 1351
+									},
+									"String" : "Barbarossa was not kind to the Milanese. In response to one attempt at negotiations during the siege, he sent six Italians marching back to the city.",
+									"TextRect": {
+										"x": 1000,
+										"y": 430,
+										"width": 1900,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.15,
+									"TextFadeDuration" : 7.55,
+									"ImageRect": {
+										"x": 870,
+										"y": 400,
+										"width": 1820,
+										"height": 1470
+									},
+									"String" : "Five had been blinded, but the sixth only had his nose cut off so that he could lead the other five.",
+									"TextRect": {
+										"x": 1350,
+										"y": 480,
+										"width": 1230,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 19.85,
+									"TextFadeDuration" : 15.12,
+									"ImageRect": {
+										"x": 900,
+										"y": 320,
+										"width": 2168,
+										"height": 1600
+									},
+									"String" : "Northern Italy had been mercilessly conquered and placed under Imperial governance. But Italy would not submit. If anything, the destruction of Milan made the Italian cities even more incensed at their would-be emperor.",
+									"TextRect": {
+										"x": 1400,
+										"y": 440,
+										"width": 1285,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/4/intro/%d.png",
+							"Sound": "barbarossa4_intro",
+							"Slides": [
+								{
+									"Duration" : 20.87,
+									"TextFadeDuration" : 16.71,
+									"ImageRect": {
+										"x": 740,
+										"y": 680,
+										"width": 1817,
+										"height": 1232
+									},
+									"String" : "As long as Barbarossa's knights were present, peace endured. But the emperor could not be everywhere at once. Whenever he went to Italy, Germany would flare up, and when Barbarossa returned to Germany the Italians began plotting again.",
+									"TextRect": {
+										"x": 1050,
+										"y": 400,
+										"width": 1750,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 10.52,
+									"TextFadeDuration" : 10.38,
+									"ImageRect": {
+										"x": 840,
+										"y": 210,
+										"width": 1565,
+										"height": 1089
+									},
+									"String" : "Milan had fallen, but the remainder of the Italian cities joined together in a confederation known as the Lombard League for the purpose of defeating Barbarossa.",
+									"TextRect": {
+										"x": 1150,
+										"y": 1400,
+										"width": 1730,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.80,
+									"TextFadeDuration" : 8.56,
+									"ImageRect": {
+										"x": 1710,
+										"y": 350,
+										"width": 1292,
+										"height": 1530
+									},
+									"String" : "If Barbarossa intended to make Italy part of the Holy Roman Empire, he would have to conquer the Lombard League city by city.",
+									"TextRect": {
+										"x": 950,
+										"y": 970,
+										"width": 830,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 11.41,
+									"TextFadeDuration" : 7.41,
+									"ImageRect": {
+										"x": 910,
+										"y": 620,
+										"width": 2072,
+										"height": 1252
+									},
+									"String" : "But Barbarossa still had a secret weapon: Henry the Lion and his seasoned troops.",
+									"TextRect": {
+										"x": 1400,
+										"y": 500,
+										"width": 1270,
+										"height": 300
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/4/outro/%d.png",
+							"Sound": "barbarossa4_outro",
+							"Slides": [
+								{
+									"Duration" : 12.71,
+									"TextFadeDuration" : 10.55,
+									"ImageRect": {
+										"x": 870,
+										"y": 690,
+										"width": 2011,
+										"height": 1190
+									},
+									"String" : "Henry the Lion was immediately banished to England. Separated from his wealth and army, there was little more he could do to plague Barbarossa.",
+									"TextRect": {
+										"x": 1060,
+										"y": 480,
+										"width": 1870,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 5.54,
+									"TextFadeDuration" : 5.6,
+									"ImageRect": {
+										"x": 1610,
+										"y": 250,
+										"width": 1397,
+										"height": 1131
+									},
+									"String" : "After six campaigns down to Italy, Barbarossa was weary of crossing the Alps.",
+									"TextRect": {
+										"x": 950,
+										"y": 1550,
+										"width": 1950,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 9.17,
+									"TextFadeDuration" : 8.2,
+									"ImageRect": {
+										"x": 1480,
+										"y": 980,
+										"width": 1509,
+										"height": 928
+									},
+									"String" : "The fighting ended with the signing of the Treaty of Constance, which said effectively that the emperor and the pope were equals.",
+									"TextRect": {
+										"x": 1050,
+										"y": 520,
+										"width": 1880,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 7.21,
+									"TextFadeDuration" : 8.21,
+									"ImageRect": {
+										"x": 1790,
+										"y": 300,
+										"width": 1208,
+										"height": 1537
+									},
+									"String" : "It was a tenuous peace, and one that seemed unlikely to endure when suddenly the pope died.",
+									"TextRect": {
+										"x": 1035,
+										"y": 780,
+										"width": 850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.81,
+									"TextFadeDuration" : 13.83,
+									"ImageRect": {
+										"x": 1420,
+										"y": 580,
+										"width": 1575,
+										"height": 1278
+									},
+									"String" : "The new pope was less interested in squabbling with the emperor than he was in events down south. You see, the Europeans were being driven out of the Holy Land. It was time for another Crusade.",
+									"TextRect": {
+										"x": 1010,
+										"y": 430,
+										"width": 1900,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/5/intro/%d.png",
+							"Sound": "barbarossa5_intro",
+							"Slides": [
+								{
+									"Duration" : 13.02,
+									"TextFadeDuration" : 12.28,
+									"ImageRect": {
+										"x": 860,
+										"y": 470,
+										"width": 1978,
+										"height": 1411
+									},
+									"String" : "The Holy Roman Empire was complete and, for the moment, both Germany and Italy swore fealty to Barbarossa. Alas, the peace was not to endure.",
+									"TextRect": {
+										"x": 1000,
+										"y": 400,
+										"width": 1970,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.96,
+									"TextFadeDuration" : 14.22,
+									"ImageRect": {
+										"x": 930,
+										"y": 680,
+										"width": 1572,
+										"height": 1225
+									},
+									"String" : "The Crusader states in Palestine were crumbling. A Saracen king named Saladin had evicted virtually every Crusader from their castle. The Pope called for a new Crusade, before the Holy Land became Saracen once again.",
+									"TextRect": {
+										"x": 1080,
+										"y": 440,
+										"width": 1850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.08,
+									"TextFadeDuration" : 12.94,
+									"ImageRect": {
+										"x": 1530,
+										"y": 450,
+										"width": 1425,
+										"height": 1432
+									},
+									"String" : "Remarkably, Barbarossa agreed to undertake this new Crusade for the pope he had fought so hard against. King Philip of France and England's Richard the Lionhearted had already boarded ships bound for the Middle East.",
+									"TextRect": {
+										"x": 1000,
+										"y": 690,
+										"width": 850,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.40,
+									"TextFadeDuration" : 6.7,
+									"ImageRect": {
+										"x": 770,
+										"y": 350,
+										"width": 2346,
+										"height": 1189
+									},
+									"String" : "But Barbarossa's army was the largest by far, and there wasn't a fleet in Europe that could transport it.",
+									"TextRect": {
+										"x": 1160,
+										"y": 1500,
+										"width": 1720,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 8.27,
+									"TextFadeDuration" : 7.68,
+									"ImageRect": {
+										"x": 785,
+										"y": 230,
+										"width": 1874,
+										"height": 1589
+									},
+									"String" : "The emperor would have to march overland, to Constantinople and through the land of the Turks to reach the rendezvous in Jerusalem.",
+									"TextRect": {
+										"x": 1640,
+										"y": 1620,
+										"width": 1420,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 15.19,
+									"TextFadeDuration" : 14.49,
+									"ImageRect": {
+										"x": 840,
+										"y": 340,
+										"width": 1586,
+										"height": 1236
+									},
+									"String" : "Constantinople was the capitol of the Byzantine Empire and one of the most glorious cities on the globe. Barbarossa's army would be able to rest and resupply in Byzantium before it began the great march.",
+									"TextRect": {
+										"x": 1000,
+										"y": 1600,
+										"width": 1800,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/5/outro/%d.png",
+							"Sound": "barbarossa5_outro",
+							"Slides": [
+								{
+									"Duration" : 24.13,
+									"TextFadeDuration" : 22.11,
+									"ImageRect": {
+										"x": 960,
+										"y": 440,
+										"width": 1831,
+										"height": 1454
+									},
+									"String" : "Barbarossa's weary army had marched for hundreds of miles through the cracked mountains in the heat of July. So when it stumbled upon the Göksu River, the men were astonished and grateful. Barbarossa himself could not resist plunging into the cold water without even pausing to remove his armor.",
+									"TextRect": {
+										"x": 1380,
+										"y": 380,
+										"width": 1650,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 5.58,
+									"TextFadeDuration" : 5.74,
+									"ImageRect": {
+										"x": 950,
+										"y": 550,
+										"width": 2062,
+										"height": 1330
+									},
+									"String" : "To the disbelief of the surviving troops, Barbarossa drowned.",
+									"TextRect": {
+										"x": 1050,
+										"y": 600,
+										"width": 1400,
+										"height": 200
+									}
+								},
+								{
+									"Duration" : 21.67,
+									"TextFadeDuration" : 22.32,
+									"ImageRect": {
+										"x": 710,
+										"y": 820,
+										"width": 2062,
+										"height": 1078
+									},
+									"String" : "Some said the emperor could not swim in his plate armor. Others believed the sixty-seven-year-old heart had finally given out. Regardless of the exact cause of death, Barbarossa's Crusade ended there, on June 10, 1190. The Holy Roman Emperor was gone.",
+									"TextRect": {
+										"x": 1000,
+										"y": 440,
+										"width": 1880,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/6/intro/%d.png",
+							"Sound": "barbarossa6_intro",
+							"Slides": [
+								{
+									"Duration" : 12.85,
+									"TextFadeDuration" : 13.34,
+									"ImageRect": {
+										"x": 1420,
+										"y": 220,
+										"width": 1698,
+										"height": 1341
+									},
+									"String" : "Barbarossa's soldiers were devastated. Several knights committed suicide. Others converted and joined the Saracens, so convinced were they that God Himself had deserted them.",
+									"TextRect": {
+										"x": 1020,
+										"y": 1510,
+										"width": 1800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 6.73,
+									"TextFadeDuration" : 6.34,
+									"ImageRect": {
+										"x": 890,
+										"y": 350,
+										"width": 2355,
+										"height": 1518
+									},
+									"String" : "However, a handful of knights were not yet willing to board a ship bound for Europe.",
+									"TextRect": {
+										"x": 1380,
+										"y": 450,
+										"width": 1520,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 12.21,
+									"TextFadeDuration" : 12.37,
+									"ImageRect": {
+										"x": 1720,
+										"y": 250,
+										"width": 1381,
+										"height": 1634
+									},
+									"String" : "The body of mighty Barbarossa was fished out of the river, pickled in vinegar, and sealed in a barrel. The army of the Holy Roman Empire would not be joining in the Crusade.",
+									"TextRect": {
+										"x": 980,
+										"y": 480,
+										"width": 1200,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.90,
+									"TextFadeDuration" : 11.90,
+									"ImageRect": {
+										"x": 720,
+										"y": 450,
+										"width": 1866,
+										"height": 1425
+									},
+									"String" : "Yet there was still a chance for a small victory. The surviving knights vowed to take Barbarossa's body on to Jerusalem. Even in death, the emperor would keep his promise!",
+									"TextRect": {
+										"x": 1060,
+										"y": 420,
+										"width": 1820,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/cam5/barbarossa_background.dds",
+							"SlideImageSequence": "textures/campaign/cam5/6/outro/%d.png",
+							"Sound": "barbarossa6_outro",
+							"Slides": [
+								{
+									"Duration" : 18.20,
+									"TextFadeDuration" : 20.07,
+									"ImageRect": {
+										"x": 710,
+										"y": 80,
+										"width": 1530,
+										"height": 1810
+									},
+									"String" : "There is a legend concerning every great king, from Arthur on through Barbarossa, that says the king will return someday when his country needs him. Myths and legends about the sleeping emperor were passed down in German folktales. The Holy Roman Empire did not endure.",
+									"TextRect": {
+										"x": 1630,
+										"y": 430,
+										"width": 1380,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 7.61,
+									"TextFadeDuration" : 7.63,
+									"ImageRect": {
+										"x": 670,
+										"y": 230,
+										"width": 2058,
+										"height": 1404
+									},
+									"String" : "She fell back into a patchwork of tiny nations. Some would say Barbarossa's rule was a failure.",
+									"TextRect": {
+										"x": 1500,
+										"y": 1700,
+										"width": 1600,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.54,
+									"TextFadeDuration" : 7.63,
+									"ImageRect": {
+										"x": 1690,
+										"y": 255,
+										"width": 1355,
+										"height": 1481
+									},
+									"String" : "But is it not a greater testament to the man that it was the force of his will alone that held the empire together?",
+									"TextRect": {
+										"x": 1200,
+										"y": 1700,
+										"width": 1700,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 8.73,
+									"TextFadeDuration" : 9.5,
+									"ImageRect": {
+										"x": 890,
+										"y": 320,
+										"width": 1579,
+										"height": 1393
+									},
+									"String" : "And what of Henry the Lion?  With Barbarossa gone, there was nothing stopping him from returning to the Holy Roman Empire.",
+									"TextRect": {
+										"x": 1500,
+										"y": 1660,
+										"width": 1250,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 13.98,
+									"TextFadeDuration" : 7.6,
+									"ImageRect": {
+										"x": 1420,
+										"y": 410,
+										"width": 1593,
+										"height": 1453
+									},
+									"String" : "But I am an old man now. What harm could I possibly do?",
+									"TextRect": {
+										"x": 1000,
+										"y": 510,
+										"width": 850,
+										"height": 200
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}

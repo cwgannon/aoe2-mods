@@ -1,0 +1,1170 @@
+{
+	"Scenarios": [
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/1/intro/%d.png",
+							"Sound": "attila1_intro",
+							"Slides": [
+								{
+									"Duration" : 12.13,
+									"TextFadeDuration" : 10.55,
+									"ImageRect": {
+										"x": 830,
+										"y": 705,
+										"width": 1495,
+										"height": 1180
+									},
+									"String" : "A severed head on a pike seemed such a grisly trophy to be displayed in the chapel at Châlons.  And yet it took me weeks before I got up the nerve to ask Father Armand why he kept it.",
+									"TextRect": {
+										"x": 1900,
+										"y": 320,
+										"width": 1040,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 25.46,
+									"TextFadeDuration" : 21.26,
+									"ImageRect": {
+										"x": 790,
+										"y": 350,
+										"width": 1215,
+										"height": 1594
+									},
+									"String" : "The ancient priest stared out the window for a long time, recalling days gone by.  'I was there,' he said finally.  'At the battle of the Catalaunian Fields... fighting alongside Aetius and Theodoric the Goth.'  I knew there had been a battle here, decades ago.  Peasants still overturn skeletons and broken shields with their plows from time to time.",
+									"TextRect": {
+										"x": 1750,
+										"y": 750,
+										"width": 1140,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 16.54,
+									"TextFadeDuration" : 13.81,
+									"ImageRect": {
+										"x": 1620,
+										"y": 540,
+										"width": 1477,
+										"height": 1455
+									},
+									"String" : "'Who was it, Father?'  I asked him.  'Who were you fighting?'  He turned back to regard me, paralyzing me in his old-man's stare.  'Attila the Hun,' he said.  And then he told me the story.",
+									"TextRect": {
+										"x": 1020,
+										"y": 380,
+										"width": 1040,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.23,
+									"TextFadeDuration" : 10.35,
+									"ImageRect": {
+										"x": 990,
+										"y": 900,
+										"width": 1805,
+										"height": 1104
+									},
+									"String" : "The Huns rode out from the wilderness sometime in the 400s, eager to feast on a Roman Empire weak from internal corruption and the expansion of other barbarian tribes.",
+									"TextRect": {
+										"x": 1380,
+										"y": 310,
+										"width": 1220,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 15.60,
+									"TextFadeDuration" : 13.86,
+									"ImageRect": {
+										"x": 990,
+										"y": 900,
+										"width": 1805,
+										"height": 1104
+									},
+									"String" : "It was the Huns who drove many of these other barbarians before them.  They were terrifying warriors from the steppes of Asia, their bodies disfigured from ritual scarring, their legs deformed from a near lifetime in the saddle.",
+									"TextRect": {
+										"x": 1380,
+										"y": 310,
+										"width": 1220,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 26.98,
+									"TextFadeDuration" : 19.0,
+									"ImageRect": {
+										"x": 880,
+										"y": 360,
+										"width": 1184,
+										"height": 1670
+									},
+									"String" : "Despite their fearsome aspect, the Huns might have been little more than raiders, had it not been for the leadership of Attila. He called himself the Scourge of God.  Attila and his brother Bleda led the Huns not just to raid, but to devastate Scythia and Persia.",
+									"TextRect": {
+										"x": 1900,
+										"y": 700,
+										"width": 1080,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/1/outro/%d.png",
+							"Sound": "attila1_outro",
+							"Slides": [
+								{
+									"Duration" : 9.28,
+									"TextFadeDuration" : 9.26,
+									"ImageRect": {
+										"x": 900,
+										"y": 270,
+										"width": 1344,
+										"height": 1610
+									},
+									"String" : "I asked Father Armand more about this legendary Attila the Hun, whom the stories always treat as more of a monster than a man.",
+									"TextRect": {
+										"x": 2000,
+										"y": 420,
+										"width": 940,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 17.08,
+									"TextFadeDuration" : 16.1,
+									"ImageRect": {
+										"x": 690,
+										"y": 350,
+										"width": 1439,
+										"height": 1684
+									},
+									"String" : "'He was a man,' the priest said, 'but he did not look like the Romans, nor did he worship the Roman god.  That was the cause of all that was to follow.'  Father Armand shivered as if from the cold breeze that blew in from the chapel's open windows.  ",
+									"TextRect": {
+										"x": 1850,
+										"y": 350,
+										"width": 1130,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 28.07,
+									"TextFadeDuration" : 24.1,
+									"ImageRect": {
+										"x": 690,
+										"y": 350,
+										"width": 1439,
+										"height": 1684
+									},
+									"String" : "'Kingship among the barbarians was not by divine right or lineage, but by who had the strongest will.  Attila was the strongest of the Huns, and he reinforced his position by brandishing a rusty old blade and proclaiming it to be the Sword of Mars, the old Roman god of war. Attila had a custom of fiercely rolling his eyes, as if he wished to enjoy the terror which he inspired....'",
+									"TextRect": {
+										"x": 1600,
+										"y": 350,
+										"width": 1430,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 30.67,
+									"TextFadeDuration" : 26.42,
+									"ImageRect": {
+										"x": 1230,
+										"y": 530,
+										"width": 1901,
+										"height": 1565
+									},
+									"String" : "'He had a power over other men, so that many chose to join him.  Many foreigners joined his council, Scythians and Burgundians and Goths.  Most notable among these was the son of a prominent Roman family sent as a hostage to ensure peace between Romans and Huns.  The name of this boy was Flavius Aetius, a name not soon to be forgotten.'",
+									"TextRect": {
+										"x": 940,
+										"y": 400,
+										"width": 1340,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/2/intro/%d.png",
+							"Sound": "attila2_intro",
+							"Slides": [
+								{
+									"Duration" : 15.60,
+									"TextFadeDuration" : 14.1,
+									"ImageRect": {
+										"x": 1800,
+										"y": 470,
+										"width": 1306,
+										"height": 1393
+									},
+									"String" : "Now that the memories had stirred, Father Armand seemed eager to tell his tale.  He explained how the Huns, like the other barbarians, had a style of warfare dramatically different from the ancient Romans or my own Franks.  ",
+									"TextRect": {
+										"x": 980,
+										"y": 710,
+										"width": 800,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.26,
+									"TextFadeDuration" : 19.34,
+									"ImageRect": {
+										"x": 645,
+										"y": 390,
+										"width": 1481,
+										"height": 1512
+									},
+									"String" : "The Huns would charge as one group, often firing arrows as they came, and then suddenly retreat again.  For the nations of Europe, who were used to forming up lines and columns and even issuing challenges for personal combat, this was an aberration.  They were unable to comprehend warfare in this manner.",
+									"TextRect": {
+										"x": 2080,
+										"y": 630,
+										"width": 920,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 14.21,
+									"TextFadeDuration" : 11.0,
+									"ImageRect": {
+										"x": 1280,
+										"y": 350,
+										"width": 1999,
+										"height": 1610
+									},
+									"String" : "Barbarians did not conquer lands.  They did not try and hold and colonize the cities they attacked.  Instead, they ravaged and pillaged, and took their loot back to their camps.",
+									"TextRect": {
+										"x": 980,
+										"y": 320,
+										"width": 1200,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 20.72,
+									"TextFadeDuration" : 12.16,
+									"ImageRect": {
+										"x": 990,
+										"y": 850,
+										"width": 1610,
+										"height": 1043
+									},
+									"String" : "By that time, there were two Roman Empires, the government having decided that the Roman lands were simply too vast for one city to manage effectively.  Attila and the Huns began a series of raids into the Eastern Empire.",
+									"TextRect": {
+										"x": 1880,
+										"y": 380,
+										"width": 1140,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/2/outro/%d.png",
+							"Sound": "attila2_outro",
+							"Slides": [
+								{
+									"Duration" : 25.91,
+									"TextFadeDuration" : 27.0,
+									"ImageRect": {
+										"x": 920,
+										"y": 750,
+										"width": 2023,
+										"height": 1194
+									},
+									"String" : "The Roman city of Naissus was erased from the earth.  The Huns so devastated the place that when the Roman ambassadors passed through to meet with Attila, they had to camp outside the city on the river. The riverbanks were covered with human bones, and the stench of death was so great that no one could enter the city. Many cities of Europe would soon suffer the same fate.",
+									"TextRect": {
+										"x": 1180,
+										"y": 370,
+										"width": 1540,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 5.75,
+									"TextFadeDuration" : 4.76,
+									"ImageRect": {
+										"x": 1630,
+										"y": 350,
+										"width": 1488,
+										"height": 1638
+									},
+									"String" : "The ambassadors that the Romans sent to Attila concealed an assassination attempt.",
+									"TextRect": {
+										"x": 1080,
+										"y": 400,
+										"width": 1520,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 12.63,
+									"TextFadeDuration" : 10.61,
+									"ImageRect": {
+										"x": 550,
+										"y": 590,
+										"width": 1607,
+										"height": 1383
+									},
+									"String" : "Somehow, Attila knew of the attempt on his life, and sent the terrified assassin back to his Emperor, with the gold he had been paid to do the deed in a sack tied to his neck.",
+									"TextRect": {
+										"x": 1770,
+										"y": 400,
+										"width": 1200,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.07,
+									"TextFadeDuration" : 10.73,
+									"ImageRect": {
+										"x": 1310,
+										"y": 970,
+										"width": 1561,
+										"height": 861
+									},
+									"String" : "Following such a demonstration, the Huns had no difficulty convincing the Eastern Roman Empire to start paying them a tribute, protection money to stave off the inevitable Hun invasion.",
+									"TextRect": {
+										"x": 1400,
+										"y": 550,
+										"width": 1200,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {							
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/3/intro/%d.png",
+							"Sound": "attila3_intro",
+							"Slides": [
+								{
+									"Duration" : 20.89,
+									"TextFadeDuration" : 18.88,
+									"ImageRect": {
+										"x": 1330,
+										"y": 670,
+										"width": 1967,
+										"height": 1302
+									},
+									"String" : "By this time, the Romans had considerable experience dealing with barbarians.  They could civilize the raiders to some extent by offering them otherwise useless land on the Roman borders as a token tribute.  Before Attila, this tactic seemed to be working on the Huns, who settled on the Danube River valley.",
+									"TextRect": {
+										"x": 1040,
+										"y": 440,
+										"width": 1150,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 17.92,
+									"TextFadeDuration" : 15.62,
+									"ImageRect": {
+										"x": 1100,
+										"y": 420,
+										"width": 2018,
+										"height": 1602
+									},
+									"String" : "All that changed when Attila seized command.  He was much more aggressive and unpredictable than the previous Hunnic kings.  He demanded that the tributes from Rome be increased and when the Romans refused, Attila marched on the Eastern Roman Empire.",
+									"TextRect": {
+										"x": 920,
+										"y": 280,
+										"width": 2070,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 6.59,
+									"TextFadeDuration" : 4.87,
+									"ImageRect": {
+										"x": 1100,
+										"y": 420,
+										"width": 2018,
+										"height": 1602
+									},
+									"String" : "He marched on the great city of Constantinople, whose double walls had never fallen.",
+									"TextRect": {
+										"x": 1420,
+										"y": 280,
+										"width": 1270,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 18.04,
+									"TextFadeDuration" : 10.57,
+									"ImageRect": {
+										"x": 1350,
+										"y": 220,
+										"width": 1252,
+										"height": 1262
+									},
+									"String" : "Attila was done with raiding.  Now the Huns advanced slowly, eradicating everything in their path.  The Romans would reinstate the tribute, or they would be destroyed.",
+									"TextRect": {
+										"x": 1550,
+										"y": 1540,
+										"width": 980,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/3/outro/%d.png",
+							"Sound": "attila3_outro",
+							"Slides": [
+								{
+									"Duration" : 5.06,
+									"TextFadeDuration" : 5.0,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "'Who was this man?' I asked, 'to threaten the Roman emperor?'",
+									"TextRect": {
+										"x": 1300,
+										"y": 700,
+										"width": 1600,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 32.64,
+									"TextFadeDuration" : 31.55,
+									"ImageRect": {
+										"x": 1090,
+										"y": 980,
+										"width": 1849,
+										"height": 1019
+									},
+									"String" : "Titles such as 'Emperor' meant nothing to Huns.  Attila was not an appointed ruler, only the strongest among the Huns.  The amenities of his 'office' meant nothing to him.  While his chieftains and council ate off of silver plates, Attila’s own plate and goblet were hewn from simple wood.  His Scythian guards had jewels on their sword hilts and their cloaks were clasped with gold, but Attila showed no such affectations.",
+									"TextRect": {
+										"x": 1100,
+										"y": 390,
+										"width": 1820,
+										"height": 800
+									}
+								},
+								{
+									"Duration" : 26.01,
+									"TextFadeDuration" : 23.0,
+									"ImageRect": {
+										"x": 860,
+										"y": 300,
+										"width": 1397,
+										"height": 1467
+									},
+									"String" : "He was interested only in conquest.  Some said that he was trying to build a legacy to rival that of Alexander the Great.  All of the barbarians wanted to possess Rome, as if it would buy them instant legitimacy as a world-spanning Empire.  Unlike most of the other barbarians, however, Attila was actually going to get his chance.",
+									"TextRect": {
+										"x": 2230,
+										"y": 630,
+										"width": 870,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/4/intro/%d.png",
+							"Sound": "attila4_intro",
+							"Slides": [
+								{
+									"Duration" : 21.39,
+									"TextFadeDuration" : 18.56,
+									"ImageRect": {
+										"x": 1240,
+										"y": 630,
+										"width": 1698,
+										"height": 1393
+									},
+									"String" : "The Western Roman emperor had a sister named Honoria, who after weary years of confinement to her parlor, made the preposterous decision to send a letter to Attila the Hun.  She asked him to marry her.  One suspects Honoria did not know what she was getting into.",
+									"TextRect": {
+										"x": 1050,
+										"y": 460,
+										"width": 1350,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 24.29,
+									"TextFadeDuration" : 20.26,
+									"ImageRect": {
+										"x": 1050,
+										"y": 710,
+										"width": 1696,
+										"height": 1183
+									},
+									"String" : "Attila was plentifully supplied with wives, but he immediately saw the advantage that such a union could put him in.  Suddenly, his plans changed.  He would not invade the Eastern Roman Empire at Constantinople, but the Western Empire, at Rome.  Indeed, he claimed half of the Western Empire as his dowry.",
+									"TextRect": {
+										"x": 1100,
+										"y": 400,
+										"width": 1720,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 21.17,
+									"TextFadeDuration" : 17.44,
+									"ImageRect": {
+										"x": 1790,
+										"y": 490,
+										"width": 1180,
+										"height": 1117
+									},
+									"String" : "Attila sent the Huns to march across the Rhine River, and made alliances with the other barbarian chieftains.  Some, namely the Burgundians and Ostrogoths, joined the Hun confederation, while others, such as the Visigoths, sought to seek Roman favor by opposing the Huns.",
+									"TextRect": {
+										"x": 950,
+										"y": 800,
+										"width": 1070,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 10.69,
+									"TextFadeDuration" : 7.38,
+									"ImageRect": {
+										"x": 1330,
+										"y": 540,
+										"width": 1799,
+										"height": 1441
+									},
+									"String" : "When Attila entered Gaul, what we now call France, he could claim that he merely sought by force what was his by right of betrothal to Honoria.",
+									"TextRect": {
+										"x": 1060,
+										"y": 640,
+										"width": 1000,
+										"height": 400
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/4/outro/%d.png",
+							"Sound": "attila4_outro",
+							"Slides": [
+								{
+									"Duration" : 9.28,
+									"TextFadeDuration" : 9.0,
+									"ImageRect": {
+										"x": 1410,
+										"y": 160,
+										"width": 1222,
+										"height": 1166
+									},
+									"String" : "The old priest hung his head as he related what happened next, and I could tell the weight of the memories caused him great sorrow.",
+									"TextRect": {
+										"x": 1400,
+										"y": 1340,
+										"width": 1300,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 12.45,
+									"TextFadeDuration" : 9.43,
+									"ImageRect": {
+										"x": 880,
+										"y": 520,
+										"width": 1782,
+										"height": 1540
+									},
+									"String" : "Attila would stop at nothing until he reached his fiancée, Honoria, and his goal of ruling the Roman Empire.  The ravaging of Gaul was unprecedented.",
+									"TextRect": {
+										"x": 1350,
+										"y": 400,
+										"width": 1360,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.76,
+									"TextFadeDuration" : 14.1,
+									"ImageRect": {
+										"x": 880,
+										"y": 710,
+										"width": 1726,
+										"height": 1344
+									},
+									"String" : "People were tortured, their bodies torn asunder by wild horses, or their bones crushed under the weight of rolling wagons.  Their unburied limbs were abandoned on the public roads as prey to dogs.",
+									"TextRect": {
+										"x": 1300,
+										"y": 400,
+										"width": 1400,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 14.51,
+									"TextFadeDuration" : 12.82,
+									"ImageRect": {
+										"x": 830,
+										"y": 790,
+										"width": 2267,
+										"height": 1152
+									},
+									"String" : "Heads on stakes stretched from Gaul clear back to the Danube River, from whence the Huns had come.  They lay siege to Orleans, for Attila had learned much of siegecraft since he had faced the walls of Constantinople.",
+									"TextRect": {
+										"x": 1320,
+										"y": 480,
+										"width": 1280,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 15.16,
+									"TextFadeDuration" : 8.69,
+									"ImageRect": {
+										"x": 940,
+										"y": 800,
+										"width": 2080,
+										"height": 1210
+									},
+									"String" : "But as the Huns set to their fell task, a great cloud of dust appeared on the horizon.  Aetius and the Roman army had come.",
+									"TextRect": {
+										"x": 1420,
+										"y": 500,
+										"width": 1180,
+										"height": 420
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/5/intro/%d.png",
+							"Sound": "attila5_intro",
+							"Slides": [
+								{
+									"Duration" : 5.38,
+									"TextFadeDuration" : 5.82,
+									"ImageRect": {
+										"x": 910,
+										"y": 550,
+										"width": 2000,
+										"height": 1048
+									},
+									"String" : "'And now,' said Father Armand, 'is where I entered the story.'",
+									"TextRect": {
+										"x": 1480,
+										"y": 740,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 27.96,
+									"TextFadeDuration" : 24.44,
+									"ImageRect": {
+										"x": 1010,
+										"y": 300,
+										"width": 1061,
+										"height": 1323
+									},
+									"String" : "The battle between Hun and Roman was fought at the end of June, 451.  The Romans were commanded by Aetius, a brilliant and celebrated general who had been held hostage by Attila when he was a boy.  Aetius knew Attila and knew the Hunnic ways.  Since he had returned to the Western Empire, Aetius had done more than any man to keep Rome alive throughout the period of barbarian invasions.",
+									"TextRect": {
+										"x": 1940,
+										"y": 780,
+										"width": 1080,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 22.57,
+									"TextFadeDuration" : 19.13,
+									"ImageRect": {
+										"x": 1510,
+										"y": 200,
+										"width": 1005,
+										"height": 1208
+									},
+									"String" : "His army was not large enough to face Attila alone, so Aetius convinced tribes of the Alans and Visigoths to ally with him.  Even though these dubious allies had a common hatred of the Huns, it was still a remarkable achievement on Aetius' part to have drawn them into an effective military relationship.",
+									"TextRect": {
+										"x": 1300,
+										"y": 1400,
+										"width": 1520,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 19.65,
+									"TextFadeDuration" : 18.19,
+									"ImageRect": {
+										"x": 955,
+										"y": 1165,
+										"width": 2042,
+										"height": 898
+									},
+									"String" : "The Huns were eager for battle.  Attila's shamans looked at the entrails of cattle and the color of sheep bones, and prophesized that the Huns would meet defeat on the Catalaunian fields.  However, they also foresaw that the commander of the opposing force would be killed.",
+									"TextRect": {
+										"x": 1220,
+										"y": 560,
+										"width": 1550,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 6.43,
+									"TextFadeDuration" : 5.03,
+									"ImageRect": {
+										"x": 840,
+										"y": 810,
+										"width": 2319,
+										"height": 1295
+									},
+									"String" : "Attila must have thought this a fair trade because he brought battle to Aetius and the Goths.",
+									"TextRect": {
+										"x": 1250,
+										"y": 480,
+										"width": 1570,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 25.70,
+									"TextFadeDuration" : 19.98,
+									"ImageRect": {
+										"x": 1500,
+										"y": 412,
+										"width": 1631,
+										"height": 1542
+									},
+									"String" : "Before blood was drawn, Attila stood before his assembled troops clutching the sword of Mars in his fist.  He told them, 'It is a right of nature to glut the soul with vengeance.  I shall hurl the first spear at the foe.  If any man can stand at rest while Attila fights, he is a dead man.'",
+									"TextRect": {
+										"x": 1050,
+										"y": 620,
+										"width": 920,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/5/outro/%d.png",
+							"Sound": "attila5_outro",
+							"Slides": [
+								{
+									"Duration" : 36.31,
+									"TextFadeDuration" : 34.09,
+									"ImageRect": {
+										"x": 1260,
+										"y": 730,
+										"width": 1869,
+										"height": 1311
+									},
+									"String" : "It was a catastrophic battle, one of the largest and greatest the world has ever seen.  The stream was turned to a torrent by the rushing of blood.  I pity those that were forced to slake their thirst from it.  'Cadavera vero innumera', the Romans said afterwards.  'Truly countless bodies.'  Perhaps 300,000 men were left dead on the Catalaunian fields.  It is said the ghosts of those killed continued to fight for several days.",
+									"TextRect": {
+										"x": 900,
+										"y": 440,
+										"width": 1720,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 26.93,
+									"TextFadeDuration" : 31.0,
+									"ImageRect": {
+										"x": 1930,
+										"y": 400,
+										"width": 1222,
+										"height": 1481
+									},
+									"String" : "I passed within inches of the fell Hun king as he stalked the battlefield, trying to determine which of his chieftains and allies yet lived.  When he found me, huddled beneath my shield, I made my peace with God.  But Attila did not seek my decapitation.  He saw that I was a holy man, and ordered me to join his retinue of foreign advisors.  'That is how you know so much of the Huns,' I offered.",
+									"TextRect": {
+										"x": 950,
+										"y": 580,
+										"width": 1150,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 26.47,
+									"TextFadeDuration" : 24.35,
+									"ImageRect": {
+										"x": 900,
+										"y": 1000,
+										"width": 2149,
+										"height": 921
+									},
+									"String" : "The priest nodded. Despite the carnage, the outcome of the legendary battle was unclear.  Attila had lost much of his cavalry, but the Romans' entire army was destroyed.  For a time, no one knew if the Hun king would continue to pursue the hand of Honoria.  'But what of the prophecy?'  I asked.  'Did Aetius die on the battlefield?'",
+									"TextRect": {
+										"x": 1100,
+										"y": 470,
+										"width": 1630,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 19.50,
+									"TextFadeDuration" : 17.6,
+									"ImageRect": {
+										"x": 810,
+										"y": 480,
+										"width": 1673,
+										"height": 1544
+									},
+									"String" : "'Nay.  It was Theodoric the Goth, not Aetius, who died and fulfilled the prophecy.  Aetius knew that if he utterly destroyed the Huns, then the Visigoths would have no need for a Roman alliance and Rome would face yet another barbarian threat.",
+									"TextRect": {
+										"x": 1680,
+										"y": 530,
+										"width": 1240,
+										"height": 400
+									}
+								},
+								{
+									"Duration" : 18.21,
+									"TextFadeDuration" : 12.85,
+									"ImageRect": {
+										"x": 1650,
+										"y": 510,
+										"width": 1516,
+										"height": 1456
+									},
+									"String" : "And so, Aetius retired from military life, hoping that the outcome of the Catalaunian fields would leave the Huns and Goths in a stalemate, hoping that he had done enough to save his empire.  He had not.",
+									"TextRect": {
+										"x": 1320,
+										"y": 410,
+										"width": 1150,
+										"height": 900
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		},
+		{
+			"IntroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/6/intro/%d.png",
+							"Sound": "attila6_intro",
+							"Slides": [
+								{
+									"Duration" : 15.92,
+									"TextFadeDuration" : 12.82,
+									"ImageRect": {
+										"x": 1040,
+										"y": 360,
+										"width": 497,
+										"height": 1533
+									},
+									"String" : "As far as Attila was concerned, Honoria was waiting with open arms in Rome.  The very next year, partially recovered from his losses, Attila turned his attention to Italy.",
+									"TextRect": {
+										"x": 1600,
+										"y": 900,
+										"width": 1200,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 15.60,
+									"TextFadeDuration" : 12.79,
+									"ImageRect": {
+										"x": 1580,
+										"y": 390,
+										"width": 1540,
+										"height": 1467
+									},
+									"String" : "The Huns crossed over the Alps, and moved down the Italian peninsula, launching another great invasion that terrorized the inhabitants of the Western Roman Empire.  He meant to take Rome, and crown himself emperor.",
+									"TextRect": {
+										"x": 980,
+										"y": 350,
+										"width": 850,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 18.06,
+									"TextFadeDuration" : 12.13,
+									"ImageRect": {
+										"x": 720,
+										"y": 630,
+										"width": 1838,
+										"height": 1323
+									},
+									"String" : "This was not the Rome of Caesar, mind you, but a withering Rome, beaten from earthquakes and barbarian wars.  And this time, there was no General Aetius to hold off the Huns' savagery.",
+									"TextRect": {
+										"x": 1840,
+										"y": 460,
+										"width": 1050,
+										"height": 500
+									}
+								}
+							]
+						}
+					}
+				]
+			},
+			"OutroSequence": {
+				"SequenceItems": [
+					{
+						"Type": "SlideShow",
+						"Data": {
+							"SlideBackgroundImage": "textures/campaign/xcam1/attila_background.dds",
+							"SlideImageSequence": "textures/campaign/xcam1/6/outro/%d.png",
+							"Sound": "attila6_outro",
+							"Slides": [
+								{
+									"Duration" : 20.61,
+									"TextFadeDuration" : 18.57,
+									"ImageRect": {
+										"x": 1450,
+										"y": 660,
+										"width": 1778,
+										"height": 1358
+									},
+									"String" : "The city of Aquileia at the tip of the Adriatic was wiped off the face of the earth. The fugitives from that pitiful city took refuge among the islands, marshes, and lagoons at the head of the Adriatic Sea and there founded a state that afterward grew into the republic of Venice.",
+									"TextRect": {
+										"x": 1000,
+										"y": 420,
+										"width": 1300,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 3.34,
+									"TextFadeDuration" : 1.86,
+									"ImageRect": {
+										"x": 990,
+										"y": 720,
+										"width": 1493,
+										"height": 1225
+									},
+									"String" : "'But what of the Pope?' I asked.",
+									"TextRect": {
+										"x": 1600,
+										"y": 600,
+										"width": 1200,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 11.98,
+									"TextFadeDuration" : 8.42,
+									"ImageRect": {
+										"x": 1525,
+										"y": 725,
+										"width": 1558,
+										"height": 1211
+									},
+									"String" : "No one knows what Saint Leo said to the Hunnic King, but that very day Attila turned his army around and started back for the Hun lands on the Danube.",
+									"TextRect": {
+										"x": 1000,
+										"y": 420,
+										"width": 1170,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 11.81,
+									"TextFadeDuration" : 10.56,
+									"ImageRect": {
+										"x": 865,
+										"y": 755,
+										"width": 1544,
+										"height": 1225
+									},
+									"String" : "Attila the Hun died shortly thereafter.  Since he had failed to claim Rome, he could not have Honoria, and instead brought another wife into his harem. ",
+									"TextRect": {
+										"x": 1300,
+										"y": 550,
+										"width": 1220,
+										"height": 900
+									}
+								},
+								{
+									"Duration" : 13.93,
+									"TextFadeDuration" : 12.67,
+									"ImageRect": {
+										"x": 832,
+										"y": 850,
+										"width": 1453,
+										"height": 1155
+									},
+									"String" : "On his wedding night, Attila suffered a nosebleed and choked to death.  For a man who had boasted that 'where my horse has trodden, no grass grows' it was a curiously anti-climactic death.",
+									"TextRect": {
+										"x": 1360,
+										"y": 500,
+										"width": 1300,
+										"height": 500
+									}
+								},
+								{
+									"Duration" : 16.16,
+									"TextFadeDuration" : 14.37,
+									"ImageRect": {
+										"x": 1360,
+										"y": 745,
+										"width": 1075,
+										"height": 1239
+									},
+									"String" : "The Hunnic warriors cut their hair and gashed their faces, so that the king should be lamented, not by tears of maidens, but by the blood of warriors.  Attila's bloody reign of conquest lasted only eight long years.",
+									"TextRect": {
+										"x": 1360,
+										"y": 450,
+										"width": 1250,
+										"height": 700
+									}
+								},
+								{
+									"Duration" : 25.32,
+									"TextFadeDuration" : 18.22,
+									"ImageRect": {
+										"x": 1750,
+										"y": 860,
+										"width": 1425,
+										"height": 907
+									},
+									"String" : "Father Armand was silent for a long time.  He glanced over at the head on a stake.  'A Hunnic trophy,' he said.  'I think the man was a Visigoth.  He died at the Battle of the Catalaunian Fields.  I keep it here so that I may see it every day and remember.'  'Remember what, Father?' I asked him.",
+									"TextRect": {
+										"x": 1360,
+										"y": 450,
+										"width": 1320,
+										"height": 300
+									}
+								},
+								{
+									"Duration" : 14.39,
+									"TextFadeDuration" : 12.33,
+									"ImageRect": {
+										"x": 855,
+										"y": 700,
+										"width": 1909,
+										"height": 1352
+									},
+									"String" : "The scent of a burning village.  The sound of butchery.  The way peasants would flee before the Hun riders.  The way we would ride them down.  The way it felt to conquer alongside Attila and the Huns.",
+									"TextRect": {
+										"x": 1360,
+										"y": 450,
+										"width": 1300,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 7.37,
+									"TextFadeDuration" : 4.6,
+									"ImageRect": {
+										"x": 1690,
+										"y": 700,
+										"width": 1439,
+										"height": 1292
+									},
+									"String" : "He leaned so close I could feel his breath.  'Sometimes...",
+									"TextRect": {
+										"x": 1360,
+										"y": 450,
+										"width": 1300,
+										"height": 600
+									}
+								},
+								{
+									"Duration" : 1.84,
+									"TextFadeDuration" : 0.75,
+									"ImageRect": {
+										"x": 1690,
+										"y": 700,
+										"width": 1439,
+										"height": 1292
+									},
+									"String" : "...I miss it.'",
+									"TextRect": {
+										"x": 1360,
+										"y": 450,
+										"width": 1300,
+										"height": 600
+									}
+								}
+							]
+						}
+					}
+				]
+			}
+		}
+	]
+}
